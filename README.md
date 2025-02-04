@@ -9,8 +9,7 @@ Contains code for generating **training, validation, and test splits** from **ni
 
 ### 📂 Fine-Tuning  
 Includes Jupyter notebooks for step-by-step fine-tuning of:  
-- **BERT**  
-- **SciBERT**  
+- **BERT SciBERT RoBERTa** 
 - **GPT**  
 - **LLaMA**  
 
