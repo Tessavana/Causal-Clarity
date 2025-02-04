@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Are You for Real? Perceptions of Authenticity Are Systematically Biased and Not Accurate</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Erica</forename><forename type="middle">R</forename><surname>Bailey</surname></persName>
+							<email>erica.bailey@columbia.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Aharon</forename><surname>Levy</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Columbia Business School</orgName>
+								<orgName type="institution">Columbia University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Management</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Management</orgName>
+								<orgName type="institution">Columbia University</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Are You for Real? Perceptions of Authenticity Are Systematically Biased and Not Accurate</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2CD6E93650B43D73C3C6315E0EC90769</idno>
+					<idno type="DOI">10.1177/09567976211056623</idno>
+					<note type="submission">Received 2/11/21; Revision accepted 9/21/21</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-05-06T13:32+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>perception</term>
+					<term>individual differences</term>
+					<term>social cognition</term>
+					<term>authenticity</term>
+					<term>open data</term>
+					<term>open materials</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s>In the 2016 presidential election, Donald Trump was dubbed the "authenticity candidate" despite a prolific record of deception <ref type="bibr" target="#b10">(Hahl et al., 2018)</ref>.</s><s>On the other hand, his opponent Hillary Clinton was accused of coming across as cold, calculated, and inauthentic-even being described as "at pains to convince Americans that she is a real person" <ref type="bibr" target="#b4">(Byers, 2015)</ref>.</s><s>The perception that one is authentic is nontrivial-individuals who are perceived to be authentic are more liked <ref type="bibr" target="#b16">(Kernis &amp; Goldman, 2005;</ref><ref type="bibr" target="#b24">Liu &amp; Perrewe, 2006</ref>) and more trusted <ref type="bibr" target="#b37">(Wang &amp; Hsieh, 2013)</ref>.</s><s>Indeed, authenticity is considered to be the "gold standard" for leaders (Ibarra, 2015, p. 54).</s><s>If authenticity is used as a metric for evaluating other people, it is important to know whether these judgments are accurate.</s></p><p><s>Being accurate at recognizing authenticity is no small feat because it requires knowing someone's inner self, observing their behavior, and comparing the two.</s><s>Functional perspectives on perceived authenticity assume that individuals can discern "real," "true," or "genuine" people in the same way they can judge an authentic product <ref type="bibr" target="#b26">(Newman, 2019)</ref>.</s><s>In past research, it has been implicitly assumed that judgments of authenticity are related to the target's authenticity, as reflected in research on the antecedents of authenticity.</s><s>For instance, perceived authenticity is associated with the target's morality <ref type="bibr" target="#b1">(Bai et al., 2019)</ref>, their perceived self-knowledge, and self-consistency <ref type="bibr" target="#b28">(Peus et al., 2012)</ref>.</s><s>These antecedents parallel variables linked to individual expression of authenticity <ref type="bibr" target="#b8">(Gino et al., 2015;</ref><ref type="bibr" target="#b19">Kraus et al., 2011)</ref>.</s><s>However, the accuracy of authenticity judgments remains untested. 1</s><s> Our core proposition in the present research is that perceived authenticity (a) is not accurate (i.e., otherratings of authenticity are not related to self-ratings of authenticity) and (b) is biased by the rater making the</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s>authenticity judgment.</s><s>To develop our hypotheses regarding perceived authenticity, we integrate the authenticity literature with work on person perception and deception detection.</s><s>From this, we identify several hurdles in the pursuit of accurate authenticity perception and suggest biases that may occur in perceived authenticity.</s></p><p><s>Theoretically, a person is authentic when their behavior is genuine, that is, their behavior reflects their true inner qualities and feelings <ref type="bibr" target="#b2">(Beer &amp; Brandler, 2021;</ref><ref type="bibr" target="#b17">Kernis &amp; Goldman, 2006;</ref><ref type="bibr" target="#b31">Ryan &amp; Ryan, 2019)</ref>.</s><s>As a multidimensional construct, authenticity can be thought of as an individual difference, with some individuals being generally more authentic than others ("trait authenticity"; e.g., <ref type="bibr" target="#b39">Wood et al., 2008)</ref>.</s><s>Authenticity can also be described as an affective experience when one feels connected to their core, true self ("state authenticity"; e.g., <ref type="bibr" target="#b23">Lenton et al., 2013)</ref>.</s></p><p><s>Given that authenticity is tied to a core or true self unique to each person, authenticity is expressed differently between individuals.</s><s>This constitutes a challenge to accurate authenticity perception.</s><s>Past research has found that people are accurate at recognizing certain individual differences, such as personality traits <ref type="bibr" target="#b0">(Ambady &amp; Rosenthal, 1992)</ref>.</s><s>However, judging someone's authenticity is not like judging how extraverted someone is; for extraversion, what is high (vs.</s><s>low) extraversion is relatively standard between individuals.</s><s>This is not true when estimating someone's authenticity, as one person's inner self is not the same as another person's inner self.</s><s>Thus, the self at the center of authenticity suggests that perceived authenticity is a uniquely challenging type of person perception.</s></p><p><s>Second, laypeople are "intuitive psychologists" who tend to assume that the behavior of other individuals is driven by dispositional characteristics rather than by a complex interaction with the situation <ref type="bibr" target="#b30">(Ross, 1977)</ref>.</s><s><ref type="bibr" target="#b12">Heider (1958)</ref> provides the classic example of seeing someone eating.</s><s>The intuitive psychologist would say that "she eats because she is hungry."</s><s>That is, the observed behavior of eating is linked to a simple internal motivation in the eyes of other people.</s><s>When perceived authenticity is considered from this view, it suggests that people tend to assume that the behavior of others emerges from within (i.e., is authentic).</s></p><p><s>Third, decades of research on deception detection have found that individuals are barely able to accurately detect lies above chance (for a review, see <ref type="bibr" target="#b3">Bond &amp; DePaulo, 2006)</ref>.</s><s>Whereas inauthenticity and lying are related, lying is an extreme version of inauthenticity.</s><s>Indeed, there are many ways that individuals can be more or less authentic that do not involve outright lies, such as sharing selective positive features on dating websites or omitting negative aspects in the recall of an experience.</s><s>If individuals have low accuracy at detecting lies or truths, this suggests that accuracy may be even lower when perceiving authenticity.</s></p><p><s>Given that the standards against which to judge authenticity are relatively obscure, the process is prone to bias.</s><s>Past research has robustly demonstrated predictable asymmetries between self-and other-perception, which occur because people are biased in how they see themselves and how they see others <ref type="bibr" target="#b30">(Ross, 1977)</ref>.</s><s>Our theoretical perspective suggests that a "perceivedauthenticity bias" will be evidenced in at least two ways.</s></p><p><s>First, we suggest that other-rated authenticity will be more positive compared with self-rated authenticity.</s><s>We derived this hypothesis given that deception research has found that people reliably exhibit a bias toward truth <ref type="bibr" target="#b5">(DePaulo et al., 1997;</ref><ref type="bibr" target="#b40">Zuckerman et al., 1981)</ref>.</s><s>When people are not informed about the base rates of lies to truths, they overestimate the number of truths, potentially as a means of maintaining cohesion and reducing social costs <ref type="bibr" target="#b35">(ten Brinke et al., 2016)</ref>.</s><s>In addition, attributing behavior to simple internal characteristics suggests that observed behavior will be assumed to be authentic.</s><s>This is in contrast to the self-knowledge that an individual has of their own motivations, ranging from impression management and social desirability to authenticity.</s><s>Although we do not suggest that individuals consider themselves inauthentic, pondering one's own authenticity brings to mind the small ways in which self-presentation is often edited in the social sphere.</s></p><p><s>Second, we propose that a perceived-authenticity bias will present as egocentric judgments, whereby raters will project their authenticity onto other people.</s><s>Egocentrism suggests that individuals view and judge others in line with how they view themselves <ref type="bibr" target="#b27">(Nickerson, 1999;</ref><ref type="bibr" target="#b30">Ross, 1977)</ref>.</s><s>Indeed, when individuals attempt to understand the inner states of others, they begin at their own</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statement of Relevance</head><p><s>Popular press pieces tout authenticity as a key metric for selecting friends, judging potential mates, and electing leaders, implicitly assuming that there is a kernel of truth embedded in these judgments.</s><s>We suggest that this type of person perception-requiring both knowing someone's inner self and observing their behavior-is a prohibitively difficult social judgment to make.</s><s>The current studies examined both the accuracy (whether there is congruence between self-and other-rated authenticity) and biases that distort authenticity judgments.</s><s>As predicted, authenticity was difficult to accurately perceive and biased by the person making the judgment.</s><s>point of view and adjust only incrementally <ref type="bibr" target="#b7">(Epley et al., 2004;</ref><ref type="bibr" target="#b34">Tamir &amp; Mitchell, 2013)</ref>.</s><s>Therefore, we hypothesized that a rater's authenticity will be projected onto their authenticity ratings of other people.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research Overview</head><p><s>We first sought to confirm lay beliefs about the ability to detect authenticity and the importance of authenticity in interpersonal relationships in Studies 1a and 1b.</s><s>In Studies 2 and 3, we tested the accuracy and biases in authenticity ratings using a unique interpersonal setting: randomly assigned teams of students with little to no prior interactions with one another.</s><s>The random assignment to these groups mitigated issues in selection that typically occur in both personal and professional relationships.</s><s>We followed these groups over 6 weeks, surveying them at multiple time points.</s><s>Participants rated their own authenticity and the authenticity of every other person in their group.</s><s>This allowed us to directly test the congruence between self-and otherratings of authenticity as well as test for biases in authenticity judgments.</s><s>In Study 3, we also examined authenticity meta-perceptions; that is, what do targets assume about the visibility of their authenticity to other individuals?</s><s>This allowed us to confirm whether authentic people expect to be perceived as authentic by others.</s><s>Second, we examined whether targets who expect to be perceived as authentic actually are perceived as such.</s><s>All studies were approved by the Columbia University Institutional Review Board.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Studies 1a and 1b</head><p><s>Our goal in Studies 1a and 1b was to test assumptions that laypeople have about whether they can tell when other individuals are being authentic.</s><s>To do this, we surveyed two samples: an online sample and a sample of master of business administration (MBA) students.</s></p><p><s>Participants were asked whether they felt they could tell when other people were being authentic.</s><s>In addition, we asked participants the importance they placed on authenticity in close others.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p><s>Studies 1a and 1b were identical surveys given to two samples and are therefore summarized together.</s></p><p><s>Participants.</s><s>For Study 1a, we recruited 150 participants from Amazon's Mechanical Turk (MTurk).</s><s>After applying exclusions based on an attention check ("Please select disagree"), we retained 140 participants for our final sample (54 women, 86 men; age: M = 39.53 years, SD = 11.84).</s><s>Sample size was determined by financial limitations.</s></p><p><s>For Study 1b, we surveyed 229 participants from an incoming class of MBA students (92 women, 137 men; age: M = 28.52 years, SD = 2.65) for course credit.</s><s>Sample size was determined on the basis of course enrollment.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures.</head><p><s>Perceptions of authenticity.</s><s>To assess the participants' self-reported ability to perceive the authenticity of other individuals, we created a face-valid five-item measure.</s><s>Participants responded to the following prompts on a 7-point scale ranging from 1 (strongly disagree) to 7 (strongly agree): "I can tell when people are being real," "I know when others are being authentic," "It's hard for me to tell when people are being themselves" (reversecoded), "I know when people are being genuine," and "I can tell when people are being fake" (Study 1a: M = 5.16, SD = 0.76, α = .73;</s><s>Study 1b: M = 5.44, SD = 0.89, α = .89).</s></p><p><s>Importance of authenticity.</s><s>We asked participants how important authenticity was to them as an attribute of other people.</s><s>Participants responded to the following items on a slider from 0 (extremely unimportant) to 100 (extremely important): "In general, how important is authenticity to you?" "How important is it to have leaders who are authentic?"</s><s>"How important is it to have friends that are authentic?"</s><s>and "How important is it to you that other people be authentic?"</s><s>(Study 1a: M = 78.24,</s><s>SD = 16.14, α = .90;</s><s>Study 1b: M = 85.60,</s><s>SD = 12.24, α = .73).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p><s>The means and standard deviations for all variables, as well as correlations between all variables, are available in Tables <ref type="table" target="#tab_1">S1</ref> and<ref type="table" target="#tab_3">S2</ref> in the Supplemental Material available online.</s></p><p><s>First, we considered whether participants felt that they could tell when other people were being authentic.</s><s>We conducted a one-sample t test comparing the mean of the response distribution with the midpoint of the scale (4).</s><s>This test confirmed that the average response fell above the midpoint; that is, the majority of participants believed that they could-at least somewhat-tell when other people are being authentic in the sample of MTurk participants (difference = 1.16), t(139) = 18.03, p &lt; .001,</s><s>Cohen's d = 1.52, and students (difference = 1.44), t(228) = 24.36,</s><s>p &lt; .001,</s><s>Cohen's d = 1.61 (see Fig. <ref type="figure" target="#fig_0">1</ref>).</s></p><p><s>We expected to find that, on average, participants would report that authenticity was an important attribute to them.</s><s>To evaluate this hypothesis, we conducted a one-sample t test comparing the mean of the response distribution with the midpoint of the scale (50).</s><s>This test confirmed that the average response of participants fell above the midpoint, meaning that both MTurk participants (difference = 28.24),</s><s>t( <ref type="formula">139</ref></s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study 2</head><p><s>Our goal in Study 2 was to compare self-and otherrated authenticity in randomly assigned working groups.</s></p><p><s>We hypothesized that the relationship between self-and other-rated authenticity would be nonsignificant.</s><s>In addition, we tested for perceived-authenticity biases.</s><s>First, we compared other-rated authenticity with selfrated authenticity, hypothesizing that other-rated authenticity would be higher than self-rated authenticity.</s><s>Second, we hypothesized that the rater's own authenticity would predict their authenticity ratings of other people.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p><s>Participants.</s><s>Participants were 207 incoming MBA students (84 women, 123 men; age: M = 28.01 years, SD = 2.85).</s><s>Two-hundred six participants rated at least one other participant for a total of 1,033 observations.</s><s>The sample size was determined on the basis of class enrollment and completion of the course surveys.</s><s>Participants completed several surveys over 6 weeks as part of their introductory course.</s><s>Figure <ref type="figure">2</ref> displays the timeline of the surveys.</s><s>We administered Survey 1 when students entered the MBA program.</s><s>Next, participants began the two-stage process of round-robin ratings for their team (self-and other-ratings).</s><s>First, participants were instructed to complete their own trait self-evaluations (self-rated authenticity and personality) in Survey 2. Four weeks later, they were asked to evaluate their group members on their traits (other-rated authenticity and personality) in Survey 3.</s><s>They had 2 weeks to complete the evaluations of their group members (1 week before and following Survey 4).</s><s>The final survey (Survey 4) was taken at the end of the 6 weeks.</s><s>All surveys were completed for course credit.</s></p><p><s>When students entered the program, they were each randomly assigned to small workgroups (4-6 students) with whom they took all first-semester courses as well as completed a number of graded assignments.</s><s>These groups are an important part of the program, and groups spend a significant amount of time together.</s><s>As part of the curriculum, groups meet to develop a charter of norms, rules, and responsibilities designed to foster successful working relationships. 2 This setting is relatively consistent in a number of important ways that strengthen the test of accuracy.</s><s>First, in our sample, the majority of interactions occurred while group members were together, either while taking courses or engaging in coursework.</s><s>Thus, participants were largely engaging with one another at the same time.</s><s>Second, interactions were largely in the same or a similar setting (the classroom or school facilities).</s><s>Therefore, participants were seeing one another in a controlled yet ecologically valid setting.</s><s>Self-rated measures.</s><s>Our primary comparison was between self-rated trait authenticity and other-rated trait authenticity.</s><s>However, it is possible that raters rely on alternative expressions of authenticity (e.g., feelings of authenticity) when estimating the trait authenticity of a target.</s><s>To test for this, we also asked targets to report how authentic they felt, whether they felt they could act authentically with their teammates, and whether they felt that their teammates know who they really are.</s><s>We then tested the congruence of these additional forms of selfrated authenticity with other-rated trait authenticity.</s><s>We first captured a measure of whether the target had an "authentic personality" (e.g., "I would describe myself as an authentic person").</s><s>Second, we measured state, or experiential, authenticity at two time points: Survey 1 and Survey 4. In Survey 4, participants self-reported whether they felt they could act authentically with their teammates.</s><s>Finally, participants self-reported whether they felt their teammates knew who they really are.</s><s>We describe each of these authenticity measures in more detail below.</s></p><p><s>Trait authenticity (Survey 2).</s><s>Participants rated their authenticity using a combination of items modified from the Authentic Personality Scale <ref type="bibr" target="#b39">(Wood et al., 2008)</ref> and items created for this study.</s><s>The items were "I am true to myself in most situations," "I would describe myself as an authentic person," "I am more sincere in my interactions than strategic," and "I could be more authentic" (the final item was reverse-coded; α = .66).</s><s>Exploratory factor analysis confirmed that these four items loaded onto a single factor (for more information, see the Supplemental Material).</s></p><p><s>We primarily examined the congruence of self-and other-ratings along this trait-authenticity measure.</s><s>Authenticity is a multifaceted construct, considered from both a trait perspective (e.g., <ref type="bibr" target="#b39">Wood et al., 2008)</ref> and a state perspective <ref type="bibr" target="#b23">(Lenton et al., 2013</ref><ref type="bibr" target="#b22">(Lenton et al., , 2016))</ref>.</s><s>Between these two perspectives, authenticity can either be relatively stable (trait perspective) or vary significantly across time and context (state perspective).</s><s>Because trait-based views of authenticity assume greater stability, other-ratings of authenticity were collected along the trait dimension.</s><s>We then compared the congruence of self-rated trait authenticity and other-rated trait authenticity.</s><s>We return to this point in the General Discussion.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State authenticity (Surveys 1 and 4).</head><p><s>Participants rated their feelings of authenticity at two time points: at the beginning of the program (Survey 1) and after 6 weeks (Survey 4).</s><s>They responded to the following two facevalid items, which we reverse-coded, as a measure of authenticity: "I feel like I'm pretending to be something that I am not" and "I feel fake" (Survey 1: r = .76,</s><s>p &lt; .001;</s><s>Survey 4: r = .78,</s><s>p &lt; .001).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acting authentically (Survey 4).</head><p><s>To estimate whether participants felt they could act authentically, we asked them to respond to the prompt, "So far in the MBA program . .</s><s>." with the following three, face-valid items: "there have been times where I felt like I couldn't be myself with my classmates" (reverse-coded), "I could be authentic with my classmates," "I have felt like I was who I wanted to be with my classmates" (α = .65).</s></p><p><s>Feeling known (Survey 4).</s><s>Participants responded to a two-item measure based on prior research regarding the perception that their classmates know them: "My team members know who I really am" and "My friends at [university] know who I really am" (r = .71,</s><s>p &lt; .001;</s><s><ref type="bibr" target="#b29">Purvanova, 2013)</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Personality (Survey 2). Participants rated their Big</head><p><s>Five personality traits using the Ten-Item Personality Inventory <ref type="bibr" target="#b6">(Ehrhart et al., 2009)</ref>.</s><s>The Big Five model of personality is predictive of a number of important life outcomes <ref type="bibr" target="#b9">(Goldberg, 1992)</ref>.</s><s>We used participant personality in three ways.</s><s>First, prior research has shown that other-ratings of personality traits are relatively accurate <ref type="bibr" target="#b0">(Ambady &amp; Rosenthal, 1992)</ref>.</s><s>Therefore, we can compare self-and other-rated personalities to create a benchmark for the accuracy of authenticity.</s><s>Second, personality traits were used as a control variable to test the robustness of our models.</s><s>Third, in exploratory analyses, we examined whether certain personality traits were associated with authenticity ratings.</s><s>Participants responded to the prompt, "I see myself as . .</s><s>." followed by the 10 short descriptors, two per personality trait.</s><s>For example, agreeableness was measured as the average of "critical, quarrelsome" (reverse-coded) and "sympathetic, warm."</s><s>Demographic information.</s><s>Participants reported their gender, age, and race, which we used as control variables.</s><s>In exploratory analyses, we considered whether authenticity ratings were accurate among rater-target pairs of the same gender or same race.</s><s>We found null or conflicting results of same-gender and same-race pairs on authenticity accuracy, which we describe in more detail in the Supplemental Material (see the Authenticity Perceptions in Homophilous Subsets of Study 2 and 3 section).</s></p><p><s>Other-rated measures.</s><s>Two-hundred six participants rated at least one other participant, for a total of 1,033 observations.</s><s>Round-robin ratings of group members were required for course credit; that is, each participant who submitted a self-rating was required to complete other-ratings for each member of their team for the course.</s><s>Participants entered these team members into the survey software, which automatically generated the other-rated surveys.</s><s>If participants did not rate each of their team members, they were reminded by the course administrators via email.</s></p><p><s>In addition, participants were allowed to request feedback from additional classmates from their program.</s><s>These ratings were voluntary and would typically occur if the classmates were working together on other projects or were friends (72 observations).</s><s>Unless noted otherwise, we used other-ratings from the full sample and controlled for familiarity (described below) between the rater and target.</s></p><p><s>Trait authenticity (Survey 3).</s><s>Participants were rated by their team members on the perception that they are authentic along the same four items in the trait-based self-ratings.</s><s>Raters responded to four items: "[Target name] is true to themselves in most situations," "I would describe [target name] as an authentic person," "[Target name] is more sincere in their interactions than strategic," and "[Target name] could be more authentic" (the final item was reverse-coded; α = .80).</s></p><p><s>Rater authenticity.</s><s>Given that this was a round-robin rating scenario, we were able to match rater authenticity (trait, state, acting authentic, and feeling known) from their self-rated surveys.</s></p><p><s>Authenticity-inaccuracy score.</s><s>For some hypotheses, we were interested in what predicts the gap between self-and other-ratings.</s><s>Therefore, we calculated an authenticity-inaccuracy score as the signed difference between self-and other-rated authenticity.</s><s>This signed difference was estimated by subtracting self-rated trait authenticity from other-rated trait authenticity; a positive authenticity-inaccuracy score indicated that the other-rating was higher compared with self-rated trait authenticity.</s><s>Zero indicated accurate alignment between self-and other-ratings.</s><s>A negative authenticity-inaccuracy score indicated that other-rated trait authenticity was lower than self-rated trait authenticity.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Personality (Survey 2).</head><p><s>To compare self-and otherrated personalities, we asked raters to complete the Ten-Item Personality Inventory regarding the target.</s><s>The prompt read, "I see [target name] as . .</s><s>." followed by the same 10 descriptions that the target completed.</s><s>For example, extraversion was measured as the average of "extraverted, enthusiastic" and "reserved, quiet" (the final item was reverse-coded).</s></p><p><s>Familiarity.</s><s>Finally, the raters completed a single, face-valid item that assessed how familiar they were with the target.</s><s>The item read, "How well do you know [target name]?" and participants responded using a scale ranging from 1 (not well at all) to 4 (very well).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p><s>The means and standard deviations for all variables, as well as correlations between all variables, are presented in Table <ref type="table" target="#tab_1">1</ref>.</s><s>All continuous variables were standardized before analyses were conducted.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The accuracy of authenticity judgments.</head><p><s>Trait authenticity.</s><s>We first considered whether authenticity ratings were accurate.</s><s>Given the nested structure of the data, with multiple raters rating each target, we tested our hypotheses using multilevel models nesting the targetrated responses at the rater level.</s><s>This approach captured variance between the raters (results of all models were replicated when we used ordinary least squares (OLS) regressions; see the Supplemental Material).</s><s>We first compared self-rated trait authenticity with other-reported trait authenticity on the same four items.</s><s>We found that selfrated trait authenticity was not predictive of other-rated trait authenticity (b = 0.04, SE = 0.03, 95% CI = [-0.01,</s><s>0.09], p = .132;</s><s>see Fig. <ref type="figure" target="#fig_2">3</ref>).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State authenticity.</head><p><s>Similarly, other-rated trait authenticity was not related to self-rated state authenticity in either the first or final surveys (Survey 1: b = 0.01, SE = 0.03, 95% CI = [-0.04,</s><s>0.06], p = .608;</s><s>Survey 4: b = 0.02, SE = 0.03, 95% CI = [-0.03,</s><s>0.08], p = .348;</s><s>see Fig. <ref type="figure" target="#fig_2">3</ref>).</s></p><p><s>Acting authentically and feeling known.</s><s>Other-rated trait authenticity was also not related to the target's perception that they can act authentically with their teammates (b = 0.00, SE = 0.03, 95% CI = [-0.05,</s><s>0.05], p = .980).</s><s>Finally, other-rated trait authenticity was not predicted by participants' ratings that their teammates knew them (b = -0.04,</s><s>SE = 0.03, 95% CI = [-0.09,</s><s>0.01], p = .142).</s><s>Taken together, this pattern of results suggests that other-rated authenticity was not correlated with self-rated authenticity (see Fig. <ref type="figure" target="#fig_2">3</ref>).</s></p><p><s>Bayesian analyses for the null relationship between self-and other-rated trait authenticity.</s><s>For robustness, we estimated Bayesian regressions for the relationship between self-and other-rated authenticity, with noninformative priors, to obtain credible intervals of the regression coefficients <ref type="bibr" target="#b36">(Wagenmakers et al., 2016)</ref>.</s><s>We found that the 95% credible interval for the coefficient of otherrated trait authenticity on self-rated trait authenticity ([-0.05,</s><s>0.07]) included zero.</s></p><p><s>In addition, we tested the null relationship using the region of practical equivalence (ROPE) approach <ref type="bibr" target="#b21">(Kruschke &amp; Liddell, 2018)</ref>.</s><s>This method examines whether the 90% highest density interval (HDI) lies outside of the ROPE (i.e., a negligible magnitude).</s><s>We found a complete overlap (100.00%) between the HDI and the ROPE for the relationship between self-and other-rated trait authenticity.</s><s>This suggests that the null hypothesis was not rejected; there was not a significant relationship between self-and other-rated authenticity.</s></p><p><s>What accounts for the variance in ratings?</s><s>Socialrelations modeling (SRM).</s><s>To examine which aspect of the relationship explained the variance in ratings of authen ticity, we conducted SRM <ref type="bibr" target="#b15">(Kenny &amp; La Voie, 1984)</ref>, which decomposes self-and other-ratings into variance explained by (a) the one making the judgments, (b) the target characteristics causing the judgments, or (c) variance unique to that self-other pair.</s><s>In addition, SRM provides reliability effects of the other-ratings compared with the self-ratings.</s><s>Finally, SRM estimates the partial correlation of self-and other-ratings controlling for group membership (i.e., what is the correlation between being authentic and being perceived as authentic?)</s><s>and the correlation of the rater's ratings on the other-ratings they give (i.e., what is the correlation between authentic raters and their perception that other people are also authentic?).</s></p><p><s>To conduct the SRM, we limited the data set in three ways, following the recommendation of <ref type="bibr">Schönbrodt and colleagues (2012)</ref>.</s><s>Our outcome variable of interest was the authenticity rating at the trait level, which participants rated for both themselves and others on the same items.</s><s>First, we limited the data set to only group members.</s><s>Next, we limited our data set to groups of three or more.</s><s>Finally, we limited the data set to groups for which the Feeling Known</s></p><p><s>Self-Rated Authenticity</s></p><p><s>Other-Rated Authenticity round-robin ratings were completely captured; that is every person in the group submitted a self-rating and rated every other person in the group (36 groups, average group size = 5.69).</s></p><p><s>The results of the SRM suggest that the variance on behalf of the target, that is, differences between targets, explained about 6% of the variance (SE = 0.02, p = .003).</s><s>Differences between raters, on the other hand, explained 41% of the variance in authenticity ratings (SE = 0.06, p &lt; .001),</s><s>and differences in self-other relationships explained 45% of the variance in authenticity ratings (SE = 0.03, p &lt; .001).</s><s>This suggests that the majority of the variance in authenticity ratings had to do with differences between the ones making the ratings, and across unique relationships, rather than differences in the target.</s></p><p><s>In further support of the earlier results, the partial correlation of self-rated trait authenticity and otherrated authenticity, controlling for group membership, was not significant, r = .12,</s><s>t(167) = 1.53, p = .129.</s><s>That is, self-rated trait authenticity was not correlated with other-rated trait authenticity.</s><s>However, there was a significant partial correlation between the rater's authenticity and their perception that the target is authentic, controlling for group membership, r = .34,</s><s>t(167) = 4.69, p &lt; .001.</s><s>We return to this in more detail in the Perceived-Authenticity Biases section.</s></p><p><s>Finally, SRM provides estimates regarding the reliability of the target and perceiver effects.</s><s>This reliability provides some sense of the consensus regarding authenticity ratings; that is, does the group generally see Person A as more authentic than Person B? The reliability of the rater effect was .80; in comparison, the reliability of the partner effect was .37.</s><s>This suggests that there is little consensus between raters about who in the group is authentic and who is not.</s></p><p><s>Is a lack of accuracy unique to authenticity?</s><s>An alternative explanation for our results is that raters in this sample are not accurate judges of their targets.</s><s>To rule this out, we compared self-rated personality traits with other-rated personality traits.</s><s>We again conducted a series of multilevel models, using self-rated personality traits to predict other-rated personality traits (e.g., does a target's rating of their own extraversion predict other-ratings of their extraversion?)</s><s>clustered at the rater level.</s><s>A positive relationship indicated that self-rated personality positively predicted other-rated personality, suggesting that raters were accurate in their personality ratings.</s><s>We found a significant and positive relationship between self-and otherrated personality on four out of five personality traits.</s></p><p><s>Specifically, self-rated extraversion positively and significantly predicted other-rated extraversion (b = 0.46, SE = 0.03, 95% CI = [0.41,</s><s>0.51], p &lt; .001),</s><s>self-rated conscientiousness positively and significantly predicted other-rated conscientiousness (b = 0.14, SE = 0.03, 95% CI = [0.08,</s><s>0.19], p &lt; .001),</s><s>self-rated agreeableness positively and significantly predicted other-rated agreeableness (b = 0.18, SE = 0.03, 95% CI = [0.13,</s><s>0.23], p &lt; .001),</s><s>and self-rated neuroticism positively and significantly predicted other-rated neuroticism (b = 0.18, SE = 0.03, 95% CI = [0.13,</s><s>0.24], p &lt; .001).</s><s>Self-rated openness to experience did not predict other-rated openness to experience (b = 0.03, SE = 0.03, 95% CI = [-0.02,</s><s>0.08], p = .290;</s><s>see Table <ref type="table">S3</ref> in the Supplemental Material).</s></p><p><s>Perceived-authenticity biases.</s><s>Recall that we had hypothesized that authenticity judgments would be biased in two ways.</s><s>First, we proposed that other-rated trait authenticity would be higher than self-rated trait authenticity.</s><s>We tested this by comparing self-rated trait authenticity with the average other-rating of trait authenticity that a participant gave.</s><s>We found that other-rated trait authenticity (M = 5.84) was significantly higher than self-rated trait authenticity (M = 5.27; mean difference = 0.57, 95% CI = [0.43,</s><s>0.71]), t(315) = 7.98, p &lt; .001,</s><s>Cohen's d = 0.79.</s><s>That is, participants were more likely to rate other individuals as more authentic than they rated themselves.</s></p><p><s>Raters' trait authenticity.</s><s>We then considered whether raters are biased by their own trait authenticity.</s><s>To test this, we used the rater's trait authenticity, nested at the target level, to predict the authenticity rating that they made of targets.</s><s>We found a positive and significant relationship between raters' trait authenticity and the ratings of authenticity they gave to other individuals (b = 0.23, SE = 0.03, 95% CI = [0.17,</s><s>0.29], p &lt; .001).</s><s>This effect was robust when analyses controlled for the rater's personality, demographic characteristics, and familiarity with the target (b = 0.20, SE = 0.03, 95% CI = [0.13,</s><s>0.26], p &lt; .001).</s></p><p><s>Raters' state authenticity.</s><s>Recall that self-ratings were submitted weeks before the other-ratings.</s><s>However, selfand other-ratings were the same and embedded within mirrored surveys.</s><s>Thus, an alternative explanation for our findings is that raters were biased as a result of the similarity in items, not their own authenticity.</s><s>To account for this, we examined the relationship between the other authenticity variables (state, acting authentic, feeling known) and authenticity ratings.</s></p><p><s>First, we found a significant and positive effect of state authenticity at both time points on authenticity judgments of other individuals (Survey 1: b = 0.12, SE = 0.03, 95% CI = [0.06,</s><s>0.18], p &lt; .001;</s><s>Survey 4: b = 0.11, SE = 0.03, 95% CI = [0.04,</s><s>0.17], p &lt; .001).</s></p><p><s>Raters' acting authentically and feeling known.</s><s>Similarly, raters' perceptions that they can act authentically were positively predictive of their authenticity judgments of other people (b = 0.10, SE = 0.03, 95% CI = [0.04,</s><s>0.17], p = .002)</s><s>as was their feeling known by their group members (b = 0.19, SE = 0.03, 95% CI = [0.12,</s><s>0.25], p &lt; .001;</s><s>see Fig. <ref type="figure" target="#fig_3">4</ref>).</s></p><p><s>We then used a rater's authenticity as a predictor of the signed-difference authenticity-inaccuracy score.</s><s>The rater's trait authenticity predicted a positive authenticityinaccuracy score (b = 0.24, SE = 0.03, 95% CI = [0.18,</s><s>0.30], p &lt; .001).</s><s>That is, authentic raters perceived other people to be more authentic relative to the target's rating of their own authenticity.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Who is perceived as authentic?</head><p><s>We then considered who is more likely to be perceived as authentic by raters.</s><s>In exploratory analyses, we entered the demographic and personality variables of the targets, clustered at the rater level, as predictors of other-rated trait authenticity.</s><s>We found that no individual differences predicted other-rated trait authenticity (all ps &gt; .11).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study 3</head><p><s>Study 3 replicated Study 2 in a larger set of students 6 months following the first data collection.</s><s>This set of students was observed during the COVID-19 pandemic in the United States, and coursework was conducted in a mix of in-person and online environments.</s><s>Thus, this sample allowed us to test whether the effects we found in face-to-face interactions generalized to the online context.</s><s>In addition to replicating the results of Study 3, we also measured authenticity meta-perceptions, considering whether participants have a sense of whether their authenticity is observable by other people.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p><s>Participants.</s><s>Participants were 571 MBA students (233 women, 336 men, two did not report demographic information; age: M = 27.94</s><s>years, SD = 2.51). 3</s><s>Participants in the study completed a number of surveys over 6 weeks for course credit.</s><s>They followed the same timeline as in Study 2 (see Fig. <ref type="figure">2</ref>).</s><s>Completion of all surveys was done for course credit.</s><s>Five-hundred seventy-six participants completed at least one survey rating a classmate, for a total of 3,007 observations (this includes five students not enrolled in the course).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures.</head><p><s>Self-rated trait authenticity (Survey 2).</s><s>Participants rated their authenticity using the same four items from Study 2 (α = .61).</s><s>Self-rated state authenticity (Survey 1).</s><s>In addition, participants responded to their state-level authenticity using the two items from the first sample ("I feel like I'm pretending to be something that I am not" and "I feel fake"; both items were reverse-coded).</s><s>For additional face validity for this measure, we added a single item that read, "I feel authentic."</s><s>These three items were averaged as a measure of state authenticity (α = .77).</s></p><p><s>Self-rated personality (Survey 2).</s><s>Participants rated their Big Five personality traits using the Ten-Item Personality Inventory <ref type="bibr" target="#b6">(Ehrhart et al., 2009)</ref>.</s></p><p><s>Self-rated authenticity meta-perceptions.</s><s>We asked partici pants about their perceptions that other people see them as authentic.</s><s>Participants responded to the following three items: "Other people see me as authentic," "Other people see me as sincere," and "Other people perceive me as being real" (α = .89).</s><s>This measure allowed us to test the implicit assumption of targets-that more authentic targets expect to be seen as more authentic by other individuals, and vice versa.</s><s>In addition, we were able to test whether targets who expected to be seen as authentic were actually perceived as more authentic.</s></p><p><s>Demographic information.</s><s>Participants reported their gender, age, and race.</s><s>As mentioned in Study 2, we found null or conflicting results of same-sex and samerace pairs on authenticity accuracy, which we describe in more detail in the Supplemental Material (see the Authenticity Perceptions in Homophilous Subsets of Study 2 and 3 section).</s></p><p><s>Other-rated trait authenticity (Survey 3).</s><s>Each rater was rated by their classmates on the perception that they are authentic using the same four items as self-reported trait authenticity.</s><s>They responded to the following: "[Target name] is true to themselves in most situations," "I would describe [target name] as an authentic person," "[Target name] is more sincere in their interactions than strategic," and "[Target name] could be more authentic" (the final item was reverse-coded; α = .76).</s></p><p><s>Other-rated raters' authenticity.</s><s>We matched otherrated authenticity (trait and state) from their self-rated surveys using their full name.</s></p><p><s>Other-rated authenticity-inaccuracy score.</s><s>We calculated an authenticity-inaccuracy score as the signed difference between self-and other-rated trait authenticity.</s><s>A positive authenticity-inaccuracy score indicated that otherrated trait authenticity was higher than self-rated trait authenticity.</s><s>Zero indicated accurate alignment between self-and other-ratings.</s><s>Finally, a negative authenticity-inaccuracy score meant that other-rated trait authenticity was lower than self-rated trait authenticity.</s></p><p><s>Other-rated personality.</s><s>As in Study 2, the raters also completed the Big Five personality traits of the targets using the same Ten-Item Personality Inventory <ref type="bibr" target="#b6">(Ehrhart et al., 2009)</ref>.</s></p><p><s>Familiarity.</s><s>Finally, the raters completed a single, face-valid item that assessed how familiar they were with the target.</s><s>The item read, "How well do you know [target name]?" and participants responded using a scale ranging from 1 (not well at all) to 4 (very well).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p><s>The means and standard deviations for all variables, as well as correlations between all variables, are presented in Table <ref type="table" target="#tab_3">2</ref>.</s><s>All continuous variables were standardized before analyses were conducted.</s><s>All results from Study 2 were replicated or strengthened in Study 3.</s><s>For the sake of brevity, below we summarize the results around the core hypotheses of Study 2. Full results are available in the Supplemental Material.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The accuracy of authenticity judgments.</head><p><s>Trait authenticity.</s><s>We first compared self-and otherrated trait authenticity.</s><s>Given the nested structure of the data, we used self-rated authenticity, nested at the raterlevel, to predict other-rated trait authenticity.</s><s>As in Study 2 we found that self-rated trait authenticity was not predictive of other-rated trait authenticity (b = 0.01, SE = 0.02, 95% CI = [-0.02,</s><s>0.04], p = .585).</s></p><p><s>State authenticity.</s><s>Similarly, self-rated state authenticity did not predict other-rated trait authenticity (b = 0.02, SE = 0.02, 95% CI = [-0.01,</s><s>0.05], p = .256).</s></p><p><s>Bayesian analyses for the null relationship between selfand other-rated trait authenticity.</s><s>As in Study 2, we confirmed the null effect using Bayesian analyses.</s><s>We found that the 95% credible interval for the coefficient of otherrated trait authenticity on self-rated trait authenticity ([-.03, .04])</s><s>included zero.</s><s>In addition, we tested the null relationship using the ROPE approach.</s><s>We found a complete overlap (100.00%) between the HDI and the ROPE for the relationship between self-and other-rated trait authenticity.</s></p><p><s>What accounts for the variance in ratings?</s><s>SRM.</s><s>Next, we conducted SRM to examine what accounts for the variance in ratings.</s><s>We limited the data set in three ways: First, we limited the data set to only group members.</s><s>Next, we limited our data set to groups of three or more.</s><s>Finally, we limited the data set to groups for which the round-robin ratings were completely captured; that is,  every person in the group submitted a self-rating of trait authenticity and rated every other person in the group (90 groups, average group size = 5.89).</s></p><p><s>The results of the SRM suggest that the variance on behalf of the target, that is, differences between targets, explained about 4% of the variance (SE = 0.01, p &lt; .001).</s><s>Differences in raters, on the other hand, explained 34% of the variance in trait-authenticity ratings (SE = 0.03, p &lt; .001),</s><s>and differences in self-other relationships explained 39% of the variance in trait-authenticity ratings (SE = 0.02, p &lt; .001).</s><s>This suggests that the majority of the variance in trait-authenticity ratings had to do with differences between the ones making the ratings, and across unique relationships, rather than differences in the target.</s><s>In addition, the reliability of the actor effect was .80,</s><s>whereas the target-effect reliability was low <ref type="bibr">(.35)</ref>, suggesting low consensus between raters about which targets are authentic.</s></p><p><s>In further support of the findings of Study 2, the correlation of self-ratings of authenticity and otherrating trait of authenticity controlling for group membership was not significant, r = .01,</s><s>t(439) = 0.26, p = .792.</s><s>That is, self-rated trait authenticity was not correlated with other-rated trait authenticity.</s><s>However, there was a significant correlation between the rater's trait authenticity and their perception that the target is authentic controlling for group membership, r = .26,</s><s>t(439) = 5.60, p &lt; .001.</s></p><p><s>Is a lack of accuracy unique to authenticity?</s><s>Next, we tested whether our raters were accurate on another dimension-personality.</s><s>We found that all five self-and other-rated personality traits were positively and significantly correlated at the p &lt; .001</s><s>level, suggesting that a lack of accuracy was unique to authenticity (for more details, see the Is Inaccuracy Unique to Authenticity?</s><s>section and Table <ref type="table">S5</ref> in the Supplemental Material).</s><s>This suggests that our raters are relatively accurate judges of the targets' personalities.</s></p><p><s>Perceived-authenticity biases.</s><s>As in Study 2, we compared average other-ratings of trait authenticity at the rater level with self-rated trait authenticity.</s><s>We found that other-rated trait authenticity (M = 5.97) was significantly higher relative to self-rated trait authenticity (M = 5.27; mean difference = 0.70, 95% CI = [0.62,</s><s>0.78]), t(857) = 17.38, p &lt; .001,</s><s>Cohen's d = 1.03.</s></p><p><s>We then considered whether raters were biased in their ratings of other peoples by their own authenticity.</s></p><p><s>Raters' trait authenticity.</s><s>We first tested whether raters were biased by their own trait authenticity when rating the trait authenticity of a target.</s><s>To test this, we ran a multilevel model with participants' self-rated authenticity nested at the target level predicting participants' ratings of the target's authenticity.</s><s>We found a positive and significant relationship between rater trait authenticity and the ratings of authenticity they give to other individuals (b = 0.16, SE = 0.02, 95% CI = [0.13,</s><s>0.20], p &lt; .001).</s><s>This effect was robust when analyses controlled for the rater's personality, familiarity with the target, and demographic characteristics (b = 0.13, SE = 0.02, 95% CI = [0.09,</s><s>0.16], p &lt; .001).</s><s>We then used the rater's trait authenticity as a predictor of the signed-difference authenticity-inaccuracy score.</s><s>We found that raters' trait authenticity predicted a positive authenticity-inaccuracy score (b = 0.15, SE = 0.02, 95% CI = [0.12,</s><s>0.19], p &lt; .001).</s></p><p><s>Raters' state authenticity.</s><s>Similarly, we found a significant and positive effect of rater state authenticity on their trait-authenticity judgments of other individuals (b = 0.14, SE = 0.02, 95% CI = [0.10,</s><s>0.17], p &lt; .001).</s><s>Thus, authentic raters were biased by their own authenticity, rating other people as more authentic than the targets rated themselves.</s></p><p><s>Who is perceived as authentic?</s><s>In exploratory analyses, we again considered who is more likely to be perceived as authentic.</s><s>We entered the demographic and personality variables of the targets, nested at the rater level, as predictors of other-rated trait authenticity.</s><s>We found that agreeableness positively predicted other-rated trait authenticity (b = 0.04, SE = 0.02, 95% CI = [0.00,</s><s>0.07], p = .031).</s><s>In addition, age was a positive and significant predictor of other-rated trait authenticity (b = 0.01, SE = 0.01, 95% CI = [0.00,</s><s>0.03], p = .018).</s></p><p><s>Meta-perceptions of authenticity.</s><s>In addition to replicating the results of Study 2, we also collected metaperceptions about authenticity from targets.</s><s>With this information, we were able to test two things.</s><s>First, was a target's authenticity positively correlated with their metaperceptions about authenticity?</s><s>That is, did authentic targets expect to be perceived as more authentic?</s><s>Second, we were able to test whether a target's meta-perceptions about their authenticity predicted other-rated authenticity.</s><s>This would reveal whether targets were accurate in their meta-perceptions.</s></p><p><s>Using OLS regressions, we found that participant trait authenticity predicted expectations that other people would see them as authentic (b = 0.36, SE = 0.04, 95% CI = [0.28,</s><s>0.43], p &lt; .001).</s><s>Similarly, participants' state authenticity predicted expectations that other people would see them as authentic (b = 0.23, SE = 0.03, 95% CI = [0.18,</s><s>0.29], p &lt; .001).</s><s>This suggests that authentic people expect to be perceived as authentic by others.</s></p><p><s>Next, we tested whether participants' expectations that they would be perceived as authentic were related to other-rated trait authenticity.</s><s>We estimated the relationship between authenticity meta-perceptions and otherrated trait authenticity using meta-perceptions nested at the rater level to predict other-rated trait authenticity.</s><s>We found that there was not a significant relationship between target-rated expectations of their perceived authenticity and other-rated trait authenticity (b = 0.02, SE = 0.02, 95% CI = [-0.01,</s><s>0.05], p = .278).</s><s>Thus, targets were also not accurate with their perceptions of how other individuals judge their authenticity.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>General Discussion</head><p><s>If authenticity is used as a criterion for conferring status, societal value, and morality judgments, perceived authenticity must be accurate.</s><s>In this research, we first confirmed that individuals assume they can discern authenticity in others.</s><s>We then directly compared selfand other-rated authenticity in a real social setting with two samples of randomized working teams over 6 weeks.</s><s>We found that other-rated authenticity did not significantly correlate with any self-rated measure of authenticity.</s><s>In addition, we found that perceived authenticity was biased.</s><s>First, other-ratings of authenticity were more positive than self-ratings.</s><s>Second, authentic raters rated other individuals as more authentic; that is, raters were biased by their own authenticity.</s><s>Finally, we found that meta-perceptions (expectations that other people will see you as authentic) were similarly uncorrelated with other-ratings of authenticity.</s></p><p><s>A crucial assumption embedded in our research is that we consider an individual's ratings of their own authenticity to be the ground truth and compare otherrated authenticity against it.</s><s>The source of truth is a longstanding debate in accuracy research.</s><s>A constructivist point of view <ref type="bibr" target="#b20">(Kruglanski, 1989)</ref> would suggest that authentic judgments are a function of the collective view and that other-rated authenticity is more valid than self-rated authenticity.</s><s>In line with this, research has found that self-rated authenticity can be biased.</s><s>For example, individuals consider their positive actions to be more authentic than negative ones ( Jongman-Sereno &amp; Leary, 2016), and self-rated authenticity is more strongly predicted by positive mood than trait-consistent expression <ref type="bibr" target="#b23">(Lenton et al., 2013)</ref>.</s><s>If self-rated authenticity is biased by situational or valence characteristics, it adds additional strain to its perceptibility.</s><s>Regardless of the starting point for judging accuracy, the self-and otherratings of authenticity in our studies were never significantly correlated.</s></p><p><s>There are a number of additional explanations for why it is difficult to accurately perceive authenticity in other people.</s><s>First, authenticity may be hard to observe, whereas inauthenticity is not.</s><s>Research on deception accuracy has found a similar pattern-people are more accurate at recognizing lies as falsehoods than they are at recognizing truths as truthful <ref type="bibr" target="#b3">(Bond &amp; DePaulo, 2006)</ref>.</s><s>Second, it may be easier to fake the earmarks of authenticity than it is to authentically meet them.</s><s>Consider someone faking an illness: Someone who is pretending to be sick is more likely to exhibit all of the symptoms of that illness relative to someone who is authentically ill, presenting some symptoms but not others.</s><s>Future research should focus on which, if any, of these factors play a role in the inaccuracy of authenticity judgments.</s></p><p><s>A limitation of our studies is that we did not observe the usefulness of these authenticity judgments.</s><s>It may be beneficial in interpersonal relationships to believe that other people are authentic even when they are not.</s><s>As <ref type="bibr" target="#b33">Swann (1984)</ref> noted, "An accurate belief is an instrumental belief" (p.</s><s>461).</s><s>Indeed, self-rated authenticity was high in our samples (Study 2: M = 5.27, Study 3: M = 5.27), as in past research <ref type="bibr" target="#b22">(Lenton et al., 2016)</ref>.</s><s>Therefore, assuming that other individuals are being authentic may be strategically beneficial.</s><s>Future research should focus on whether groups that view each other as authentic perform better and have increased trust and cohesion, relative to groups who do not view each other as authentic.</s></p><p><s>An additional limitation of our studies is that we compared self-and other-rated authenticity in a specific context, in randomly assigned teams, and in specific populations.</s><s>First, given that the setting was not strictly social, it may be that settings in which self-disclosure is more common (e.g., support groups or religious/spiritual groups) provide boundary conditions for when perceived authenticity can be accurate.</s><s>In addition, there are potential limits to the generalizability of the findings, given the study populations (MTurk workers, MBA students).</s></p><p><s>Finally, we chose to compare authenticity ratings at the trait level, assuming that trait-level authenticity would be easier to discern.</s><s>This decision was made given that trait-based views of authenticity assume more stability within an individual and across time.</s><s>However, there are cases in which state-based measures may be more perceptible to other individuals, such as a first interaction or a moment of particularly high or low state authenticity.</s><s>Alternatively, cues as to an "authentic person" may be different from the cues about an authentic expression.</s><s>Future research is needed to fully align perceived authenticity with the multifaceted construct of authenticity.</s></p><p><s>Future research should consider when and why perceived-authenticity biases occur.</s><s>For instance, we posit that other-rated authenticity is higher than self-rated authenticity because the deception-detection literature has found that individuals overestimate truth relative to lies <ref type="bibr" target="#b5">(DePaulo et al., 1997;</ref><ref type="bibr" target="#b40">Zuckerman et al., 1981)</ref>.</s><s>An alternative explanation is that individuals are modest in their self-ratings of authenticity.</s><s>In addition, there is asymmetry of information available when these ratings are being made-that is, people may rely on different types of information when evaluating their authenticity relative to another's authenticity.</s><s>Further empirical evidence is needed to more deeply understand this bias.</s></p><p><s>Because judgments of another's authenticity require insight into that person's true self, one would assume that the better you know someone, the better you should be at judging that person's authenticity.</s><s>In contrast, a surprising finding in our data was that familiarity did not increase the accuracy of perceived authenticity; rather, the greater the familiarity between a rater and their target, the less accurate their authenticity ratings became.</s><s>Specifically, as familiarity increased, other-rated authenticity grew increasingly more positive relative to the target's self-rated authenticity (b = 0.22, SE = 0.03, 95% CI = [0.16,</s><s>0.28], p &lt; .001;</s><s>see Fig. <ref type="figure" target="#fig_0">S1</ref> in the Supplemental Material).</s><s>This could result from a number of motivations.</s><s>For instance, the better we know someone, the more motivated we are to believe that that person (and our relationship with them) is authentic.</s><s>Future research should further delve into the relationship between familiarity and perceived authenticity.</s></p><p><s>Our core contribution is to the authenticity literature.</s><s>Prior research has implicitly assumed that perceived authenticity is related, on some level, to experienced authenticity.</s><s>This has driven research on the antecedents of authenticity to focus on characteristics of an individual that should be related to self-rated authenticity.</s><s>A notable exception is the work by <ref type="bibr" target="#b18">Kokkoris and Kühnen (2014)</ref>, who found that self-expression is perceived as authentic only when it fits with societal norms, suggesting that perceived authenticity may have more to do with social norms than unobstructed selfexpression.</s><s>By unhooking the individual experience of authenticity from perceptions of authenticity, we hope to broaden the scope for future research to explore antecedents of perceived authenticity.</s><s>In addition, we add caution to sweeping judgments of who is authentic and who is not, suggesting that the truth of someone is hard to perceive in everyday life.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transparency</head><p><s>Action Editor: Kate Ratliff Editor: Patricia J. Bauer Author Contributions E. R. Bailey and A. Levy designed and conducted the studies.</s><s>E. R. Bailey analyzed the data.</s><s>Both the authors wrote the manuscript and approved the final version for submission.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Conflicting Interests</head><p><s>The author(s) declared that there were no conflicts of interest with respect to the authorship or the publication of this article.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Open Practices</head><p><s>Data, code, and survey materials for all the studies have been made publicly available via OSF and can be accessed at https://osf.io/fwz2r/.</s><s>The design and analysis plans for the studies were not preregistered.</s><s>This article has received the badges for Open Data and Open Materials.</s><s>More information about the Open Practices badges can be found at http://www.psychologicalscience.org/publications/</s><s>badges.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc><div><p><s>Fig. 1.</s><s>Distribution of participant ratings regarding the self-reported ability to perceive authenticity (left column) and the importance of perceived authenticity in other individuals (right column) in Studies 1a and 1b.</s><s>Solid black lines indicate the midpoints of the scales.</s><s>Dashed lines indicate average responses.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc><div><p><s>Fig.3.</s><s>Scatterplots showing the relationship in Study 2 between self-and other-ratings of trait authenticity (top left), state authenticity (top right), ability to act authentically (bottom left), and sense that the rater is known by other people (bottom right).</s><s>In each graph, the line indicates the best-fitting regression, and the error band represents ±1 SE.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc><div><p><s>Fig. 4. Estimates for the five measures of raters' authenticity (trait, state, acting authentic, feeling known) as predictors of their authenticity judgments of other individuals, nested at the target level.</s><s>The dotted black line indicates zero.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc><div><p><s>were averaged at the target level.</s><s>All continuous measures were captured on a 7-point Likert-type scale with the exception of familiarity, which was measured on a 4-point scale.</s><s>Two variables were other-rated: other-rated trait authenticity (1) and familiarity (10).</s><s>*p &lt; .05. **p &lt; .01.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc><div><p><s>Descriptive Statistics and Correlations for All Variables in Study 2Variable Data were averaged at the target level.</s><s>All continuous measures were captured on a 7-point Likert-type scale with the exception of familiarity, which was measured on a 4-point scale.</s><s>Two variables were other-rated: other-rated trait authenticity (1) and familiarity (12).</s></p></div></figDesc><table><row><cell></cell><cell>14</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.01</cell></row><row><cell></cell><cell>13</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>-.06</cell><cell>-.09</cell></row><row><cell></cell><cell>12</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>-.15*</cell><cell>.03</cell><cell>.03</cell></row><row><cell></cell><cell>11</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.08</cell><cell>-.08</cell><cell>.19**</cell><cell>-.09</cell></row><row><cell></cell><cell>10</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>-.06</cell><cell>.06</cell><cell>.03</cell><cell>.31**</cell><cell>-.07</cell></row><row><cell></cell><cell>9</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.04</cell><cell>.22**</cell><cell>.22**</cell><cell>-.18*</cell><cell>.05</cell><cell>.09</cell></row><row><cell>Correlations</cell><cell>7 8</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>-.01 -</cell><cell>.32** .01</cell><cell>.07 .09</cell><cell>-.06 -.01</cell><cell>.06 .04</cell><cell>.11 -.03</cell><cell>.06 .14*</cell><cell>-.03 .08</cell></row><row><cell></cell><cell>6</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.13</cell><cell>.03</cell><cell>.23**</cell><cell>.06</cell><cell>-.04</cell><cell>.12</cell><cell>-.20**</cell><cell>.05</cell><cell>.12</cell></row><row><cell></cell><cell>5</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>.43**</cell><cell>.08</cell><cell>.10</cell><cell>.26**</cell><cell>-.10</cell><cell>-.08</cell><cell>.16*</cell><cell>-.07</cell><cell>.01</cell><cell>.11</cell></row><row><cell></cell><cell>4</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell></cell><cell>.50**</cell><cell>.31**</cell><cell>.04</cell><cell>.00</cell><cell>.08</cell><cell>.02</cell><cell>-.08</cell><cell>.01</cell><cell>-.06</cell><cell>.04</cell><cell>.09</cell></row><row><cell></cell><cell>3</cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell></cell><cell>.58**</cell><cell></cell><cell>.28**</cell><cell>.17*</cell><cell>.13</cell><cell>.11</cell><cell>.07</cell><cell>-.05</cell><cell>-.18*</cell><cell>.06</cell><cell>-.04</cell><cell>-.12</cell><cell>.05</cell></row><row><cell></cell><cell>2</cell><cell></cell><cell></cell><cell>-</cell><cell>.18*</cell><cell></cell><cell>.17*</cell><cell></cell><cell>.18*</cell><cell>.22**</cell><cell>.14*</cell><cell>.26**</cell><cell>.10</cell><cell>.13</cell><cell>-.12</cell><cell>.05</cell><cell>-.07</cell><cell>.19**</cell><cell>.17*</cell></row><row><cell></cell><cell>SD 1</cell><cell>0.49 -</cell><cell></cell><cell>0.90 .04</cell><cell>1.28 .00</cell><cell></cell><cell>1.37 -.03</cell><cell></cell><cell>1.12 -.04</cell><cell>1.21 -.12</cell><cell>1.09 -.12</cell><cell>1.16 .04</cell><cell>1.62 -.03</cell><cell>1.22 .06</cell><cell>1.34 -.00</cell><cell>0.31 .23**</cell><cell>2.85 .08</cell><cell>0.49 -.04</cell><cell>0.49 -.01</cell></row><row><cell></cell><cell>M</cell><cell>5.84</cell><cell></cell><cell>5.27</cell><cell>5.71</cell><cell></cell><cell>5.66</cell><cell></cell><cell>4.88</cell><cell>4.78</cell><cell>5.31</cell><cell>5.50</cell><cell>4.39</cell><cell>4.97</cell><cell>3.15</cell><cell>2.26</cell><cell>28.01</cell><cell>0.41</cell><cell>0.41</cell></row><row><cell></cell><cell></cell><cell>1. Other-rated trait</cell><cell>authenticity</cell><cell>2. Trait authenticity</cell><cell>3. State authenticity</cell><cell>(Survey 1)</cell><cell>4. State authenticity</cell><cell>(Survey 4)</cell><cell>5. Acting authentic</cell><cell>6. Feeling known</cell><cell>7. Openness</cell><cell>8. Conscientiousness</cell><cell>9. Extraversion</cell><cell>10. Agreeableness</cell><cell>11. Neuroticism</cell><cell>12. Familiarity (out of 4)</cell><cell>13. Age (years)</cell><cell>14. Gender (1 = women)</cell><cell>15. Race (1 = White)</cell></row></table><note><p><s>Note: *p &lt; .05. **p &lt; .01.</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 .</head><label>2</label><figDesc><div><p><s>Descriptive Statistics and Correlations for All Variables in Study 3 Variable</s></p></div></figDesc><table /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We thank <rs type="person">Adam Galinsky</rs>, <rs type="person">C. Blaine Horton</rs>, <rs type="person">Sheena Iyengar</rs>, <rs type="person">Jon Jachimowicz</rs>, <rs type="person">Michael Slepian</rs>, <rs type="person">Daniel Stein</rs>, and <rs type="person">Julianna Pillemer</rs> for critical feedback that substantially improved this article.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplemental Material</head><p><s>Additional supporting information can be found at http:// journals.sagepub.com/doi/suppl/10.1177/09567976211056623</s><s>Notes 1.</s><s>There are three possible exceptions.</s><s>First, <ref type="bibr" target="#b38">Wickham and Bond (2020)</ref> surveyed heterosexual romantic couples on a relational authenticity measure.</s><s>They found that couples were accurate at rating their partner's likelihood to disclose private or personal aspects to them; however, they were not accurate in estimating their partner's willingness to mislead them.</s><s>Second, <ref type="bibr">Moore and colleagues (2017)</ref> found that individuals high in self-verification striving were perceived as authentic in a job interview.</s><s>Finally, <ref type="bibr" target="#b11">Hale (2015)</ref> found no correlation between self-and other-rated authenticity in a sample of students from the same sorority and premedical society.</s><s>2. Data were collected before the COVID-19 pandemic caused most colleges and universities to shift to remote learning.</s><s>3. The sample size for Study 3 was larger given that enrollment is greater in fall semesters.</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Thin slices of expressive behavior as predictors of interpersonal consequences: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ambady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rosenthal</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.111.2.256</idno>
+		<ptr target="https://doi.org/10.1037/0033-2909.111.2.256" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="256" to="274" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Do status incentives undermine morality-based status attainment? Investigating the mediating role of perceived authenticity</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C C</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.obhdp.2019.04.005</idno>
+		<ptr target="https://doi.org/10.1016/j.obhdp.2019.04.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Organizational Behavior and Human Decision Processes</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page" from="126" to="138" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Why don&apos;t we know more about the minds of authentic people?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Beer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brandler</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/SPC3.12637</idno>
+		<ptr target="https://doi.org/10.1111/SPC3.12637" />
+	</analytic>
+	<monogr>
+		<title level="j">Social and Personality Psychology Compass</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>Article e12637</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Accuracy of deception judgments</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Bond</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Depaulo</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s15327957pspr1003_2</idno>
+		<ptr target="https://doi.org/10.1207/s15327957pspr1003_2" />
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Social Psychology Review</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="214" to="234" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Is Hillary Clinton &apos;likable enough&apos;?</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Byers</surname></persName>
+		</author>
+		<ptr target="https://money.cnn.com/2015/09/22/media/hillary-clinton-likeable-real-person" />
+	</analytic>
+	<monogr>
+		<title level="j">CNN</title>
+		<imprint>
+			<date type="published" when="2015-09-23">2015. September 23</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The accuracy-confidence correlation in the detection of deception</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Depaulo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Charlton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Lindsay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Muhlenbruck</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s15327957pspr0104_5</idno>
+		<ptr target="https://doi.org/10.1207/s15327957pspr0104_5" />
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Social Psychology Review</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="346" to="357" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Testing the latent factor structure and construct validity of the Ten-Item Personality Inventory</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Ehrhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Ehrhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Roesch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Chung-Herrera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nadler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bradshaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="900" to="905" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Perspective taking as egocentric anchoring and adjustment</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Epley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Keysar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Van Boven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gilovich</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.87.3.327</idno>
+		<ptr target="https://doi.org/10.1037/0022-3514.87.3.327" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="327" to="339" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The moral virtue of authenticity: How inauthenticity produces feelings of immorality and impurity</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kouchaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Galinsky</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0956797615575277</idno>
+		<ptr target="https://doi.org/10.1177/0956797615575277" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="983" to="996" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The development of markers for the Big-Five factor structure</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Goldberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/1040-3590.4.1.26</idno>
+		<ptr target="https://doi.org/10.1037/1040-3590.4.1.26" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Assessment</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="26" to="42" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The authentic appeal of the lying demagogue: Proclaiming the deeper truth about political illegitimacy</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Hahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Zuckerman Sivan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="33" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">An examination of the authenticity construct: Issues of measurement invariance, interpersonal perception, and relationships with self-verification theory</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Hale</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>Publication No. 3702290. Doctoral dissertation, The University of Texas at San Antonio. ProQuest Dissertations and Theses Global</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The psychology of interpersonal relations</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Heider</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1958">1958</date>
+			<publisher>John Wiley &amp; Sons</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The authenticity paradox</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ibarra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Harvard Business Review</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">1/2</biblScope>
+			<biblScope unit="page" from="53" to="59" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Self-perceived authenticity is contaminated by the valence of one&apos;s behavior</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Jongman-Sereno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Leary</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15298868.2015.1128964</idno>
+		<ptr target="https://doi.org/10.1080/15298868.2015.1128964" />
+	</analytic>
+	<monogr>
+		<title level="j">Self and Identity</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="283" to="301" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The social relations model</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kenny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">La</forename><surname>Voie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in experimental social psychology</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Berkowitz</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="141" to="182" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">From thought and experience to behavior and interpersonal relationships: A multicomponent conceptualization of authenticity</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Kernis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Goldman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">On building, defending, and regulating the self: A psychological perspective</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Tesser</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Wood</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Stapel</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Psychology Press</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="31" to="52" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A multicomponent conceptualization of authenticity: Theory and research</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Kernis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Goldman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0065-2601(06)38006-9</idno>
+		<ptr target="https://doi.org/10.1016/S0065-2601(06)38006-9" />
+	</analytic>
+	<monogr>
+		<title level="m">Advances in experimental social psychology</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Zanna</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="283" to="357" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Express the real you&quot;: Cultural differences in the perception of self-expression as authenticity</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Kokkoris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Kühnen</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0022022114542467</idno>
+		<ptr target="https://doi.org/10.1177/0022022114542467" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cross-Cultural Psychology</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1221" to="1228" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The power to be me: Power elevates self-concept consistency and authenticity</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Keltner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="974" to="980" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The psychology of being &quot;right&quot;: The problem of accuracy in social perception and cognition</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Kruglanski</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.106.3.395</idno>
+		<ptr target="https://doi.org/10.1037/0033-2909.106.3.395" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="395" to="409" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The Bayesian new statistics: Hypothesis testing, estimation, meta-analysis, and power analysis from a Bayesian perspective</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Kruschke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Liddell</surname></persName>
+		</author>
+		<idno type="DOI">10.3758/s13423-016-1221-4</idno>
+		<ptr target="https://doi.org/10.3758/s13423-016-1221-4" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychonomic Bulletin &amp; Review</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="178" to="206" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">State authenticity in everyday life</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Lenton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Slabu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sedikides</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/per.2033</idno>
+		<ptr target="https://doi.org/10.1002/per.2033" />
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Personality</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="64" to="82" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">I feel good, therefore I am real: Testing the causal influence of mood on state authenticity</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Lenton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Slabu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sedikides</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Power</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02699931.2013.778818</idno>
+		<ptr target="https://doi.org/10.1080/02699931.2013.778818" />
+	</analytic>
+	<monogr>
+		<title level="j">Cognition &amp; Emotion</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1202" to="1224" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Are they for real? The interpersonal and intrapersonal outcomes of perceived authenticity</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Perrewe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Work Organisation and Emotion</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="204" to="214" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The advantage of being oneself: The role of applicant selfverification in organizational hiring decisions</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Cable</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/apl0000223</idno>
+		<ptr target="https://doi.org/10.1037/apl0000223" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1493" to="1513" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The psychology of authenticity</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Newman</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/gpr0000158</idno>
+		<ptr target="https://doi.org/10.1037/gpr0000158" />
+	</analytic>
+	<monogr>
+		<title level="j">Review of General Psychology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="8" to="18" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">How we know-and sometimes misjudge-what others know: Imputing one&apos;s own knowledge to others</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Nickerson</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.125.6.737</idno>
+		<ptr target="https://doi.org/10.1037/0033-2909.125.6.737" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="737" to="759" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Authentic leadership: An empirical test of its antecedents, consequences, and mediating mechanisms</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Peus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Wesche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Streicher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Braun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Frey</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10551-011-1042-3</idno>
+		<ptr target="https://doi.org/10.1007/s10551-011-1042-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business Ethics</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="331" to="348" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The role of feeling known for team member outcomes in project teams</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Purvanova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Small Group Research</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="298" to="331" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The intuitive psychologist and his shortcomings: Distortions in the attribution process</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ross</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0065-2601(08)60357-3</idno>
+		<ptr target="https://doi.org/10.1016/S0065-2601(08)60357-3" />
+	</analytic>
+	<monogr>
+		<title level="m">Advances in experimental social psychology</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Berkowitz</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1977">1977</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="173" to="220" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Toward a social psychology of authenticity: Exploring within-person variation in autonomy, congruence, and genuineness using self-determination theory</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Ryan</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/gpr0000162</idno>
+		<ptr target="https://doi.org/10.1037/gpr0000162" />
+	</analytic>
+	<monogr>
+		<title level="j">Review of General Psychology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="99" to="112" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">TripleR: An R package for social relations analyses based on round-robin designs</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Schönbrodt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Back</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Schmukle</surname></persName>
+		</author>
+		<idno type="DOI">10.3758/s13428-011-0150-4</idno>
+		<ptr target="https://doi.org/10.3758/s13428-011-0150-4" />
+	</analytic>
+	<monogr>
+		<title level="j">Behavior Research Methods</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="455" to="470" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Quest for accuracy in person perception: A matter of pragmatics</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Swann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="457" to="477" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Anchoring and adjustment during social inferences</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Tamir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Mitchell</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0028232</idno>
+		<ptr target="https://doi.org/https://doi.org/10.1037/a0028232" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: General</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="151" to="162" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Can ordinary people detect deception after all?</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ten Brinke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Vohs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Carney</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tics.2016.05.012</idno>
+		<ptr target="https://doi.org/10.1016/j.tics.2016.05.012" />
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Cognitive Sciences</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="579" to="588" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Bayesian benefits for the pragmatic researcher</title>
+		<author>
+			<persName><forename type="first">E.-J</forename><surname>Wagenmakers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Morey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0963721416643289</idno>
+		<ptr target="https://doi.org/10.1177/0963721416643289" />
+	</analytic>
+	<monogr>
+		<title level="j">Current Directions in Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="169" to="176" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The effect of authentic leadership on employee trust and employee engagement</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Hsieh</surname></persName>
+		</author>
+		<idno type="DOI">10.2224/sbp.2013.41.4.613</idno>
+		<ptr target="https://doi.org/10.2224/sbp.2013.41.4.613" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Behavior and Personality</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="613" to="624" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Accuracy and bias in perceptions of relationship authenticity</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Wickham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Bond</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0265407519851567</idno>
+		<ptr target="https://doi.org/https://doi.org/10.1177/0265407519851567" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Personal Relationships</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="47" to="57" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The authentic personality: A theoretical and empirical conceptualization and the development of the Authenticity Scale</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Linley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Maltby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baliousis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Joseph</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-0167.55.3.385</idno>
+		<ptr target="https://doi.org/10.1037/0022-0167.55.3.385" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Counseling Psychology</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="385" to="399" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Verbal and nonverbal communication of deception</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zuckerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Depaulo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rosenthal</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0065-2601(08)60369-X</idno>
+		<ptr target="https://doi.org/10.1016/S0065-2601(08)60369-X" />
+	</analytic>
+	<monogr>
+		<title level="m">Advances in experimental social psychology</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Berkowitz</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1" to="59" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

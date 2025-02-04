@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Globally Inaccurate Stereotypes Can Result From Locally Adaptive Exploration</title>
+				<funder ref="#_PEF2Gyx">
+					<orgName type="full">Joint Degree Program in Psychology and Policy</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Prize Fellowship in the Social Sciences at Prince ton University</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Princeton University</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Xuechunzi</forename><surname>Bai</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Princeton University</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Princeton School of Public and International Affairs</orgName>
+								<orgName type="institution">Princeton University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Susan</forename><forename type="middle">T</forename><surname>Fiske</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Princeton University</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Princeton School of Public and International Affairs</orgName>
+								<orgName type="institution">Princeton University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Thomas</forename><forename type="middle">L</forename><surname>Griffiths</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Princeton University</orgName>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Computer Science</orgName>
+								<orgName type="institution">Princeton University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Psychology and Princeton School of Public and International Affairs</orgName>
+								<orgName type="institution">Princeton University</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Globally Inaccurate Stereotypes Can Result From Locally Adaptive Exploration</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">83F60A774BCB1F99A0D21648C1DC6FF4</idno>
+					<idno type="DOI">10.1177/09567976211045929</idno>
+					<note type="submission">Received 4/30/21; Revision accepted 8/14/21</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-05-06T13:31+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>social stereotypes</term>
+					<term>rational analysis</term>
+					<term>exploration</term>
+					<term>reinforcement learning</term>
+					<term>open data</term>
+					<term>open materials</term>
+					<term>preregistered</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s>People believe that groups differ from each other even when they do not.</s></p><p><s>Why is this the case?</s><s>Explanations for stereotypes' origins fall into three classes <ref type="bibr" target="#b19">(Hilton &amp; Von Hippel, 1996;</ref><ref type="bibr" target="#b29">S. J. Sherman et al., 2013)</ref>.</s><s>Motivational explanations suggest that stereotypes result from humans' priority on belongingness.</s><s>For example, the minimal-group paradigm-merely categorizing people into arbitrary groups-causes in-group favoritism <ref type="bibr" target="#b33">(Tajfel et al., 1971)</ref>; social-identity theory suggests that stereotypes emerge because people need a positive, distinctive collective in-group concept <ref type="bibr" target="#b5">(Brewer, 1999;</ref><ref type="bibr" target="#b34">Tajfel &amp; Turner, 1979)</ref>.</s><s>Alternatively, social-dominance theory suggests that stereotypes emerge as legitimizing myths that explain the group hierarchy (Sidanius &amp; Pratto, 1999); similarly, system-justification theory describes stereotypes as placating, explaining, and maintaining the status quo <ref type="bibr" target="#b20">( Jost &amp; Banaji, 1994)</ref>.</s><s>In these explanations, group-serving motivation triumphs over accuracy.</s><s>By contrast, cognitive explanations suggest that stereotypes emerge even without motivational biases.</s><s>Limited-capacity human minds create shortcuts via schemas <ref type="bibr" target="#b14">(Fiske &amp; Taylor, 1984)</ref> and heuristics <ref type="bibr" target="#b37">(Tversky &amp; Kahneman, 1974)</ref>.</s><s>For example, categorization makes out-group members seem interchangeably alike <ref type="bibr" target="#b35">(Taylor et al., 1978)</ref>.</s><s>Alternatively, the phenomenon of illusory correlation suggests that selective attention to rarity and negativity links minorities and negative attributes <ref type="bibr" target="#b17">(Hamilton &amp; Gifford, 1976)</ref>.</s><s>Here, cognitive efficiency sacrifices accuracy <ref type="bibr" target="#b23">(Macrae &amp; Bodenhausen, 2000)</ref>.</s></p><p><s>We propose an alternative that considers minimal conditions sufficient to produce inaccurate stereotypes.</s><s>Mistaken impressions can result from maximizing the long-term rewards of interactions (i.e., exploring the payoffs from different groups and then letting these 1045929P SSXXX10.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s>rewards guide future interactions).</s><s>Seeking to maximize long-term rewards in an environment in which all groups are equally rewarding suffices to produce inaccurate stereotypes.</s><s>Our approach is minimal because group-serving motivations or cognitive efficiency are not necessary for stereotypes' emergence.</s><s>Our approach is functional because stereotypes emerge as an epiphenomenon of an adaptive solution to maximizing longterm reward.</s><s>The solution is locally adaptive because people learn only as much about each group as needed to identify one that rewards interactions without trying to accurately estimate the rewards from each group.</s><s>This minimal, functional analysis does not imply that social stereotypes are accurate or morally right.</s><s>Rather, it helps explain why stereotypes are so widespread: Globally inaccurate impressions can emerge from locally adaptive exploration.</s></p><p><s>Imagine choosing collaborators from four groups.</s><s>To work with someone friendly, you need to collect more information.</s><s>You can ask a small favor from one person each time and then update your group impressions on the basis of their reactions.</s><s>If more people from one group help, then you might think that group is warmer than other groups.</s><s>If the goal is interacting with as many friendly people as possible, you might be more likely to interact with people from that group.</s><s>However, in an environment in which each group is equally and highly likely to help, you may never learn that all groups are equally warm.</s><s>This adaptive strategy settles quickly on a good-enough decision without incurring the costs of prolonged search for other equally good alternatives.</s><s>Consequently, a by-product of maximizing interactions with friendly people in an environment with no group differences is inaccurate stereotypesyou form accurate impressions about the group with whom you interact most but form inaccurate impressions about the groups with whom you interact less.</s></p><p><s>Prior work has examined exploratory sampling.</s><s>Previous theoretical analyses in social settings have shown that evaluation-based sampling exacerbates inaccurate impressions.</s><s>For example, the hot-stove effect posits that people tend to avoid repeating a negative experience, which prioritizes negativity <ref type="bibr" target="#b7">(Denrell, 2005;</ref><ref type="bibr" target="#b8">Denrell &amp; March, 2001)</ref>.</s><s>Such a sampling-based approach could explain why people underestimate the trustworthiness of others: If people falsely believe that others cannot be trusted, they avoid them, and by avoiding them, they cannot disconfirm their false belief <ref type="bibr" target="#b9">(Fetchenhauer &amp; Dunning, 2010</ref>).</s><s>An analysis of experience sampling revealed that even an agent with a Bayesian beliefupdating process could form biased impressions when information from one group is always available (Le <ref type="bibr" target="#b21">Mens &amp; Denrell, 2011)</ref>.</s><s>(Person perception, as noted, routinely directs attention and weight to negative information, in the service of avoiding harm-see <ref type="bibr" target="#b11">Fiske, 1980, and</ref><ref type="bibr" target="#b31">Skowronski &amp;</ref><ref type="bibr" target="#b31">Carlston, 1989</ref>-but here we focus on a different phenomenon, seeking reward and avoiding its absence.)</s><s>Complementing this, previous findings using nonsocial settings show that initial biases can become strengthened in reward-rich environments <ref type="bibr" target="#b18">(Harris et al., 2020)</ref>.</s><s>When two options predominantly and equally yield positive outcomes, the initial bias is upheld because pursuit of the allegedly superior option reinforces the biased preference.</s></p><p><s>We based our work on the assumption that impression formation is sequential and uncertain, but we built on earlier results.</s><s>First, we make minimal assumptions: Besides minimizing motivations or cognitive limitations, we do not assume differences in the initial bias <ref type="bibr" target="#b18">(Harris et al., 2020)</ref> or information availability (Le <ref type="bibr" target="#b21">Mens &amp; Denrell, 2011)</ref>.</s><s>We investigated social exploration using multiarmed bandits-a standard paradigm for exploring choice strategies.</s><s>We examined the consequences of solving this problem using Thompson sampling <ref type="bibr" target="#b36">(Thompson, 1933)</ref>, a standard algorithm with optimality guarantees and existing support from human experiments <ref type="bibr" target="#b15">(Gershman, 2018;</ref><ref type="bibr" target="#b27">Schulz et al., 2018)</ref>.</s><s>We assumed that all social groups reward interaction equally and that the chances of a reward are high.</s><s>We show that inaccurate stereotypes can emerge even in</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statement of Relevance</head><p><s>Stereotypes about social groups-inaccurate generalizations-are widespread and consequential, but their origin is puzzling.</s><s>People often think social groups differ from each other, even in the absence of real group-level differences.</s><s>Here, we demonstrated how this undesirable outcome can result from unbiased ideal decision-makers merely pursuing their own self-interest.</s><s>People make choices about whom to interact with on the basis of past interactions, and this is enough to create perceived differences even when there are no actual differences between groups-regardless of whether people's choices are motivated by factors such as in-group favoritism, cognitive limitations such as selective attention, or information deficits resulting from the rarity of minorities.</s><s>This occurs because early positive experiences with some groups discourage people from investigating other groups that could yield equally positive experiences.</s><s>Our evidence comes from both a formal model and two online experiments.</s><s>The idea that stereotypes can arise merely from this kind of adaptive exploration of the properties of groups motivates theory-driven interventions to reduce intergroup misunderstanding.</s><s>such a minimalist setting (see Theoretical Models).</s><s>Second, we empirically evaluated the predictions of this model in a social context.</s><s>Whether people behave according to normative theories becomes a puzzle, especially for decisions involving other humans <ref type="bibr" target="#b16">(Hackel et al., 2020;</ref><ref type="bibr" target="#b22">Lockwood et al., 2020)</ref>.</s><s>Two experiments show that participants formed inaccurate stereotypes from our minimal-process paradigm (see Empirical Tests).</s></p><p><s>All data, code, and materials for this study are available on OSF (https://osf.io/2kv5r/).</s><s>Additional information is available on GitHub at https://github.com/</s><s>baixuechunzi/StereotypeBandit.</s><s>This study was approved by the Princeton University Institutional Review Board under Protocol No. 10859.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theoretical Models</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p><s>Imagine you face k groups of people, and each group is configured such that there is an unknown probability θ k that it will provide a reward in the form of help r t k ( ) , meaning the average help from each group over the long run.</s><s>The reward in each round is a binary random variable drawn from a Bernoulli distribution, r t k k ( ) ( ) ∼ Bern θ , meaning you either receive help or not.</s><s>The goal is to find the strategy that achieves the highest cumulative reward r t k t T ( ) = ∑ 1 , meaning you want to receive as much help as possible.</s><s>If you knew the group with the highest rate of reward k * , then you would achieve the optimal cumulative reward ( *)</s></p><formula xml:id="formula_0">Q t k t T = ∑ 1 . Maximizing cumulative</formula><p><s>reward is equivalent to minimizing the expected cumulative regret from not picking the best group,</s></p><formula xml:id="formula_1">R = E Q t k t T [ ( *) = ∑ 1 - r t k t T ( ) = ∑ 1 ].</formula><p><s>Given that you do not know for sure who will help you, you will make mistakes occasionally, but you want to minimize your average mistakes (Fig. <ref type="figure" target="#fig_0">1</ref>).</s></p><p><s>One solution to this problem is known as Thompson sampling <ref type="bibr" target="#b1">(Agrawal &amp; Goyal, 2012;</ref><ref type="bibr" target="#b36">Thompson, 1933)</ref>.</s><s>The idea is that the probability of picking the group is equal to the probability of its being the optimal choice.</s><s>The value of θ k for each group is assumed to be drawn from a beta distribution, beta(α, b), where α is the number of successes (e.g., being helped) and b is the number of failures (e.g., not being helped).</s><s>The expected reward of each group is α/α + b, meaning that your expectation about the group in general will change as you accumulate more experiences with being helped or not.</s><s>At round t, having observed S t k ( ) successes and F t k ( ) failures, the algorithm applies Bayesian inference to update the distribution on θ k to beta(α</s></p><formula xml:id="formula_2">+ S t k ( ), b + F t k ( ))</formula><p><s>, meaning that you add S t k ( ) to success if you are being helped and F t k ( ) to failure if you are not being helped.</s><s>The algorithm then samples values of θ k from these distributions and selects the group for which the sampled value is the largest.</s><s>This is equivalent to choosing each group with a probability that corresponds to the probability the agent gives to that group that has the largest actual value of θ k .</s><s>The process repeats 1 (a more detailed description appears in Section S1.1 in the Supplemental Material available online).</s></p><p><s>We explored three main variants of this model that are critical to understanding how inaccurate impressions emerge from locally adaptive exploration.</s><s>First, we compared sampling strategies: Thompson sampling and random sampling.</s><s>Thompson sampling proceeds as described above, whereas random sampling selects a group each round according to a uniform distribution.</s><s>Second, we compared the structure of reward distributions across groups, namely, how the agent behaves when the underlying probabilities of reward are different (e.g., classic bandit setting; <ref type="bibr" target="#b27">Schulz et al., 2018)</ref> as opposed to when the underlying probabilities are identical (and reward rich; <ref type="bibr" target="#b18">Harris et al., 2020)</ref>.</s><s>The identicalreward condition specifies θ k = 0.9 for all k, whereas the different-reward condition specifies θ k = {0.1,0.3,0.5,0.9} for each k.</s><s>Third, we compared models with and without prior biases.</s><s>Prior biases reflect to what extent the model expects one group to be better than the others even before collecting any evidence.</s><s>The prior-bias condition initializes one group with beta(10, 1), meaning that the model expects that group to be more rewarding than the remaining groups, whereas the no-prior condition initializes all groups with beta(1, 1), meaning that the model expects all groups to be equally rewarding.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p><s>We ran 50 simulations, each with four groups, over a 40-round game (for other simulations with longer time scales, varying ground-truth success probabilities, and a dynamic programming algorithm, see Sections S1.2-S1.4 in the Supplemental Material).</s><s>Consider each simulation as representing one participant; each participant has 40 chances to select people from one of the four groups sequentially.</s><s>Given that each simulation has its own most-to least-selected groups, we rank-ordered the results per simulation to make them comparable.</s><s>Two critical outputs were examined: (a) the total number of interactions with each group and (b) the estimated expected utility for interacting with each group.</s><s>Number of interactions can be considered as a behavioral antecedent of impressions, whereas estimated expected utility can be considered as impressions.</s><s>Hence, differences between the collective expected utility among all groups and that of the ground truth can be considered as reflecting inaccurate stereotypes.</s></p><p><s>Our results show that the Thompson-sampling model in the identical-reward condition without prior bias, rather than interacting equally and estimating equal rewards for all groups, selectively interacted with one group and estimated that group had higher expected utility than other groups (Figs.</s><s><ref type="figure" target="#fig_1">2a</ref> and<ref type="figure" target="#fig_1">2b</ref>).</s></p><p><s>To understand why this is, consider a simulated agent with no prior bias, starting the game giving each of the four groups a distribution of beta(1, 1).</s><s>This assigns equal probability to all values between 0 and 1, so all groups have an expected utility of .5 at the initial round.</s><s>The agent first samples values from the four distributions and selects the group that has the largest sampled value.</s><s>Assume that the selected group is red, as in Figure <ref type="figure" target="#fig_0">1</ref>, so the agent interacts with one member of the red group and observes its reward.</s><s>If successful, it updates the distribution of the red group to beta(2, 1), yielding an expected utility of .67 while other groups' expected utility remains unchanged.</s><s>Repeating this process, the agent will sample values from the four distributions again and select the group that yields the largest sampled value.</s><s>Given that the red group has a higher expected utility than other groups, it is more likely to yield a larger sampled value and thus be selected again.</s><s>Say the agent selects the red group again.</s><s>If the interaction is successful, the distribution of the red group will be updated to beta(3, 1) with an expected utility of .75.</s><s>If unsuccessful, the distribution will be updated to beta(2, 2) with an expected utility of .5.</s><s>The process repeats.</s><s>Our particular social environment is based on the assumption that all groups have identical and high rewards, making successful interactions more probable.</s><s>As a result, the agent will be less likely to explore the other three groups thus be less likely to update their expected utility as needed.</s><s>Inaccurate impressions about the underexplored groups thus emerged in the identical and high-reward environment, purely as a result of locally adaptive exploration.</s></p><p><s>To compare, first, the Thompson-sampling model performed as expected in the different-reward condition.</s><s>It interacted more with the group that had the highest expected utility and estimated expected utility for most groups accurately (Figs.</s><s><ref type="figure" target="#fig_1">2c</ref> and<ref type="figure" target="#fig_1">2d</ref>).</s><s>Second, the random-sampling model in the identical-reward condition interacted equally with all groups and estimated expected utility for all groups more accurately (Figs.</s><s><ref type="figure" target="#fig_1">2e</ref> and<ref type="figure" target="#fig_1">2f</ref>).</s><s>Third, prior biases made the Thompsonsampling model converge faster to the ostensibly best group (Figs.</s><s><ref type="figure" target="#fig_1">2g</ref> and<ref type="figure" target="#fig_1">2h</ref>).</s></p><p><s>Our simulation results show how, without any prior biases, motivational biases, cognitive limitations, or information deficits, agents engaging in a locally adaptive exploration process with the goal of maximizing long-term rewards will form inaccurate impressions, estimating one group as being better than other groups despite the fact that all groups are equally good.</s><s>We now examine whether the same phenomenon occurs for human participants.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Empirical Tests: Experiment 1</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p><s>Procedure.</s><s>To test the predictions of our theoretical models, we created a narrative travel game called "Explore Toma City" to simulate how people form impressions through social interactions.</s><s>Participants were invited to a fictional city where they met people from four novel social groups: Tufa, Aima, Reku, and Weki.</s><s>Participants learned about these people by interacting with them through 40 rounds of games.</s><s>Participants could increase the points they earned by starting a small business in the city.</s><s>They could select people to help them.</s><s>Some people would increase and share the earned points with the participants, but some would not.</s><s>In each round, participants got to choose one person, and there were a new set of people to choose from each time.</s><s>If the person selected helped to grow the business, then participants earned 1 point (equivalent to a $0.01 monetary bonus at the end of the experiment).</s><s>If not, participants earned 0 points.</s><s>Participants could see their points after each decision.</s><s>After completing the game, participants were asked to estimate rewards ("for each group, how many times out of 100 do you think working with a person from that group would result in you earning 1 point?"),</s><s>perceived warmth, and perceived competence ("on a scale from 1 to 5, rate how [warm/competent] the group is").</s><s>The fictional journey ended with participants giving suggestions to their friends who were going to visit Toma City in the future (see the experimental designs and demo in Sections S2.1 and S2.2 in the Supplemental Material).</s></p><p><s>To assess participant decisions, we constructed two dependent measures (see also <ref type="bibr" target="#b4">Bai et al., 2020)</ref>: partnerchoice Herfindahl score and reward-estimation standard deviation.</s><s>These two measures also correspond to the unequal number of interactions and dissimilarity in expected utility, respectively, from our theoretical model.</s><s>An unequal number of interactions indicates selective partner choices, and dissimilarity in expected utility in a reward-identical condition indicates inaccurate stereotypes.</s><s>Partner-choice Herfindahl score is defined as</s></p><formula xml:id="formula_3">1 1 2 - = ∑ k K k S ,</formula><p><s>where S k is the observed share of interactions with group k in Toma City.</s><s>A low score indicates that participants predominantly interacted with one group, whereas a high score indicates that participants approached each group more or less equally.</s><s>Rewardestimation standard deviation is defined as</s></p><formula xml:id="formula_4">( ) , / x k k K - ( ) = ∑ µ 2 1 1 2</formula><p><s>where x k is the estimated reward for each group and m is the average estimation for all groups.</s><s>A high score indicates that participants thought groups were very different from each other, whereas a low score indicates that participants thought groups were more or less similar.</s><s>Within this paradigm, Experiment 1 manipulated three factors.</s><s>The first was the sampling strategy.</s><s>In the Thompson-sampling condition, participants were asked to make decisions themselves (self-select strategy: "Select one person to help you"); we predicted that participants would naturally use this strategy.</s><s>In the random-sampling condition, participants were shown preselected choices (random-meet strategy: "Meet one person to help you"), and the choices were randomly Fig. <ref type="figure" target="#fig_1">2</ref>. Social multiarmed-bandit simulations from theoretical models.</s><s>The graphs in the left column display the total number of interactions in each of the four groups, and the graphs in the right column show expected utility for each group as a function of round of interaction.</s><s>Groups are ordered by frequency of interaction prior to averaging (Group 4 is the most-selected group in each simulation).</s><s>Results are shown separately for (a, b) Thompson-sampling models in the identical-reward condition without prior bias, (c, d) Thompson-sampling models in the different-reward condition without prior bias, (e, f) random-sampling models in the identical-reward condition without prior bias, and (g, h) Thompson-sampling models in the identical-reward condition with prior bias.</s><s>In the graphs in the right column, dashed lines represent true utility.</s><s>Error bars (left column) and error bands (right column) represent bootstrapped 95% confidence intervals.</s><s>(For more simulations, see Sections S1.2-S1.4 in the Supplemental Material.)</s><s>assigned by the program.</s><s>The second manipulated factor was the structure of the reward distribution.</s><s>In the different-reward condition, the underlying reward distribution was preprogrammed as .1,</s><s>.3,</s><s>.5, and .9 for the Weki, Aima, Tufa, and Reku groups, respectively.</s><s>In the identical-reward condition, the underlying reward distribution was preprogrammed as .9</s><s>for all groups.</s><s>The third manipulated factor was the existence of prior bias.</s><s>In the no-prior condition, participants started the game immediately after entering the city.</s><s>In the priorbias condition, before the game, participants saw stereotype information suggesting that one group was more competent and warmer than others (e.g., "Rekus are wealthy and very generous to their neighbors").</s><s>The game and parameters were programmed on Qualtrics using JavaScript (see materials in Section S2.1 of the Supplemental Material).</s></p><p><s>Our primary hypothesis was that participants in the identical-reward, no-prior-bias condition with self-select strategies would be more likely to interact selectively with one group than with others (i.e., lower partnerchoice Herfindahl score) and to be more likely to estimate groups to have different expected rewards (i.e., larger reward-estimation standard deviation), compared with participants in the identical-reward, no-prior-bias condition with random-meet strategies.</s><s>The hypothesis would fail if we did not observe a statistically significant difference between the two conditions.</s></p><p><s>Participants.</s><s>Following a power analysis with pilot data (see pilot details in Section S3.1 in the Supplemental Material), we recruited 399 online participants via Amazon Mechanical Turk's CloudResearch high-quality pool.</s><s>Our goal was to have 50 participants in each of the eight conditions in order to detect medium to large effects.</s><s>Each participant was randomly assigned to one of the 2 (reward: identical, different) × 2 (strategy: self-select, random-meet) × 2 (prior bias: yes, no) conditions.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p><s>We first ran a linear regression with condition as the independent variable (random-meet strategy coded as 0, self-select strategy coded as 1) and with the Herfindahl score as the dependent variable.</s><s>As predicted, participants in the identical-reward, no-prior bias condition with a self-select strategy, compared with those who had a random-meet strategy, were more likely to show a lower Herfindahl score-b = -0.226,</s><s>95% confidence interval (CI) = [-0.306,</s><s>-0.146], p &lt; .001;</s><s>random-meet strategy: m = .75,</s><s>d = 0, n = 45; self-select strategy: m = .52,</s><s>d = .27,</s><s>n = 55, Cohen's d = 1.15.</s><s>This indicates that they were more likely to interact with one group than other groups.</s><s>Across 40 interactions, participants in the random-meet condition interacted 10 times with each group.</s><s>However, participants with a self-select strategy interacted with the perceived best group on average 22 times and with the second, third, and worst perceived group on average 10, seven, and five times, respectively (Fig. <ref type="figure" target="#fig_3">3a</ref>; for plots with individual participants, see Sections S4.1 and S.42 in the Supplemental Material).</s></p><p><s>We also ran a linear regression with condition as the independent variable (random-meet strategy coded as 0, self-select strategy coded as 1) and with the standard deviation of the estimated rewards as the dependent variable.</s><s>As predicted, participants with a self-select strategy were also more likely to show a larger standard deviation of the estimated rewards of the four groups than participants with a random-meet strategy-b = 11.354,</s><s>95% CI = [7.387,</s><s>15.321], p &lt; .001;</s><s>random-meet strategy: m = 6.60, d = 5.01, n = 45; self-select strategy: m = 17.95, d = 12.61, n = 55, Cohen's d = 1.14.</s><s>This indicates that they perceived the groups to differ from each other.</s><s>Participants with a random-meet strategy estimated the rewards to be on average 93, 88, 83, and 76 points (out of 100).</s><s>In contrast, participants with a self-select strategy estimated the rewards to be 86, 67, 57, and 42 points (Fig. <ref type="figure" target="#fig_3">3b</ref>).</s></p><p><s>An individual-level analysis revealed that the more a participant interacted with one group predominantly, the more likely it was that the participant reported a larger standard deviation in reward estimations, Pearson's r(98) = -.605,</s><s>p &lt; .001.</s><s>This is consistent with previous real-world findings that the less diverse samples people see, the more distinct stereotypes they have <ref type="bibr" target="#b4">(Bai et al., 2020)</ref>.</s></p><p><s>Secondary analyses first confirmed that the structure of the reward distribution mattered.</s><s>Participants in different-reward conditions indeed made good choices to interact with the best group and estimated the underlying rewards more accurately (Figs.</s><s><ref type="figure" target="#fig_3">3c</ref> and<ref type="figure" target="#fig_3">3d</ref>).</s><s>Within the context of our design, inaccurate impressions were not absent but were less likely to occur when the underlying rewards were different rather than identical.</s><s>Next, prior biases mattered.</s><s>In identical-reward conditions, participants with prior biases reported an even larger standard deviation in reward estimations than participants with no priors.</s><s>Existing stereotypes can produce inaccurate impressions (Figs.</s><s><ref type="figure" target="#fig_3">3e</ref> and<ref type="figure" target="#fig_3">3f</ref>), although existing biases did not have significantly more influence in different-reward conditions than identical-reward conditions (Figs. <ref type="figure" target="#fig_3">3g</ref> and<ref type="figure" target="#fig_3">3h</ref>; in the Supplemental Material, see analysis details in Section S4.1-3a for partner choices and Section S4.1-3b for reward estimates).</s></p><p><s>Exploratory analyses examined perceptions of warmth and competence of Toma groups <ref type="bibr">(Fiske et</ref>    2002).</s><s>Because succeeding in business requires both warmth and competence, one might expect estimated rewards to correlate with perceived warmth and competence.</s><s>This intuition was confirmed, r(397) = .566,</s><s>p &lt; .001.</s><s>Similar to reward-estimation standard deviations but with smaller effect sizes (see the analysis details in Section S4.1-4in the Supplemental Material), results showed that participants in the identical-reward condition who made their own choices to interact with Toma people tended to perceive Toma groups as more different from each other in terms of warmth and competence than those who had randomly met Toma people-b = 0.768, 95% CI = [0.366,</s><s>1.170], p &lt; .001;</s><s>random-meet strategy: m = 1.50, d = 0.87, n = 45; self-select strategy: m = 2.27, d = 1.11, n = 55, Cohen's d = 0.77.</s></p><p><s>In sum, confirming the predictions of theoretical model, results showed that human participants exploring Toma City with no prior stereotypes perceived significant differences between Tufas, Aimas, Rekus, and Wekis when in reality there were no group-level differences.</s><s>Their behaviors are consistent with the pattern of exploration produced by the Thompson-sampling model.</s><s>Although unintended, inaccurate impressions resulted from locally adaptive exploration.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Empirical Tests: Experiment 2</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p><s>Procedure.</s><s>Despite statistically significant and large effect-size differences between the self-select and randommeet conditions in Experiment 1, the precise mechanism underlying these differences was unclear.</s><s>In Experiment 2, we investigated two possible mechanisms behind the differences between the self-select and the random-meet conditions: (a) active versus passive learning and (b) exposure to choices versus rewards.</s></p><p><s>First, we explored the role of active versus passive learning.</s><s>Do the selective samples make participants biased, or does the sense of control make them biased?</s><s>To address this confound, we added a between-subject yoked design.</s><s>In the yoke-both condition, participants did not have a chance to select partners but could view only partners selected for them (like the random-meet condition).</s><s>However, the choices were not randomly drawn from a uniform distribution (unlike the randommeet condition) but were paired from other participants' responses from the self-select condition (see also <ref type="bibr" target="#b24">Markant &amp; Gureckis, 2014;</ref><ref type="bibr" target="#b26">Prager et al., 2018)</ref>.</s><s>Our theoretical model would not predict a difference between the two conditions, but active-learning theories <ref type="bibr" target="#b6">(Bruner, 1961)</ref> suggest a difference.</s></p><p><s>Second, we explored the role of choice exposure and reward exposure.</s><s>Are the rewards attached to each choice important for the estimations, or is the mere presence of choices sufficient for biased impressions?</s><s>To address this, we added another between-subject yoked condition.</s><s>Participants could either encounter the choices and the rewards in the exact sequence (i.e., yoke both), or they could encounter the choices in the same order but the rewards in randomized order (i.e., yoke choice only).</s><s>Our model predicted that reward order matters, given the sequential feedback of this decision process.</s><s>Any perturbation of the reward order should then lead participants to form less biased impressions than the exact order (see model details in Section S3.2 in the Supplemental Material), but the mere-exposure hypothesis suggests little difference <ref type="bibr" target="#b38">(Zajonc, 1968)</ref>.</s></p><p><s>Therefore, Experiment 2 tested four sampling strategies-(a) self-select, (b) yoke-both, (c) yoke-choiceonly, and (d) random-meet-with the same game using identical-reward and no-prior designs.</s><s>We predicted that participants in the self-select, yoke-both, and yokechoice-only conditions would have a lower Herfindahl score in partner choices and a larger standard deviation in reward estimations than participants in the randommeet condition.</s><s>Moreover, we predicted that participants in the yoke-both condition would behave similarly to participants in the self-select condition.</s><s>Finally, we predicted that participants in the yoke-choice-only condition would be less biased than participants in the yoke-both condition.</s><s>In other words, we expected to see graded standard deviations of the estimated rewards and for the self-select condition to show the biggest effects and the random-meet condition to show the smallest effects.</s><s>The hypothesis would fail if there were no estimated differences between conditions (see Sections S2.1, S2.2, and S3.2 in the Supplemental Material).</s></p><p><s>Participants.</s><s>Following a power analysis with pilot data including the two yoked designs (see details in Section S3.2), we recruited 2,005 online workers via Amazon Mechanical Turk's CloudResearch high-quality pool.</s><s>Our Fig. <ref type="figure" target="#fig_3">3</ref>. Empirical results from the "Explore Toma City" game in Experiment 1.</s><s>The graphs in the left column display the frequency with which participants chose each of the four groups, separately for the random-meet and self-select conditions.</s><s>The graphs on the right display estimated reward probability in the final round of the random-meet and self-select conditions, separately for each of the four groups.</s><s>Groups are ordered by frequency of interaction prior to averaging (Group 1 is the group selected most often by each participant).</s><s>Results are shown separately for (a, b) the identical-reward condition without prior bias, (c, d) the different-reward condition without prior bias, (e, f) the identical-reward condition with prior bias, and (g, h) the different-reward condition with prior bias.</s><s>In the graphs in the right column, raw data is shown in the background, and dashed vertical lines represent the ground truth.</s><s>In all graphs, error bars represent bootstrapped 95% confidence intervals.</s><s>(For more analyses, see Section S4.1 in the Supplemental Material.)</s><s>goal was 500 participants in each of the four conditions in order to obtain small to medium effects for the yoked conditions.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p><s>As predicted, and replicating the findings of Experiment 1, results for Experiment 2 showed that participants with a self-select strategy (i.e., in the yoke-both and yokechoice-only conditions) were more likely to have lower Herfindahl scores on partner choices than participants with a random-meet strategy-b = -0.163,</s><s>95% CI = [-0.189,</s><s>-0.138], p &lt; .001;</s><s>random-meet strategy: m = .75,</s><s>d = 0, n = 502; self-select strategy: m =.57, d = .24,</s><s>n = 502, Cohen's d = 1.06.</s><s>This indicates that they interacted more selectively.</s><s>For number of interactions, participants in the random-meet condition interacted 10 times with each group, yet participants with a self-select strategy (i.e., in the yoke-both and yoke-choice-only condition) interacted 20, 10, 8, and 6 times on average with the perceived best, second, third, and worst group, respectively (Fig. <ref type="figure">4a</ref>).</s></p><p><s>Also as predicted and replicating the findings of Experiment 1, results for Experiment 2 showed that participants with a self-select strategy were more likely to show a larger standard deviation of the estimated rewards than participants with a random-meet strategy  <ref type="bibr">[2.658, 5.196]</ref>, p &lt; .001;</s><s>m = 12.75, d = 10.19,</s><s>n = 501, Cohen's d = 0.43) also had a larger standard deviation than those with a random-meet strategy.</s><s>In terms of concrete estimations, participants with a random-meet strategy estimated the rewards to be on average 90, 84, 77, and 68 points (out of 100) in Groups 1 through 4, respectively.</s><s>In contrast, participants with a self-select strategy estimated the rewards to be 84, 72, 62, and 52 points (Fig. <ref type="figure">4b</ref>).</s></p><p><s>Unexpectedly, passive learning exacerbated bias (Fig. <ref type="figure">4b</ref>): Participants in the yoke-both condition estimated the rewards to be on average 89, 75, 65, and 54 in Groups 1 through 4, which shows a larger standard deviation than for the self-select participants (b = 1.351, 95% CI = [0.081,</s><s>2.621], p = .037).</s><s>Our model did not predict a difference, and active-learning research would predict the opposite.</s><s>We speculate that the underestimation of the best group in the self-select condition may have contributed to this empirical finding.</s></p><p><s>Finally, as expected, reward exposure matters (Fig. <ref type="figure">4b</ref>): Participants in the yoke-choice-only condition estimated the rewards to be on average 91, 79, 70, and 59 in Groups 1 through 4, which is a smaller standard deviation than estimated by the participants in the yoke-both condition (b = -1.537,</s><s>95% CI = [-2.807,</s><s>-0.266], p = .018).</s><s>This is consistent with our model and simulation: When the sequence of the rewards was disturbed, estimation would be disturbed as well (in the Supplemental Material, see analysis details in Section S4.2-3 and an exploratory analysis with warmth and competence perceptions in Section S4.2-4).</s></p><p><s>Also replicating the findings of Experiment 1, an individual-level analysis revealed that the more a participant interacted with one group predominantly, the more likely it was that the participant estimated a larger group difference in level of reward-Pearson's r(2003) = -.397,</s><s>p &lt; .001.</s></p><p><s>In sum, a replication with higher statistical power confirmed that participants may have engaged in locally adaptive exploration when exploring a fictional city.</s><s>As a result, they formed inaccurate impressions by perceiving differences between groups when in reality there were no group-level differences.</s><s>The selective samples (rather than the sense of control) and the exposure to rewards (rather than the mere presence of choices) might be key mechanisms that contribute to this phenomenon.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p><s>Adaptive exploration strategies-in an environment with no differences among groups-suffice to generate inaccurate stereotypes.</s><s>We offer a plausible, minimal, sufficient means by which stereotypes can develop.</s><s>Without demonstrated motivations (from social identity, dominance, or threat), cognitive limitations (from selective attention or prior biases), or information deficits (from majority or minority representation), adaptive exploration produces a local impression good enough for present purposes but ignorant of other, foregone possibilities.</s><s>This process is functional: Adaptive exploration maximizes utility in particular social environments without prolonging search.</s><s>However, this otherwise functional approach may cause collateral damage (e.g., inaccurate stereotypes, prejudice, and discrimination) to the unexplored groups.</s><s>This minimal functional paradigm plausibly fits the simulation, the human data, and common sense.</s></p><p><s>This theoretically clean and precisely defined paradigm can guide research on why people form biases.</s><s>For example, biased impressions may start even before people develop prejudices (e.g., right-wing authoritarianism, social-dominance orientation), endorse malicious motivations (e.g., active oppression, resource control), experience cognitive limitations (e.g., cognitive miser, attentional shifts), or encounter information deficits  <ref type="figure">4</ref>. Empirical results from the "Explore Toma City" game in Experiment 2. The graphs in (a) display the frequency with which participants chose each of the four groups, separately for the self-select, yoke-both, yoke-choice-only, and random-meet conditions.</s><s>The graph in (b) displays estimated reward probability in the final round of the four conditions, separately for each of the four groups.</s><s>Groups are ordered by frequency of interaction prior to averaging.</s><s>In (b), raw data is shown in the background.</s><s>Group 1 is the group selected most often by each participant.</s><s>The dashed vertical line represents the ground truth.</s><s>In all graphs, error bars represent bootstrapped 95% confidence intervals.</s><s>(For more analyses, see Section S4.2 in the Supplemental Material.)</s><s>(e.g., group-size differences).</s><s>There are two minimal conditions sufficient for biased impressions to emerge: All groups in the environment are equally likely to result in a successful interaction, and decision-makers make adaptive choices about those interactions.</s></p><p><s>Of course, people with prior prejudices, malicious motivations, higher cognitive loads, selective attention, or lower accessibility to one group should be even more, not less, likely to form inaccurate impressions.</s><s>Research should test how these factors interact with our basic paradigm.</s><s>For example, researchers investigating illusory correlation <ref type="bibr" target="#b17">(Hamilton &amp; Gifford, 1976</ref>; J. W. <ref type="bibr" target="#b28">Sherman et al., 2009)</ref> have assumed asymmetric group sizes.</s><s>Our paradigm relaxes that assumption; even if groups are equal in size, illusory correlations can still emerge as a result of exploratory sampling.</s></p><p><s>Further insight comes from the observation that both our model and human participants were more likely to form accurate impressions when the underlying rewards were different.</s><s>This does not necessarily mean that people will never form inaccurate impressions given real group differences.</s><s>First, the impressions about the least interacted groups were always inaccurate.</s><s>Second, other mechanisms such as motivational biases and cognitive limitations can still play an important role in those situations.</s><s>Future work could test more complex combinations.</s></p><p><s>Another connection is ratio bias-that is, people amplifying proportional trends in large samples <ref type="bibr" target="#b10">(Fiedler et al., 2016)</ref>.</s><s>Because the true proportion of rewarding interactions for each group was high in our study, we actually saw the opposite: Proportional trends are reduced in smaller samples.</s><s>Future work should explore changes in sample size to enrich the current paradigm.</s></p><p><s>In addition, future experiments should examine behaviors among participants who do not speak English or who do not work online.</s></p><p><s>Stereotypes have been described as overgeneralizing some kernel of truth <ref type="bibr" target="#b2">(Allport, 1954)</ref>.</s><s>Implicit in that definition is the mean difference between groups.</s><s>However, our work suggests another possibility: Stereotypes may simply be an accumulation of arbitrary things not based on any truth.</s><s>In both simulations and experiments, the group with whom the agents interacted the most, and thus estimated the most accurately, was completely arbitrary.</s><s>It depended on the initial interactions, which by construction were random.</s><s>However, this limited our analysis to individual-level stereotypes, which differ from collective stereotypes on which society has consensus.</s><s>Future work could include contextual bandits to examine whether people learn mappings between features that make them more likely to generalize certain stereotypes to certain groups <ref type="bibr" target="#b27">(Schulz et al., 2018)</ref>.</s><s>Transmission of information between agents and across generations could be another mechanism of acquiring collective stereotypes <ref type="bibr" target="#b25">(Martin et al., 2014)</ref>.</s><s>Stereotypes about social groups are not unidimensional.</s><s>Future work could test how this paradigm applies to the emergence of complex stereotype contents, such as warmth/communion and competence/ agency <ref type="bibr" target="#b0">(Abele et al., 2021)</ref>.</s></p><p><s>Understanding the origin of inaccurate stereotypes as one consequence of locally adaptive exploration provides new theoretical and pragmatic insights.</s><s>Theoretically, our paradigm pays homage to <ref type="bibr" target="#b33">Tajfel et al's (1971)</ref> minimal-group paradigm, identifying minimal conditions for stereotypes to emerge.</s><s>We predict that stereotypes can result from an adaptive solution to a particularly challenging environment <ref type="bibr" target="#b3">(Anderson, 1991)</ref>.</s><s>The environment is challenging exactly because social groups can be equally rewarding, so people have multiple ways to maximize long-term rewards from interactions.</s><s>This goal is at odds with another goal: forming accurate impressions.</s><s>In seeking to maximize rewards, people are driven to strategies that explore only locally-focusing on options already considered-and it is this adaptive exploration that leads to inaccurate impressions.</s><s>This perspective is intended not to justify stereotypes but rather to demonstrate an even harder, seemingly innocent, but almost unavoidable route for biases to emerge.</s><s>This perspective also encourages researchers to think about how to better modify the social environment and exploration strategies to reduce inaccurate stereotypes.</s></p><p><s>Pragmatically, our paradigm predicts that even if one could address the subpopulation that has malicious intentions or cognitive limitations or even if the environment were to equip people with equal information about all groups, social psychologists should not expect inaccurate stereotypes to naturally disappear.</s><s>To reduce inaccurate stereotypes, we should first intervene at the environmental level.</s><s>For example, participants with a random-meet strategy were exposed to diverse representations of Toma people, so they formed less biased impressions compared with those in the self-select condition who were predominantly exposed to one group.</s><s>Correlational studies show consistent evidence that representational diversity reduces perceived differences among groups <ref type="bibr" target="#b4">(Bai et al., 2020)</ref>, but more natural experiments are needed to test this hypothesis.</s></p><p><s>Our analyses also predict a role for strategies that encourage exploration of the environment.</s><s>Even when the underlying population in a place is diverse, if people just explore on the basis of their past experiences, they will be more likely to behave as our self-select participants did, without noticing that other groups can be equally good.</s><s>Hence, interventions that motivate exploration could combat that all-too-human tendency.</s><s>From this perspective, the intergroup-contact hypothesis may fulfill this cognitive mechanism by encouraging people to interact more with out-group members in a variety of ways <ref type="bibr" target="#b2">(Allport, 1954)</ref>.</s><s>Again, more direct experiments and measures are needed to test this hypothesis.</s></p><p><s>Drawing on theoretical analysis, simulations, and empirical data, we propose that inaccurate stereotypes can result from locally adaptive exploration.</s><s>Rather than rebut prior explanations, we provide a complementary perspective, a process that is general and deep, independent of group motives, cognitive limits, or information constraints.</s><s>Perhaps one origin of stereotypes is much simpler than has been thought; even minimal process assumptions can recreate it.</s><s>However, this simplicity is also troubling: If stereotypes can result from each person pursuing their own self-interest, we may need to work harder to create environments in which problematic stereotypes do not develop.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transparency</head><p><s>Action Editor: Mark Brandt Editor: Patricia J. Bauer</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc><div><p><s>Fig. 1.</s><s>Expected reward distribution for each of k groups in the social multiarmed-bandit paradigm.</s><s>Groups are represented by different colors.</s><s>The actual reward probability (i.e., the dashed line) is unknown to players.</s><s>By interacting and observing payoffs at each time, agents estimate expected utility for each group.</s><s>Expected reward distributions are parameterized by beta(α, b): α represents the number of successful interactions, and b represents the number of unsuccessful interactions (e.g., in the red group, the agent had 20 successful interactions and one failed interaction).</s><s>(For more information, see Section S1.1 in the Supplemental Material.)</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc><div><p><s>Fig. 2. (continued on next page)</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3 .</head><label>3</label><figDesc><div><p><s>Fig. 3. (continued on next page)</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc><div><p><s>-b = 4.113, 95% CI = [2.845,</s><s>5.382], p &lt; .001;</s><s>randommeet strategy: m = 8.82, d = 8.02, n = 502; self-select strategy: m = 12.93, d = 10.83,</s><s>n = 502, Cohen's d = 0.43.</s><s>This indicates that they perceived groups to differ more.</s><s>As predicted, participants in the yoke-both condition (b = 5.464, 95% CI = [4.194,</s><s>6.734], p &lt; .001;</s><s>m = 14.28, d = 11.60,</s><s>n = 500, Cohen's d = 0.55) and yoke-choiceonly condition (b = 3.927, 95% CI =</s></p></div></figDesc></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We are grateful to <rs type="person">Fred Callaway</rs> for sharing dynamic programming code and to <rs type="person">Jerker Denrell</rs>, <rs type="person">Joel Martinez</rs>, <rs type="person">James Walsh</rs>, <rs type="person">Kevin McKee</rs>, <rs type="person">Mark Ho</rs>, <rs type="person">Robert Hawkins</rs>, <rs type="person">Gregg Sparkman</rs>, <rs type="person">Sherry Jueyu Wu</rs>, and <rs type="person">Alex Koch</rs> for stimulating discussions.</p></div>
+			</div>
+			<div type="funding">
+<div><p><rs type="person">Funding X.Bai</rs> was supported by the <rs type="funder">Joint Degree Program in Psychology and Policy</rs>, by a <rs type="grantName">Cognitive Science Fellowship</rs>, and by the <rs type="funder">Prize Fellowship in the Social Sciences at Prince ton University</rs>.Additional funding was provided by start-up funds to <rs type="person">T. L. Griffiths</rs> from <rs type="funder">Princeton University</rs>.</p></div>
+<div><head>Open Practices</head><p>All data and materials have been made publicly available via OSF and can be accessed at https://osf.io/2kv5r/.The design and analysis plans for the experiments were preregistered at on OSF-pilot experiment: https://osf.io/c87qe/, Experiment 1: https://osf.io/smb2t/,Experiment 2: https://osf.io/8c54b/.This article has received the badges for <rs type="person">Open Data</rs>, <rs type="person">Open Materials</rs>, and Preregistration.More information about the Open Practices badges can be found at http://www.psychologicalscience.org/publications/badges.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_PEF2Gyx">
+					<orgName type="grant-name">Cognitive Science Fellowship</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s>Author Contributions T. L. Griffiths and X. Bai developed the research idea.</s><s>S. T. Fiske, T. L. Griffiths, and X. Bai designed the experiments.</s><s>X. Bai programmed and conducted the simulations and the experiments.</s><s>X Bai analyzed the data, and all the authors interpreted the data.</s><s>All the authors wrote the manuscript and approved the final version for submission.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Conflicting Interests</head><p><s>The author(s) declared that there were no conflicts of interest with respect to the authorship or the publication of this article.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplemental Material</head><p><s>Additional supporting information can be found at http:// journals.sagepub.com/doi/suppl/10.1177/09567976211045929</s><s>Note 1. Technically, the problem we consider here has a finite horizon over a limited number of interactions, in contrast to the infinite-horizon setting in which Thompson sampling has been shown to be optimal.</s><s>The optimal finite-horizon solution computed by dynamic programming is also consistent with our results, but we focus on Thompson sampling here because of the previous support reported in the psychological literature (e.g., <ref type="bibr" target="#b15">Gershman, 2018;</ref><ref type="bibr" target="#b27">Schulz et al., 2018)</ref>.</s><s>Further details are provided in Sections S1.1 and S1.4 in the Supplemental Material.</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Navigating the social world: Toward an integrated framework for evaluating self, individuals, and groups</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Abele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ellemers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Fiske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Yzerbyt</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/rev0000262</idno>
+		<ptr target="https://doi.org/10.1037/rev0000262" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="290" to="314" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Analysis of Thompson sampling for the multi-armed bandit problem</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Agrawal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Goyal</surname></persName>
+		</author>
+		<ptr target="http://proceedings.mlr.press/v23/agrawal12/agrawal12.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">JMLR: Workshop and Conference Proceedings: Conference on Learning Theory</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Mannor</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Srebro</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Williamson</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2012-06">2012. June</date>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="39" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The nature of prejudice</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Allport</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1954">1954</date>
+			<publisher>Addison-Wesley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The adaptive nature of human categorization</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="409" to="429" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">As diversity increases, people paradoxically perceive social groups as more similar</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Bai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Ramos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Fiske</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="12741" to="12749" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note>USA</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The psychology of prejudice: Ingroup love and outgroup hate?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Brewer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Issues</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="429" to="444" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The act of discovery</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Bruner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Harvard Educational Review</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="21" to="32" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Why most people disapprove of me: Experience sampling in impression formation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Denrell</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-295X.112.4.951</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="951" to="978" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Adaptation as information restriction: The hot stove effect</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Denrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>March</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organization Science</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="523" to="538" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Why so cynical? Asymmetric feedback underlies misguided skepticism regarding the trustworthiness of others</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fetchenhauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dunning</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="189" to="193" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Anomalies in the detection of change: When changes in sample size are mistaken for changes in proportions</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fiedler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kareev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Avrahami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Beier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kutzner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hutter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memory &amp; Cognition</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="143" to="161" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Attention and weight in person perception: The impact of negative and extreme behavior</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Fiske</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="889" to="906" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A model of (often mixed) stereotype content: Competence and warmth respectively follow from perceived status and competition</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Fiske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J C</forename><surname>Cuddy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Glick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="878" to="902" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Stereotype content across cultures: Variations on a few themes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Fiske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Durante</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of advances in culture and psychology</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gelfand</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C.-Y</forename><surname>Chiu</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp; Y.-Y</forename><surname>Hong</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="209" to="258" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Social cognition</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Fiske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Taylor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Addison-Wesley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Deconstructing the human algorithms for exploration</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Gershman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognition</title>
+		<imprint>
+			<biblScope unit="volume">173</biblScope>
+			<biblScope unit="page" from="34" to="42" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Reinforcement learning in social interaction: The distinguishing role of trait inference</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Hackel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mende-Siedlecki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Amodio</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jesp.2019.103948</idno>
+		<ptr target="https://doi.org/10.1016/j.jesp.2019.103948" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="page" from="88" to="103948" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Illusory correlation in interpersonal perception: A cognitive basis of stereotypic judgments</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Gifford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="392" to="407" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Biased preferences through exploitation: How initial biases are consolidated in reward-rich environments</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fiedler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Marien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Custers</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/xge0000754</idno>
+		<ptr target="https://doi.org/10.1037/xge0000754" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: General</title>
+		<imprint>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1855" to="1877" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Hippel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stereotypes. Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="237" to="271" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The role of stereotyping in system-justification and the production of false consciousness</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Jost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Banaji</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="27" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Rational learning and information sampling: On the &quot;naivety&quot; assumption in sampling explanations of judgment biases</title>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Mens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Denrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<idno type="DOI">10.1037/a0023010</idno>
+		<ptr target="https://doi.org/10.1037/a0023010" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="379" to="392" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Is there a &apos;social&apos; brain? Implementations and algorithms</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Lockwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A J</forename><surname>Apps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W C</forename><surname>Chang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tics.2020.06.011</idno>
+		<ptr target="https://doi.org/10.1016/j.tics.2020.06.011" />
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Cognitive Sciences</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="802" to="813" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Social cognition: Thinking categorically about others</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Macrae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">V</forename><surname>Bodenhausen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="93" to="120" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Is it better to select or to receive? Learning via active and passive hypothesis testing</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Markant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Gureckis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: General</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="94" to="122" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The spontaneous formation of stereotypes via cumulative cultural evolution</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hutchison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Slessor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Urquhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1777" to="1786" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Towards a deeper understanding of impression formation-New insights gained from a cognitive-ecological perspective</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Krueger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fiedler</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/pspa0000123</idno>
+		<ptr target="https://doi.org/10.1037/pspa0000123" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="379" to="397" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Putting bandits into context: How function learning supports decision making</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schulz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Konstantinidis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Speekenbrink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: Learning, Memory, and Cognition</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="927" to="943" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Attentional processes in stereotype formation: A common model for category accentuation and illusory correlation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Sherman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Kruschke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Sherman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Percy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Petrocelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Conrey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="305" to="323" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Sherman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Sherman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Percy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Soderberg</surname></persName>
+		</author>
+		<title level="m">Stereotype development and formation</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Social dominance: An intergroup theory of social hierarchy and oppression</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sidanius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pratto</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Negativity and extremity biases in impression formation: A review of explanations</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Skowronski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Carlston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="131" to="142" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Stereotypes as individual and collective representations</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Stangor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schaller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Stereotypes &amp; stereotyping</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Macrae</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Stangor</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Hewstone</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Guilford Press</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="3" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Social categorization and intergroup behaviour</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tajfel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Billig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Bundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Flament</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="149" to="178" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">An integrative theory of intergroup conflict</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tajfel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Turner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The social psychology of intergroup relations</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Worchel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Austin</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Brooks/Cole</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="page" from="33" to="47" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Categorical and contextual bases of person memory and stereotyping</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Fiske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Etcoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Ruderman</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.36.7.778</idno>
+		<ptr target="https://doi.org/10.1037/0022-3514.36.7.778" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="778" to="793" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">On the likelihood that one unknown probability exceeds another in view of the evidence of two samples</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3/4</biblScope>
+			<biblScope unit="page" from="285" to="294" />
+			<date type="published" when="1933">1933</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Judgment under uncertainty: Heuristics and biases</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tversky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kahneman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">185</biblScope>
+			<biblScope unit="issue">4157</biblScope>
+			<biblScope unit="page" from="1124" to="1131" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Attitudinal effects of mere exposure</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Zajonc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="27" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

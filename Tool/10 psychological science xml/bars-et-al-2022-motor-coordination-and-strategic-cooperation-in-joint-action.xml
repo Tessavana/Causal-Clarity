@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Motor Coordination and Strategic Cooperation in Joint Action</title>
+				<funder ref="#_HyNbHGZ #_g6vmbc4 #_jEpXPaz #_UETHapH">
+					<orgName type="full">Agence Nationale de la Recherche</orgName>
+					<orgName type="abbreviated">ANR</orgName>
+				</funder>
+				<funder ref="#_VUUPK3d">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Institut</roleName><forename type="first">Solène</forename><surname>Le Bars</surname></persName>
+							<email>solene_lb@outlook.fr</email>
+							<affiliation key="aff0">
+								<orgName type="department">Institut Jean Nicod</orgName>
+								<orgName type="laboratory">École des Hautes Études en Sciences Sociales (EHESS)</orgName>
+								<orgName type="institution" key="instit1">École Normale Supérieure</orgName>
+								<orgName type="institution" key="instit2">Centre National de la Recherche Scientifique (CNRS)</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Département d&apos;Études Cognitives</orgName>
+								<orgName type="institution">École Normale Supérieure</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Paris Sciences et Lettres University</orgName>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Altran Lab, Research &amp; Innovation Department</orgName>
+								<address>
+									<addrLine>Capgemini Engineering</addrLine>
+									<settlement>Neuilly-sur-Seine</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jean</forename><surname>Nicod</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Institut</roleName><forename type="first">Valérian</forename><surname>Chambon</surname></persName>
+							<email>valerian.chambon@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">Institut Jean Nicod</orgName>
+								<orgName type="laboratory">École des Hautes Études en Sciences Sociales (EHESS)</orgName>
+								<orgName type="institution" key="instit1">École Normale Supérieure</orgName>
+								<orgName type="institution" key="instit2">Centre National de la Recherche Scientifique (CNRS)</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Département d&apos;Études Cognitives</orgName>
+								<orgName type="institution">École Normale Supérieure</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Paris Sciences et Lettres University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sacha</forename><surname>Bourgeois-Gironde</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institut Jean Nicod</orgName>
+								<orgName type="laboratory">École des Hautes Études en Sciences Sociales (EHESS)</orgName>
+								<orgName type="institution" key="instit1">École Normale Supérieure</orgName>
+								<orgName type="institution" key="instit2">Centre National de la Recherche Scientifique (CNRS)</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Département d&apos;Études Cognitives</orgName>
+								<orgName type="institution">École Normale Supérieure</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Paris Sciences et Lettres University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Valentin</forename><surname>Wyart</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Département d&apos;Études Cognitives</orgName>
+								<orgName type="institution">École Normale Supérieure</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Paris Sciences et Lettres University</orgName>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">École Normale Supérieure</orgName>
+								<orgName type="laboratory">Laboratoire de Neurosciences Cognitives Computationnelles</orgName>
+								<orgName type="institution">Institut National de la Santé et de la Recherche Médicale (INSERM)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Izel</forename><surname>Sari</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institut Jean Nicod</orgName>
+								<orgName type="laboratory">École des Hautes Études en Sciences Sociales (EHESS)</orgName>
+								<orgName type="institution" key="instit1">École Normale Supérieure</orgName>
+								<orgName type="institution" key="instit2">Centre National de la Recherche Scientifique (CNRS)</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Département d&apos;Études Cognitives</orgName>
+								<orgName type="institution">École Normale Supérieure</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Paris Sciences et Lettres University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Elisabeth</forename><surname>Pacherie</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institut Jean Nicod</orgName>
+								<orgName type="laboratory">École des Hautes Études en Sciences Sociales (EHESS)</orgName>
+								<orgName type="institution" key="instit1">École Normale Supérieure</orgName>
+								<orgName type="institution" key="instit2">Centre National de la Recherche Scientifique (CNRS)</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Département d&apos;Études Cognitives</orgName>
+								<orgName type="institution">École Normale Supérieure</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Paris Sciences et Lettres University</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Motor Coordination and Strategic Cooperation in Joint Action</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F37517A4442F85A5AD0E5B98903CEACE</idno>
+					<idno type="DOI">10.1177/09567976211053275</idno>
+					<note type="submission">Received 3/2/21; Revision accepted 9/5/21</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-05-06T13:32+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>joint action</term>
+					<term>motor coordination</term>
+					<term>strategic cooperation</term>
+					<term>economic games</term>
+					<term>sense of agency</term>
+					<term>prosocial strategies</term>
+					<term>leadership</term>
+					<term>open data</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s>Naturalistic joint action between two agents typically requires both motor coordination and strategic cooperation.</s><s>However, these two fundamental processes have systematically been studied independently.</s><s>We presented 50 dyads of adult participants with a novel collaborative task that combined different levels of motor noise with different levels of strategic noise, to determine whether the sense of agency (the experience of control over an action) reflects the interplay between these low-level (motor) and high-level (strategic) dimensions.</s><s>We also examined how dominance in motor control could influence prosocial behaviors.</s><s>We found that self-agency was particularly dependent on motor cues, whereas joint agency was particularly dependent on strategic cues.</s><s>We suggest that the prime importance of strategic cues to joint agency reflects the co-representation of coagents' interests during the task.</s><s>Furthermore, we observed a reduction in prosocial strategies in agents who exerted dominant motor control over joint action, showing that the strategic dimension of human interactions is also susceptible to the influence of low-level motor characteristics.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s>Over the past decades, the study of human action has generally focused on agents acting alone <ref type="bibr" target="#b9">(Charles &amp; Haggard, 2020)</ref>.</s><s>However, in our ultra-social world, agents rarely act in isolation but recurrently coordinate their actions with other people to achieve shared goals <ref type="bibr" target="#b41">(Vesper et al., 2017)</ref>, following strategic rules that aim at maximizing the expected utility of these actions.</s><s>Such rules have been widely modeled by neuroeconomics <ref type="bibr" target="#b38">(Tremblay et al., 2017)</ref>.</s><s>Nevertheless, the specific relation existing between motor (action control) and strategic (action purpose) strata has long been ignored <ref type="bibr" target="#b29">(Mudrik et al., 2020)</ref>.</s><s>For instance, in the field of joint action, the study of motor coordination still prevails <ref type="bibr" target="#b37">(Török et al., 2019)</ref>.</s><s>In parallel, even though sensorimotor interactions and motor efforts have already been modeled using game-theory principles <ref type="bibr" target="#b6">(Braun et al., 2009)</ref>, behavioral economists have persistently overlooked the impact of low-level motor processes on models of social decision-making (see <ref type="bibr" target="#b18">Kleiman-Weiner et al., 2016)</ref>.</s><s>Thus, a considerable number of questions remains unanswered regarding the potential interplay between joint motor control and strategic cooperation in meaningful interactions.</s></p><p><s>In particular, the sense of agency (SOA)-a subjective feeling typically associated with voluntary action in the first person <ref type="bibr">(Haggard &amp; Chambon, 2012)</ref>-has never been studied in the context of strategic interactions.</s><s>According to cue-integration theory <ref type="bibr" target="#b28">(Moore &amp; Fletcher, 2012)</ref>, individual SOA would result from the weighted integration of motoric cues, referring to the internal sensorimotor aspects of the action <ref type="bibr" target="#b45">(Wolpert et al., 1995)</ref>, and perceptual or cognitive cues relating to the external properties of the action <ref type="bibr" target="#b43">(Wegner &amp; Wheatley, 1999)</ref>.</s><s>Although the processes contributing to individual SOA have been much scrutinized, the specific mechanisms contributing to the SOA in coordination tasks remain unclear <ref type="bibr" target="#b3">(Bolt &amp; Loehr, 2017;</ref><ref type="bibr" target="#b30">Obhi &amp; Hall, 2011)</ref>.</s><s>The co-representation of the coagent's intentions <ref type="bibr" target="#b35">(Sebanz et al., 2003)</ref> could be an essential prerequisite for experiencing joint agency.</s><s>Thus, exploring the potential transformation of agentive awareness, from a sense of individual agency to a sense of joint agency <ref type="bibr" target="#b4">(Bolt et al., 2016)</ref>, is particularly intriguing within strategic interactions in which the coagents' intentions are not fully aligned.</s><s>In particular, whether sensorimotor and cognitive cues (including coagents' intentions) are weighted differently to elicit a sense of individual as opposed to joint agency in strategic joint actions (Le <ref type="bibr" target="#b23">Bars et al., 2020)</ref> remains on open question.</s></p><p><s>In a series of novel tasks inspired by recent experiments <ref type="bibr" target="#b11">(Dewey et al., 2014;</ref><ref type="bibr" target="#b23">Le Bars et al., 2020;</ref><ref type="bibr" target="#b40">van der Wel, 2015)</ref>, we instructed dyads of participants to coordinate their actions on-line in order to move a cursor and ultimately reach a target.</s><s>Importantly, the experiments combined different levels of motor noise-operationalized through random deviations applied to the cursor's moves-with different levels of strategic noiseoperationalized through three types of economic games (see Fig. <ref type="figure">1</ref>).</s><s>In a first type of game, in which there was no strategic noise, there was only one rewarding target offering equal gains for both players.</s><s>In this condition, players' proximal intentions (reaching the target) and distal intentions (optimizing their gains) were theoretically aligned <ref type="bibr" target="#b31">(Pacherie, 2008)</ref>.</s><s>Similar to an experiment by <ref type="bibr" target="#b40">van der Wel (2015)</ref>, the second type of game involved pure coordination and low strategic noise.</s><s>Two targets contained similar gains for both players, resulting in aligned distal intentions (both players optimizing identical gains) but potentially conflicting proximal intentions (players trying to reach those gains via targets in two separate positions).</s><s>The last type of game consisted of a highly competitive situation with high strategic noise, commonly named the "battle of the sexes" (BOS; see <ref type="bibr" target="#b10">Colman, 2016)</ref>.</s><s>The two targets contained asymmetric gains creating partially divergent interests in players, leading to potentially conflicting distal and proximal intentions.</s><s>Interestingly, the fact that the current BOS must be played through sequential motor actions makes it comparable with the continuous prisoner's dilemma, in which players have multiple trials in which to cooperate within a particular time window (see <ref type="bibr" target="#b13">Friedman &amp; Oprea, 2012;</ref><ref type="bibr" target="#b17">Killingback et al., 1999;</ref><ref type="bibr" target="#b42">Wahl &amp; Nowak, 1999)</ref>.</s></p><p><s>In a second, block-wise experiment, we also manipulated the games' order (coordination first vs.</s><s>competition first) to assess whether social context could influence SOA judgments as previously suggested <ref type="bibr" target="#b26">(Michael et al., 2016)</ref>.</s></p><p><s>Because leadership has been associated with inconsistent effects in joint agency <ref type="bibr" target="#b4">(Bolt et al., 2016;</ref><ref type="bibr" target="#b30">Obhi &amp; Hall, 2011)</ref>, we additionally implemented three conditions of motor leadership via the spatial configuration of the two rewarding targets (see <ref type="bibr" target="#b40">van der Wel, 2015)</ref>, in both the pure coordination and the BOS games (see Fig. <ref type="figure" target="#fig_1">2</ref>).</s><s>Thus, either both agents were able to choose in which direction to go (i.e., equal leadership) or only one agent maintained this ability, making that agent the leader and the coagent the follower.</s></p><p><s>After each trial, participants had to rate their feelings of individual and collective control over the joint action (Le <ref type="bibr" target="#b23">Bars et al., 2020)</ref>.</s><s>Both types of judgment of control ( JOC) were collected to disentangle the contribution of low-level (motor) and high-level (strategic) processes to sense of self-agency and joint agency <ref type="bibr" target="#b40">(van der Wel, 2015)</ref>.</s><s>We hypothesized that motor and strategic noises would differently influence sense of self-agency</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statement of Relevance</head><p><s>How people interact with each other is a fundamental question in the fields of cognitive neuroscience, social psychology, and economics.</s><s>However, this issue has been studied in a fragmented way, either through a low-level perspective (regarding how agents coordinate their movements) or through a high-level point of view related to social decision-making and strategic reasoning (e.g., through economic games).</s><s>In this research, we investigated how these two cognitive dimensions interact and shape the coagents' sense of agency (the experience of control over an action) during naturalistic joint actions between two agents.</s><s>We found that self-agency over the joint action was particularly related to the lowlevel motor components of the joint action, whereas collective agency was more influenced by the strategic dimension (in terms of splitting gains) of the task.</s><s>Interestingly, strategies-in terms of selfish versus altruistic behaviors-were also shaped by motor parameters, which demonstrates the susceptibility of high-level sociocognitive processes to the low-level motor dimension.</s><s>and joint agency.</s><s>More precisely, we predicted that motor noise would specifically reduce sense of selfagency, which is supposed to strongly rely on internal sensorimotor cues <ref type="bibr" target="#b25">(Metcalfe et al., 2013;</ref><ref type="bibr" target="#b27">Moore, 2016)</ref>.</s></p><p><s>Conversely, we expected judgments of joint agency to be less sensitive to motor noise, notably because the internal motor states of the coagent are not directly available to the agent <ref type="bibr" target="#b32">(Pacherie, 2012)</ref>  Example trial sequences from the joint task.</s><s>In these three examples, Player 1 controlled the movement of the cursor on the x-axis, while Player 2 controlled the movement of the cursor on the y-axis.</s><s>At the beginning of each trial, each player confidentially reported which of the four on-screen targets they intended to try to reach.</s><s>Each target contained two scores separated by a dot (e.g., "3.3").</s><s>The score on the left represented the potential individual gain for Player 1, whereas the score on the right represented the potential individual gain for Player 2. After the choice phase, the mouse cursor and the timer appeared on screen.</s><s>In the condition with no strategic noise (a), there was only one target of interest ("3.3"); here, the induced motor noise was high.</s><s>In the condition with low strategic noise (i.e., convergent interests; b), there were two targets of interest that both contain the exact same gains ("2.2") for each player; here, the induced motor noise was absent.</s><s>In the "battle of the sexes" strategic configuration (c), there were two targets with divergent interests for both players ("3.2" or "2.3"), that is, if players managed to reach a target, one player would earn more points than the other.</s><s>The induced motor noise was intermediate.</s><s>When a cursor reached the target before the end of the countdown, the players earned the points shown in that square, and the target was framed in green for 200 ms.</s><s>Note that stimuli size (e.g., targets, cursor) has been enhanced relative to the screen size for presentation purposes.</s></p><p><s>joint agency relies on the co-representation of other people's intentions, the situations in which players' distal intentions are not aligned (BOS) should reduce joint agency, making it particularly vulnerable to high-level strategic noise.</s><s>Therefore, we should observe a stronger impact of low-level motor processes on self-agency and a stronger impact of high-level strategic processes on joint agency.</s></p><p><s>In addition to exploring the interplay between motor and strategic processes on SOA, we also investigated how the prosocial or selfish strategies observed in BOS situations could be influenced by the joint task parameters such as motor leadership.</s><s>We expected that leadership, implemented in terms of motor lead, would generate an increase in selfish behaviors relative to equal-control conditions, demonstrating that strategic decisions can be, at least partially, shaped by motor parameters <ref type="bibr" target="#b18">(Kleiman-Weiner et al., 2016)</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The joint task</head><p><s>In the joint motor task, communication between partners was not allowed.</s><s>Players were asked to coordinate their actions on-line in order to move a cursor from the center of the screen up to a specific square (i.e., the target) before the end of the timer countdown.</s><s>One of the two partners could move the cursor only in the vertical direction (y-axis), and the other partner could move it only in the horizontal direction (x-axis), making teams' motor coordination essential to carry out the task.</s><s>Players were told that the computer could generate some random deviations in the trajectory of the cursor, making the task more or less difficult (see Fig. <ref type="figure">1</ref>).</s><s>Participants were also instructed to choose the target on the basis of the amount of points displayed in the squares and were explicitly told that these points would be converted into money at the end of the experiment.</s><s>Crucially, the targets' payoffs could be either equal or unequal for both participants, making participants' interests, respectively, congruent or divergent.</s><s>The participants were not informed that the experiment was designed to provide the opportunity for the exact same gains to both participants.</s><s>At the end of each trial, partners were invited to independently rate their "feeling of individual control" and their "feeling of joint control" over the cursor's movement.</s></p><p><s>Unlike in real-life situations, participants could not interact verbally to coordinate, obtain information from, or influence their partner.</s><s>However, the current task is controlling the movement of the cursor on the y-axis.</s><s>Roles (leader vs. follower) were determined by the spatial layout of the two targets of interest, according to the axis that each player controlled.</s><s>When leadership was equal (a), both targets of interest were opposed on both axes, leaving the two players initially free to choose in which direction to move the cursor (i.e., left or right for Player 1; up or down for Player 2).</s><s>When Player 2 was the leader (b), both targets of interest were on the y-axis only, leaving Player 2 free to choose in which direction to go (i.e., up or down).</s><s>However, Player 1 (x-axis) was logically bound to choose the only direction leading to the two targets of interest (i.e., left).</s><s>When Player 1 was the leader (c), both targets of interest were on the x-axis only, leaving Player 1 free to choose in which direction to move the cursor (i.e., left or right), whereas Player 2 was bound to choose the only direction leading to the two targets of interest (i.e., up).</s><s>Note that stimuli size has been enhanced and targets of interest have been framed in white for presentation purposes.</s></p><p><s>captured some important aspects of naturalistic social interaction in three ways.</s><s>First, the action goal was not predetermined, and each participant could choose which target to reach according to expected gains or other strategic considerations (e.g., prosociality vs. selfishness).</s><s>Thus, the action-selection stage was not meaningless, contrary to the paradigm used in previous experiments (see <ref type="bibr" target="#b22">Le Bars et al., 2019;</ref><ref type="bibr" target="#b29">Mudrik et al., 2020)</ref>.</s><s>Second, within a trial, a decision was implemented via several distinct subactions, each of which was required to reach the target, making the task closer to real-life situations in which actions are often sequential <ref type="bibr" target="#b44">(Wen et al., 2015)</ref>.</s><s>Third, in the present task, the agents did not act in complete isolation and outside of any social (cooperative or competitive) context but had to continuously adapt to their partner's goals and actions.</s></p><p><s>Experiment 1: mixed design Participants.</s><s>On the basis of a previous experiment (see <ref type="bibr" target="#b23">Le Bars et al., 2020)</ref>, we estimated the power of the fixed effect of motor noise on judgments of collective control by simulating 100 random samples with simR (Version 1.0.5;</s><s><ref type="bibr" target="#b14">Green et al., 2016)</ref>.</s><s>However, we did not find any experiment close enough to our own to estimate the power of the fixed effect of strategic noise on JOCs.</s><s>Thus, solely on the basis of the power of the effect of motor noise, we determined that at least 16 participants per subgroup would need to complete 192 trials to obtain satisfactory statistical power, (1 -β) = .95,</s><s>95% confidence interval = [.88,</s><s>1.00], and a good replicability rate.</s><s>Then, to create 20 same-gender dyads, we recruited 40 participants (22 female; age: M = 26.92</s><s>years, SD = 4.36).</s></p><p><s>During this first experiment, the three levels of strategic noise were randomly mixed within the blocks.</s></p><p><s>Participants were recruited via an announcement published on the Internet using an information relay specific to cognitive-science experiments (Relais d'Information sur les Sciences de la Cognition <ref type="bibr">[RISC]</ref>).</s><s>Age difference between teammates was controlled so it did not exceed 10 years (age difference between dyad members: M = 4.94 years, SD = 3.60).</s><s>We also ensured that teammates did not know each other before the experimental session, and they were not allowed to communicate until the end of the task.</s><s>Participants were all right-handed, neurologically healthy individuals with normal or corrected-to-normal vision.</s><s>Participants provided written informed consent and were compensated with money (€15-€30) according to their overall performance.</s><s>This study was conducted in accordance with the Declaration of Helsinki, and the Comités de Protection des Personnes (CPP) Ile de France II granted ethical approval.</s></p><p><s>Material.</s><s>Both participants in each dyad sat next to each other at a table at a distance of approximately 50 cm apart.</s><s>They were separated by a divider in the middle of the table, and they both wore headphones playing white noise to prevent any kind of communication.</s><s>The participant on the left of the divider was referred to as "Player 1," and the participant on the right was referred to as "Player 2" during the entire experiment.</s><s>Two similar 19-in.</s><s>LCD monitors (resolution = 1,280 × 1,024 pixels, refresh rate = 60 Hz), one on either side of the divider, displayed the same image at a viewing distance of approximately 60 cm from each player.</s><s>Partners also had their own keyboard to complete the task and to respond to the questions with their right hand, without being seen by the other player.</s><s>We positioned stickers representing arrows (i.e., up, down, left, right) on the relevant keys to facilitate their identification.</s><s>We used MATLAB (Version R2016b; The MathWorks, Natick, MA) and the Psychophysics Toolbox (Version 3; <ref type="bibr" target="#b5">Brainard, 1997;</ref><ref type="bibr" target="#b19">Kleiner et al., 2007;</ref><ref type="bibr" target="#b33">Pelli, 1997)</ref> to write and run the joint task.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure and stimuli.</head><p><s>Questionnaire.</s><s>Before the task, participants completed the abbreviated version of the Singelis scale <ref type="bibr" target="#b36">(Singelis et al., 1995;</ref><ref type="bibr" target="#b39">Triandis &amp; Gelfand, 1998)</ref> so we could obtain an individualism-collectivism score.</s></p><p><s>Training phase.</s><s>The experiment started with a training session, which was intended to familiarize the participants with the basics of the task.</s><s>It consisted of one block of 20 trials in which participants were instructed to reach the square containing the highest score (e.g., "3") by moving the cursor as fast as possible by repeatedly pressing the designated keys.</s><s>Players completed this training session alone, each in turn.</s><s>Thus, unlike in the main task, participants were able to move the cursor on both vertical and horizontal axes, that is, left and right (with K and L keys) and up and down (with Q and W keys), using both hands.</s><s>Moreover, there was no random deviation applied to the cursor trajectory and no strategic noise because there was only one target of interest.</s></p><p><s>Experimental phase.</s><s>The individual training phase was immediately followed by the joint task.</s><s>The experiment consisted of eight blocks of 36 trials each (i.e., 288 trials overall).</s><s>Before each block, the instruction screen was displayed for 5 s and informed players of which buttons to press-which axis to control-during the forthcoming block.</s><s>The axes to be controlled were reversed after each block to ensure that the two partners controlled both directions an equal amount of time by the end of the experiment.</s><s>The levels of motor noise (i.e., the random deviations), strategic noise (i.e., game with convergent or divergent interests), and leadership were mixed within blocks.</s></p><p><s>Trial timeline and factors.</s><s>At the beginning of each trial, a square colored with a random mixture of gray shades appeared at the center of the screen, and four peripheral uniform gray squares (sides = 90 pixels × 0.294 mm = 2.65 cm) were arranged symmetrically along both the x-and y-axes originating from the screen center 0 (i.e., distance x = 12.5 cm; distance y = 12.5 cm).</s><s>Crucially, all targets also contained two numerical scores separated by a dot.</s><s>Those scores ranged from 0 to 3, and participants were informed that their gains would depend on these numbers.</s><s>Participants were also told that points on the left of each target were assigned to Player 1 and points on the right of each target were assigned to Player 2. For example, if the team reached a target indicating "2.2," each player earned 2 points.</s><s>If the team reached a target indicating "2.3," Player 1 earned 2 points and Player 2 earned 3 points.</s><s>On the basis of this information, participants were initially asked to choose the target they would like to reach: Each target was numbered before the trial began, and participants reported the corresponding target's number with their keyboards.</s><s>After both participants had reported this initial choice, the white labels on each target disappeared, and after a 500-ms delay, a white cursor (diameter = 15 pixels × 0.294 mm = 4.41 mm) materialized in the central square as a 7-s countdown (located at the top of the screen) began.</s><s>In each team, one participant was able to move the cursor horizontally (i.e., along the x-axis) using the K (left) and L (right) keys of an AZERTY keyboard, while the other teammate was able to move the cursor vertically (i.e., along the y-axis) using the Q (up) and W (down) keys.</s><s>Thus, on-line coordination between both participants was crucial to successfully move the cursor from the center of the screen to the target.</s><s>Each key press moved the cursor 6-pixels (i.e., 0.18 cm) on the axis that was controlled by the player (e.g., pressing K moved the cursor 6 pixels to the left) and also moved the cursor by 0 to 4.5 pixels on the other axis (i.e., the axis controlled by the other player) in order to generate a deviation in the expected trajectory of the cursor (motor-noise condition).</s><s>The same amount of deviation was applied to both players' key presses.</s><s>The effects of the key presses were continuous, immediate, and added to each other.</s><s>Thus, the actual cursor's moves resulted from the vector combination of both trajectories produced by the players' key presses.</s></p><p><s>If a reward square (i.e., a target with a score &gt; 0 points for at least one of the players) was reached before the end of the countdown, the cursor disappeared and the target was framed in green for 200 ms, meaning that the trial was successful.</s><s>On the contrary, if a null square (i.e., a target with a score = 0 points for both players) was reached, the cursor disappeared and the distractor was framed in red for 200 ms.</s><s>If no target was reached within the time limit, the cursor disappeared, but the squares remained on the screen for 200 ms.</s><s>In those last two situations, trials were counted as failed.</s></p><p><s>To manipulate the sensorimotor dimension of the joint action (i.e., the players' motor intentions), we applied some random deviations to the trajectory of the cursor.</s><s>We used three levels of motor noise: One third of trials was exempt from motor noise (i.e., 0 pixels of deviation), one third of trials was subject to slight deviations (i.e., 1-2 pixels of deviation in the orthogonal direction of the expected trajectory), and one third of trials was subject to higher deviations (i.e., 3.5-4.5 pixels of deviation in the orthogonal direction of the expected trajectory).</s><s>The trajectory deviations could be positive (50% of trials) or negative (50% of trials), meaning that they could be congruent (e.g., target on the right, deviation on the right) or incongruent with the actual direction to the target.</s></p><p><s>To induce some noise at the social decision or strategic level of the joint action, we employed different types of games to manipulate the convergence or divergence of players' interests, corresponding to players' distal intentions (see the introduction).</s><s>Participants were informed that gains on the left of each target were for Player 1, and gains on the right of each target were for Player 2. On this basis, we used three different levels of strategic noise in this experiment (see Fig. <ref type="figure">1</ref>).</s><s>One third of trials was exempt from any strategic noise or conflict because there was only one target of interest (i.e., a target with score &gt; 0 points for both players) that contained similar gains for both players, whereas the three remaining targets were linked to null payoffs for both players.</s><s>Another one third of trials consisted of motor-coordination games in which two targets among the four squares were of similar interest and had similar gains for the two players, whereas the two remaining targets were linked to null payoffs for both players.</s><s>The last one third of trials consisted of typical BOS games in which two targets were of potential interest but contained unequal payoffs (i.e., Player 1 would earn more with one of the two targets of interest, and Player 2 would earn more with the other target of interest), whereas the two remaining targets were linked to null payoffs for both players.</s><s>The individual gains ranged from 0 to 3. Thus, in situations of equal gains across players (i.e., situations of no strategic noise or low strategic noise), the targets of interest could contain the following payoffs: 1.1, 2.2, or 3.3.</s><s>In the BOS configuration, the difference in players' gains within the same target was always equal to 1 point, and the two targets of interest were symmetrical so that they could contain the following payoffs: 0.1 and 1.0, 1.2 and 2.1, 2.3 and 3.2.</s></p><p><s>In situations in which there were two targets of interest (i.e., in pure coordination games and in BOS games), we induced some "spatial leadership" by controlling the locations of these two targets (see Fig. <ref type="figure" target="#fig_1">2</ref>).</s><s>In fact, when the two targets of interest were diametrically opposed on both the x-and y-axes, it was possible for both players to direct the cursor in one or the other direction to reach their preferred target, depending on the gains and the dimension they were in charge of (i.e., left or right vs. up or down), which conferred equal leadership to both players.</s><s>Nevertheless, when the two targets of interest were opposed on one axis only, only the player responsible for that particular axis was able to direct the cursor toward one or the other target, making him or her the leader of that trial.</s><s>In such contexts, the player responsible for the other axis became a follower or a simple contributor to the joint action.</s><s>In sum, by manipulating the spatial arrangement of the two targets of interest, we implemented three motor roles: leader, follower, and balanced roles.</s></p><p><s>Following the procedure of a previous experiment (see <ref type="bibr" target="#b23">Le Bars et al., 2020)</ref>, we asked participants two questions concerning their JOC at the end of each trial.</s><s>One question evaluated their individual JOC and was expressed in the following way: "How much did you feel individually in control of the cursor's movement?"</s><s>The other question assessed their joint JOC: "How much did you feel together in control of the cursor's movement?"</s><s>Both questions were asked in French, which allowed us to further stress the difference between the individual and the collective JOC by using the personal pronouns "tu" (second-person singular) and "vous" (second-person plural).</s><s>The order of these two questions was randomized so that each question was presented an equal number of times as the first or the second question.</s><s>Participants were instructed to answer both questions, one after the other, using a 9-point scale on which 1 meant that they did not feel in control at all, and 9 meant that they felt totally in control.</s><s>Time to answer was not restricted.</s><s>After the two players had answered both questions, feedback about how many points each player just earned during that trial was displayed on the screen for 200 ms.</s><s>The next trial started immediately afterward.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experiment 2: block-wise design</head><p><s>Participants.</s><s>Sixty adult participants (30 teams; 48 female; age: M = 22.84 years, SD = 4.30) were recruited following the same procedure as for Experiment 1.</s><s>In this second experiment, levels of strategic noise were implemented into separate blocks.</s><s>One group of 30 participants (15 teams; 26 female; age: M = 22.30 years, SD = 3.97) started with pure cooperative blocks, whereas the other group (15 teams; 22 female; age: M = 23.43 years, SD = 4.63) began with competitive blocks.</s><s>One team was removed from the analysis of Experiment 2 because a player left before the experiment was completed, leaving 98 participants (49 teams; 58 female; age: M = 24.49</s><s>years, SD = 4.72) in the final global sample.</s></p><p><s>Materials.</s><s>The exact same materials as in the first experiment were used.</s></p><p><s>Procedure and stimuli.</s><s>The questionnaire and the training phases were the same as in Experiment 1.</s></p><p><s>Experimental phase.</s><s>This second experiment, which included fewer factor levels than the first experiment, was made of six blocks of 32 trials each (i.e., 192 trials overall).</s><s>The levels of motor noise and leadership were mixed within blocks, as in the first experiment, but levels of strategic noise were presented in separate blocks in order to dissociate contexts of cooperation and contexts of competition: Half of the teams started with three cooperation blocks followed by three competition blocks, whereas the other half started with three competition blocks followed by three cooperation blocks.</s><s>Overall, all the factors were properly crossed with each other.</s></p><p><s>Trial timeline and factors.</s><s>The trial timeline was the same as in Experiment 1.</s><s>However, we simplified the main factors of motor noise and strategic noise by reducing the number of levels within each factor.</s><s>In Experiment 2, we used only two motor-noise levels, instead of three, corresponding to the no-motor-noise and highmotor-noise conditions.</s><s>In addition, we used only two levels of strategic noise, instead of three, corresponding to the low-strategic-noise (i.e., two similar targets that had similar payoffs for both players) and high-strategic-noise (i.e., the BOS configuration with two targets of interest that had different payoffs for both players) conditions.</s></p><p><s>To explore the impact of social setting on JOCs, we had half of the teams start the joint task with three blocks of low strategic noise corresponding to a cooperative context, followed by three blocks of high strategic noise corresponding to a competitive context.</s><s>The other half of the teams started the experiment with three blocks of competitive trials followed by three blocks of cooperative trials.</s></p><p><s>The leadership factor, JOCs, and all other variables were similar to those in the first experiment.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analysis</head><p><s>Data were analyzed within global models including both experiments in order to control the impact of mixed versus block-wise design on JOC ratings (i.e., mixed blocks of trials vs. cooperative blocks first vs.</s><s>competitive blocks first).</s><s>Moreover, only successful trials were used to build statistical models analyzing JOCs and prosocial behaviors (for the impact of motor and strategic noises on teams' performances, see the Supplemental Material available online).</s><s>This was done to limit the impact of noncontrolled factors, such as frustration, on our subjective measures.</s><s>We used the R programming environment (Version 3.6.2;</s><s>R Core Team, 2019) and lme4 (Version 1.1-21; <ref type="bibr" target="#b1">Bates et al., 2015)</ref> to perform mixed-effects analyses.</s></p><p><s>Prosocial behaviors were analyzed from a particular segment of the data set.</s><s>More specifically, we labeled as "prosocial behaviors" the BOS situations in which the participants in the leader role (i.e., because they were able to direct the cursor up to their selected target) chose-during the initial choice phase-and then reached-during the joint action phase-the target attributing the highest monetary gain to their partners and the lowest monetary gain to themselves.</s><s>Conversely, "selfish behaviors" corresponded to the BOS situations in which the participants assigned to the leader role chose and then reached the target attributing the highest reward to themselves at the expense of their teammates.</s><s>On the basis of this distinction, we ran a mixed-effects logistic regression to explore the impact of four factors on the emergence of intentional prosocial behaviors.</s><s>The first was the games' presentation order (i.e., cooperation and competition were mixed within the blocks vs. blocks of cooperation first vs.</s><s>blocks of competition first).</s><s>The second was the individualism score <ref type="bibr" target="#b36">(Singelis et al., 1995)</ref>.</s><s>The third was the payoff amount (i.e., low gain, intermediate gain, high gain), and the fourth was the leader configuration (i.e., equal leadership configuration: Both players could direct the cursor up to the target of their choice; asymmetrical leadership configuration: Only one player could ultimately direct the cursor to the preferred target, and the second player could only contribute to the effort).</s><s>We entered random intercepts as well as random slopes for the payoff effects and leadership effects; random intercepts and slopes varied within the levels of the players nested in dyads.</s></p><p><s>To fit JOC data with linear mixed models, which require that residuals are normally distributed, we used a square transformation of the data to reduce its initial negative skewness (i.e., reduction from -0.95 to -0.43) and to approach the Gaussian standards.</s><s>The first linear mixed model was designed to compare the impact of low-and high-level processes on self-agency and joint agency.</s><s>Thus, we entered motor noise (i.e., no random deviations vs. small deviations vs. large deviations), strategic noise (i.e., no strategic noise vs. pure coordination game vs. BOS game), leadership (i.e., leader vs. follower vs. equal roles), games' presentation order (i.e., mixed design vs. cooperation first vs.</s><s>competition first), and JOC type (i.e., individual vs. collective) into the model as fixed effects.</s><s>We analyzed the main effects of all of these factors as well as of all of the double and triple interactions involving the JOCtype factor, which was central to our initial hypotheses.</s><s>As recommended by <ref type="bibr" target="#b0">Barr (2013)</ref>, we used a designdriven approach to determine the maximal randomeffects structure associated with confirmatory analysis of our fixed effects of interest.</s><s>Thus, we added random intercepts and random slopes for the effects of JOC type, motor noise, strategic noise, and leadership; random intercepts and slopes varied within the levels of the players nested in dyads.</s></p><p><s>In addition, we ran a second linear mixed model on a restricted part of the data set corresponding to the BOS configurations where the players were assigned to the dominant leader role.</s><s>Thus, we could analyze the impact of the intentional prosocial behaviors adopted by the leading agent on both individual and collective JOCs.</s><s>To do so, we entered the main effect of strategy (prosocial vs. selfish) and the double interaction between strategy and JOC type as fixed effects.</s><s>We added random intercepts and random slopes for the effects of JOC type and strategy; random intercepts and slopes varied within the levels of the players nested in dyads.</s></p><p><s>For both linear mixed models, degrees of freedom and p values were approximated from the calculated likelihood-ratio tests by using Satterthwaite's method (see <ref type="bibr" target="#b21">Kuznetsova et al., 2017)</ref>.</s><s>We used Tukey's honestly significant difference test for post hoc analyses.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>JOC models</head><p><s>Judgments of individual or collective control were collected using two identical 9-point scales (see the Method section).</s><s>We ran a linear mixed model to estimate the impact of low-and high-level processes on both control judgments (for additional details, see the Data Analysis section).</s></p><p><s>There was no main effect of the games' presentation order, F(2, 56) = 1.14, p = .33,</s><s>and no main effect of JOC type (individual control vs. collective control), F(1, 103) = 0.14, p = .71,</s><s>on participants' ratings.</s><s>However, we found that both measures were significantly modulated by the motor-noise factor, F(2, 43) = 46.52,</s><s>p &lt; .0001,</s><s>and JOC ratings were significantly reduced in the case of high motor noise relative to no motor noise, t(146.1)</s><s>= -4.90,</s><s>p &lt; .0001,</s><s>b = -7.03,</s><s>and to low motor noise, t(156) = -3.38,</s><s>p = .0009,</s><s>b = -4.36.</s><s>Low-motornoise conditions also significantly reduced SOA ratings relative to no-motor-noise conditions, t(97.98)</s><s>= -2.089,</s><s>p = .039,</s><s>b = -3.79.</s></p><p><s>We found that the strategic-noise factor significantly impacted both JOC ratings, F(2, 39) = 17.11, p &lt; .0001,</s><s>and there was a significant decrease in the BOS setting (i.e., high strategic noise) compared with the situation with no strategic noise, in which there was only one target of interest, t(55.87)</s><s>= -3.36,</s><s>p = .0014,</s><s>b = -4.64,</s><s>and to the pure coordination game, in which there were two identical targets of interest, t(53.33)</s><s>= -2.04,</s><s>p = .046,</s><s>b = -2.88.</s><s>JOC ratings were not significantly different in the no-and low-strategic-noise conditions, t(139) = 0.32, p = .75,</s><s>b = 0.37.</s></p><p><s>The main effect of leadership, F(2, 73) = 21.49,</s><s>p &lt; .0001,</s><s>revealed that both JOC measures were significantly reduced when players were assigned to the follower role, relative to the dominant leader role, t(148.40)</s><s>= 7.61, p &lt; .0001,</s><s>b = 8.86, and relative to configurations in which both players had equal leadership, t(138.20)</s><s>= 4.79, p &lt; .0001,</s><s>b = 5.37.</s><s>However, there was no statistical difference between dominant leadership and equal leadership on JOC ratings, t(1108) = 0.657, p = .51,</s><s>b = 0.91.</s></p><p><s>None of the double interactions were significant, but we observed a significant triple interaction between agency type (individual control vs. collective control), motor noise, and strategic noise, F(8, 40909) = 5.07, p &lt; .0001,</s><s>as represented in Figure <ref type="figure" target="#fig_2">3</ref>.</s><s>More specifically, we observed that the impact of strategic noise on individual JOCs was considerably reduced in the case of high motor noise, and there was a nonsignificant difference between intermediate and high strategic noise, t(61.71)</s><s>= 1.42, p = .16,</s><s>b = 1.40, and between high and no strategic noise, t(17.83)</s><s>= -0.56,</s><s>p = .58,</s><s>b = -1.20.</s><s>Conversely, the impact of strategic noise on collective JOCs was significant even when the level of motor noise was high, and ratings were significantly reduced in the BOS configuration relative to the intermediate level of strategic noise, t(61.98)</s><s>= -3.79,</s><s>p = .00035,</s><s>b = -3.70,</s><s>and to the level of no strategic noise, t(18.30)</s><s>= -3.125,</s><s>p = .0058,</s><s>b = -5.75.</s><s>This interaction emphasizes the importance of the motor level of intentions in self-agency judgments, compared with the proximal or distal levels of intentions operationalized through the strategic-noise factor.</s><s>In contrast, the latter levels of intentions appeared to have a greater impact on joint JOCs than the level of motor intentions.</s><s>We further illustrate this interaction in Figure <ref type="figure" target="#fig_2">3b</ref>, representing the individual effects (βs and slopes) between the high-and no-noise conditions for both motor and strategic components of the joint action in both JOC measures.</s></p><p><s>Moreover, the triple interaction involving JOC type, strategic noise, and leadership configuration was found to be significant, F(4, 41125) = 8.75, p &lt; .0001,</s><s>as shown in Figure <ref type="figure" target="#fig_3">4</ref>.</s><s>Note that leadership conditions could be operationalized only in situations in which there were two targets, that is, in the low-strategic-noise condition (two targets with equal benefits) and in the BOS configuration (two targets with unequal benefits).</s><s>Furthermore, when the two targets were opposed on both the x-and y-axes, both players had equal leadership.</s><s>However, when both targets were opposed on one axis only, the player who controlled that axis was the dominant leader and the other player was the follower.</s><s>More specifically, we observed that when the agents were assigned to the dominant leader role, the difference between the low-strategic-noise (i.e., two targets in which both players were similarly interested) and the high-strategic-noise (i.e., two targets in which both players had different interests) conditions was not significant for individual JOCs, t(71.46)</s><s>= 1.29, p = .20,</s><s>b = 1.321, whereas it was significant for collective JOCs, t(71.46)</s><s>= 4.23, p &lt; .0001,</s><s>b = 4.32.</s><s>This reduction of collective JOCs in the BOS configuration highlights the importance of co-representing the coparticipants' distal intentions-which were generally frustrated when these coparticipants played the follower role in the BOS configuration-when it comes to judging collective agency.</s><s>Conversely, this pattern of results depicts that only the participants' own distal intentions are crucial for individual agency ratings.</s></p><p><s>We ran a second linear mixed model on a restricted part of the data set (see the Data Analysis section) to compare the influence of intentional prosocial (or selfish) strategies in individual and in collective JOCs.</s><s>We found no main effect of planned strategy on both individual and collective JOCs, F(1, 45.23) = 1.30, p = .26,</s><s>b = -1.08,</s><s>but a significant interaction between planned strategy and JOC type, F(2, 137.026) = 6.28, p = .0025,</s><s>as presented in Figure <ref type="figure" target="#fig_4">5</ref>.</s><s>More precisely, we observed a significant enhancement of collective JOCs in the case of prosocial strategies relative to selfish ones, t(43.14)</s><s>= 2.077, p = .0438,</s><s>b = 2.01.</s><s>In contrast, there was no statistical difference between selfish and prosocial strategies in individual JOCs, t(35.66)</s><s>= -0.91,</s><s>p = .37,</s><s>b = -0.78.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Performances and strategies</head><p><s>Performance, gain, and strategy links.</s><s>Teams' performances in the joint task were globally close to ceiling (M = 92.35%,</s><s>SD = 7.17).</s><s>We further analyzed the potential relationships between the dyad's overall success and gains and the prosociality of each player's actions during the task.</s><s>To do so, we calculated an index of prosociality (see the Data Analysis section) for each dyad during BOS games.</s><s>This index could vary between -1 (i.e., the leading player systematically chose and reached selfish targets) and +1 (i.e., the leading player systematically chose and reached prosocial targets).</s><s>Thus, an index of prosociality equal to 0 would mean that the participant performed the exact same number of prosocial and selfish actions during the game.</s><s>The mean prosociality index was found to be negative, and there was a large variability between teams (M = -.458,</s><s>SD = .423,</s><s>95% confidence interval = [-.58,</s><s>-.34]).</s><s>We then analyzed how the prosociality index observed in the BOS conditions could be related to overall joint task performance and gains across all trial types and conditions.</s><s>Interestingly, we observed a significant positive, yet moderate, correlation, Spearman's r(47) = .36,</s><s>p = .011,</s><s>Spearman's r 2 = .13,</s><s>between the prosociality's index of the team and the global performance rate, meaning that the more the players exhibited prosocial actions, the more they succeeded in the joint task.</s><s>Concomitantly, we also observed a significant positive correlation, Spearman's r(47) = .35,</s><s>p = .013,</s><s>Spearman's r 2 = .12,</s><s>between the prosociality's index and the dyad's mean gains per trial: The more the players exhibited prosocial actions during the game, the higher the dyad's monetary profits at the end.</s><s>Both correlations are presented in Figure <ref type="figure" target="#fig_5">6</ref>.</s><s>Even if the selfish strategy was the most appealing one because it immediately provided higher individual monetary rewards,  it appeared that in a collaborative motor task, in which the final outcomes depend on agents' cooperation, selfish strategies were linked to lower performance and subsequently to lower team gains overall.</s></p><p><s>Prosocial versus selfish strategies.</s><s>We further analyzed which experimental parameters could influence the proportion of participants' intentional prosocial behaviors.</s><s>To do so, we ran a logistic mixed model to fit the binomial distribution of participants' social strategies (i.e., prosocial vs. selfish).</s><s>The main effects plus the double and triple interactions of the four following factors were entered into the model as fixed effects: games' order, payoff values (i.e., low = 0.1, medium = 1.2, high = 2.3), individualism scores from the abbreviated version of the Singelis scale <ref type="bibr" target="#b36">(Singelis et al., 1995;</ref><ref type="bibr" target="#b39">Triandis &amp; Gelfand, 1998)</ref>, and two leadership configurations (i.e., equal leadership: Both players could perform prosocial or selfish actions; dominant leadership: Only one player could ultimately select the prosocial or selfish target, whereas the other player could only contribute to the joint effort).</s><s>The random structure was composed of the random intercepts for the participant and dyad factors plus the random slopes associated with the payoff values and the leadership configuration.</s><s>We found no main effect of individualism, χ 2 (1, N = 98) = 1.43, p = .23,</s><s>no main effect of games' presentation order, χ 2 (2, N = 98) = 1.77, p = .41,</s><s>and no main effect of payoff values, χ 2 (3, N = 98) = 0.25, p = .88,</s><s>on the proportion of prosocial behaviors.</s><s>However, we found that leadership configuration (equal leadership vs. dominant leadership) significantly impacted the proportion of intentional prosocial behaviors, χ 2 (1, N = 98) = 5.62, p = .018,</s><s>b = -0.71.</s><s>Indeed, participants were less inclined to cede the highest monetary gain to their partners when they had the dominating motor role (27.6% of intentional prosocial behaviors) relative to situations in which both players had an equal leadership (35.8% of intentional prosocial behaviors), as shown in Figure <ref type="figure" target="#fig_6">7</ref>.</s><s>The enhancement of prosocial behaviors in this latter situation could reflect conflict avoidance in order to ensure a minimal gain to the dyad.</s><s>None of the double, triple, and quadruple interactions were significant.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p><s>In this study, we aimed to explore the bidirectional link between motor coordination and strategic cooperation in joint action.</s><s>On the one hand, we investigated how low-level motor and high-level strategic processes interact in shaping the subjective experience of action, namely, SOA.</s><s>On the other hand, we examined how some motor parameters of the task could interfere with players' strategies.</s></p><p><s>First, we analyzed the explicit measures of agency ( JOCs).</s><s>We observed a significant interplay between motor noise, strategic noise, and the type of agentive experience.</s><s>As expected, we found that motor noise had a higher impact on individual JOCs than strategic noise.</s><s>Conversely, strategic noise had a higher impact on collective JOCs than motor noise.</s><s>These results are consistent with what cue-integration theory would predict <ref type="bibr" target="#b28">(Moore &amp; Fletcher, 2012)</ref>.</s><s>Agents normally have very reliable motoric cues for their own actions, explaining why these cues dominate the sense of self-agency.</s><s>In contrast, agents cannot typically make precise motor predictions regarding their partner's action, making motoric cues much less reliable for joint SOA.</s><s>Thus, the greater weight of strategic processes in collective JOCs could reflect, in the participant, the integration of the coagent's intentions <ref type="bibr" target="#b20">(Knoblich &amp; Sebanz, 2008;</ref><ref type="bibr" target="#b35">Sebanz et al., 2003)</ref>.</s><s>Note also that partner actions could have been predicted indirectly, and partially, by the perception of the game configuration-especially in the onetarget game and in the BOS game-before being compared with the observed actions.</s><s>Thus, it cannot be ruled out that information about the partner's motor actions may have been partially and indirectly predicted by these perceptual cues.</s></p><p><s>Importantly, the strategic-noise factor combined two distinct strategic dimensions referring to pure coordination, on the one hand, and to self-interest optimization, on the other hand.</s><s>By analyzing the effects on JOCs from one strategic level to the other, we could determine whether both the proximal and the distal intentions of the coagent were co-represented.</s><s>Specifically, the reduction of collective JOCs in the pure coordination game (two identical targets), relative to the condition with only one rewarding target, indicates that the potential divergent intention of the coagent was represented at a proximal level, that is, the level of the target to be reached <ref type="bibr" target="#b7">(Chambon et al., 2017)</ref>.</s><s>Additionally, the reduction of collective JOCs in the BOS game, relative to the pure coordination game, indicates that the divergent interest of the coagent was represented at a distal level, that is, the gain to be optimized.</s><s>Thus, we assume that such co-representations of other individuals' divergent intentions would bring additional decisional options, at both proximal and distal levels, decreasing the fluency of the actionselection process.</s><s>Then, joint SOA would be concomitantly diminished because of a higher load on the prospective component of action selection and planning <ref type="bibr">(Chambon &amp; Haggard, 2012)</ref>.</s><s>Furthermore, we observed a significant interaction between strategic noise, leadership, and agency type on JOC, showing that being the leader specifically increased individual agency in the BOS situation.</s><s>In this asymmetric configuration, leaders could easily reach the selfish target at the expense of their teammates' interests.</s><s>Self-agency was thus boosted in the case of dominant motor control over a joint action resulting in asymmetric gains.</s><s>Conversely, the BOS condition was always associated with reduced collective agency relative to the pure coordination game, even in leaders.</s><s>This result is consistent with the idea that joint agency depends strongly on the co-representation of each other's distal intentions.</s><s>It is also congruent with previous results demonstrating the breakdown of the "we mode" in the case of joint actions related to conflicting intentions in partners (see <ref type="bibr" target="#b40">van der Wel, 2015)</ref>.</s></p><p><s>Globally, the present findings should be considered with caution because they may not be generalizable beyond our samples' specificities.</s><s>In contrast to previous findings showing an impact of social priming on commitment in cooperative joint action (e.g., <ref type="bibr" target="#b26">Michael et al., 2016)</ref>, our results were inconclusive about whether starting the joint task by a cooperative, competitive, or mixed setting influenced SOA.</s><s>This could be because of the overall competitive aspect of the present task.</s><s>Moreover, the motor and strategic perturbations were initially generated by the task to ensure that their potential effects could be assessed in a standardized way.</s><s>Thus, our choice to control perturbations "by design" limits our results' generalizability to situations in which perturbations are entirely generated by the individuals themselves.</s><s>In addition, the increase of motor and strategic noises was associated with an increase in task difficulty so that the current results could also reflect the global difficulty of the joint action (see the Supplemental Material).</s><s>Furthermore, we used explicit measures of feeling of control only.</s><s>Such measures are more sensitive to experimental confounds such as demand effects <ref type="bibr" target="#b15">(Haggard, 2017;</ref><ref type="bibr" target="#b27">Moore, 2016)</ref>.</s><s>Additional studies using implicit measures of agency (e.g., intentional binding) are needed to mitigate the influence of such potential confounds.</s><s>Further work should also explore the impact of higher strategic conflicts on joint SOA by implementing punishments (e.g., money loss).</s><s>Increasing the existing asymmetry in payoff matrices between both players should reduce joint agency (Le <ref type="bibr" target="#b23">Bars et al., 2020)</ref>.</s></p><p><s>Our second objective was to analyze players' strategies.</s><s>First, we found that cooperation (success rate) in the BOS game tended to increase with trial iteration, consistent with what has been observed in the continuous prisoner's dilemma (see <ref type="bibr" target="#b13">Friedman &amp; Oprea, 2012;</ref><ref type="bibr" target="#b17">Killingback et al., 1999)</ref>.</s><s>We also found that dyads' performance and gains were both positively correlated with prosociality scores: Prosociality in leaders was globally linked to higher performance and subsequently to higher dyads' gains.</s><s>This pattern of results raises the question of the potential utility of prosocial behaviors in coordination situations made of iterative games <ref type="bibr" target="#b24">(Meier, 2007)</ref>.</s><s>In standard BOS games, prosociality is not a rational strategy because it immediately reduces the agent's profit.</s><s>However, in the present repetitive motor task, intentional prosociality during competitive games could mirror a certain propensity in coagents to align their intentions, so as to avoid deleterious strategic and motor rivalries leading to failed actions and money loss (miscoordination).</s><s>It is also a way to boost commitment.</s><s>Congruently, we observed an enhancement of joint agency in prosocial behaviors, reflecting the convergence between the leaders' representations of the followers' intentions and the leaders' proximal and distal intentions.</s><s>Because participants were not aware of trial counterbalancing, we believe that prosocial behaviors were also performed with reciprocity in mind <ref type="bibr" target="#b12">(Fehr &amp; Gächter, 2000)</ref>.</s><s>In particular, game iteration allowed players to anticipate changes in leadership, facilitating the emergence of prosociality.</s><s>Thus, in light of the potential concern for maximizing individual gains, the observed prosocial behaviors certainly could not be strictly and purely altruistic (e.g., <ref type="bibr" target="#b2">Batson &amp; Powell, 2003)</ref>.</s><s>Importantly, we additionally found that the number of planned prosocial strategies was modulated by leadership configuration in the BOS game.</s><s>In particular, we observed that prosociality was reduced in the leadership situation, relative to the configuration in which both players had equal control.</s><s>This asymmetry was not immediately explicit in the task and reflected motor dominance that could be understood only through experience and trial iteration.</s><s>Thus, players' planned strategies were effectively influenced by their motor experience of the task <ref type="bibr" target="#b18">(Kleiman-Weiner et al., 2016)</ref>.</s><s>When agents exercised equivalent motor control over the joint action, uncertainty about motor effort (motor rivalry) and subsequent reward (reaching a reward) increased, making prosociality a valuable option.</s><s>These results suggest that the motor parameters of a joint action shape strategic reasoning and form an integral part of decisional processes.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transparency</head><p><s>Action Editor: Karen Rodrigue Editor: Patricia J. Bauer</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig</head><label></label><figDesc><div><p><s>Fig.1.</s><s>Example trial sequences from the joint task.</s><s>In these three examples, Player 1 controlled the movement of the cursor on the x-axis, while Player 2 controlled the movement of the cursor on the y-axis.</s><s>At the beginning of each trial, each player confidentially reported which of the four on-screen targets they intended to try to reach.</s><s>Each target contained two scores separated by a dot (e.g., "3.3").</s><s>The score on the left represented the potential individual gain for Player 1, whereas the score on the right represented the potential individual gain for Player 2. After the choice phase, the mouse cursor and the timer appeared on screen.</s><s>In the condition with no strategic noise (a), there was only one target of interest ("3.3"); here, the induced motor noise was high.</s><s>In the condition with low strategic noise (i.e., convergent interests; b), there were two targets of interest that both contain the exact same gains ("2.2") for each player; here, the induced motor noise was absent.</s><s>In the "battle of the sexes" strategic configuration (c), there were two targets with divergent interests for both players ("3.2" or "2.3"), that is, if players managed to reach a target, one player would earn more points than the other.</s><s>The induced motor noise was intermediate.</s><s>When a cursor reached the target before the end of the countdown, the players earned the points shown in that square, and the target was framed in green for 200 ms.</s><s>Note that stimuli size (e.g., targets, cursor) has been enhanced relative to the screen size for presentation purposes.</s></p></div></figDesc><graphic coords="3,95.25,306.38,311.27,190.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc><div><p><s>Fig.2.</s><s>Leadership configurations.</s><s>In these three examples, Player 1 is controlling the movement of the cursor on the x-axis, while Player 2 is controlling the movement of the cursor on the y-axis.</s><s>Roles (leader vs. follower) were determined by the spatial layout of the two targets of interest, according to the axis that each player controlled.</s><s>When leadership was equal (a), both targets of interest were opposed on both axes, leaving the two players initially free to choose in which direction to move the cursor (i.e., left or right for Player 1; up or down for Player 2).</s><s>When Player 2 was the leader (b), both targets of interest were on the y-axis only, leaving Player 2 free to choose in which direction to go (i.e., up or down).</s><s>However, Player 1 (x-axis) was logically bound to choose the only direction leading to the two targets of interest (i.e., left).</s><s>When Player 1 was the leader (c), both targets of interest were on the x-axis only, leaving Player 1 free to choose in which direction to move the cursor (i.e., left or right), whereas Player 2 was bound to choose the only direction leading to the two targets of interest (i.e., up).</s><s>Note that stimuli size has been enhanced and targets of interest have been framed in white for presentation purposes.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc><div><p><s>Fig. 3. Representation of the triple interaction involving motor noise, strategic noise, and type of judgment of control (JOC) in Experiments 1 and 2 (collapsed).</s><s>The top row (a) shows the mean rating of individual JOC (left) and collective JOC (right) as a function of the level of motor noise and the level of strategic noise (i.e., none = one target, low = two targets, high = battle of the sexes).</s><s>Error bars represent standard errors of the mean.</s><s>Violin plots (b) depict the effect of noise as a function of JOC type and noise type.</s><s>Effects were derived from a linear mixed model (n = 40).</s><s>Dots represent individual data, the width of the beans indicates the density of the data, and the horizontal lines indicate means.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc><div><p><s>Fig. 4. Representation of the triple interaction involving leadership, strategic noise, and type of judgment of control (JOC) in Experiments 1 and 2 (collapsed).</s><s>The top row (a) shows the mean rating of individual JOC (left) and collective JOC (right) as a function of leadership configuration and level of strategic noise (i.e., low = two targets, high = battle of the sexes).</s><s>Error bars represent standard errors of the mean.</s><s>Violin plots (b) depict the effect of leadership as a function of JOC type and level of strategic noise.</s><s>The greater the steepness of the slope, the greater the impact of being a leader on JOCs.</s><s>Effects were derived from a linear mixed model (n = 98).</s><s>Dots represent individual data, the width of the beans indicates the density of the data, and the horizontal lines indicate means.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 5 .</head><label>5</label><figDesc><div><p><s>Fig. 5. Representation of the double interaction involving planned strategy and type of judgment of control (JOC) in Experiments 1 and 2 (collapsed).</s><s>The mean rating of both individual and collective JOC (a) is shown as a function of the strategy chosen by the leading player.</s><s>Error bars represent standard errors of the mean.</s><s>Violin plots (b) depict the effect of strategy as a function of JOC type.</s><s>Effects were derived from a linear mixed model (n = 98).</s><s>Dots represent individual data, the width of the beans indicates the density of the data, and the horizontal lines indicate means.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>RFig. 6 .</head><label>6</label><figDesc><div><p><s>Fig. 6.</s><s>Scatterplots (n = 49 teams) showing the linear correlation between each team's mean prosociality score and (a) the team's mean success and (b) the team's mean gains per trial (Experiments 1 and 2 collapsed).</s><s>Solid lines indicate best-fitting regressions.</s><s>Error bands indicate standard errors.</s><s>Dashed lines indicate the neutral prosociality score corresponding to an overall equal number of prosocial and selfish behaviors.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 7 .</head><label>7</label><figDesc><div><p><s>Fig. 7. Impact of leadership asymmetry on planned prosocial behaviors in the "battle of the sexes" game in Experiments 1 and 2 (collapsed).</s><s>The proportion of prosocial behaviors (a) is shown for each leadership configuration.</s><s>Dots represent individual data, and bars represent group means.</s><s>Error bars represent standard errors of the mean.</s><s>The violin plot (b) depicts individual estimates (slopes) comparing dominant-leadership situations with equal-leadership situations.</s><s>Effects were derived from a linear mixed model (n = 98).</s><s>Dots represent individual data, the width of the bean indicates the density of the data, and the solid vertical line indicates the mean.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc><div><p><s>In iti al Ch oi ce Jo in t Ac tio n Ti m er &amp; Cu rs or On se tTr ia l Fe ed ba ck</s></p></div></figDesc><table><row><cell>a</cell><cell></cell><cell>6. 99</cell><cell>4. 24</cell></row><row><cell></cell><cell>Ch oic e?</cell><cell></cell><cell></cell></row><row><cell>b</cell><cell>Ch oic e?</cell><cell>6. 99</cell><cell>5. 73</cell></row><row><cell>c</cell><cell>Ch oic e?</cell><cell>6. 99</cell><cell>2. 67</cell></row><row><cell></cell><cell></cell><cell cols="2">Response Time</cell></row><row><cell></cell><cell></cell><cell>Player 1</cell><cell>Player 2</cell></row><row><cell></cell><cell></cell><cell></cell><cell>. Moreover, if</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>Funding This research was supported by the <rs type="funder">Agence Nationale de la Recherche (ANR</rs>; Grant No. <rs type="grantNumber">ANR-16-CE28-001401</rs>) and by <rs type="funder">Écoles Universitaires de Recherche Frontiers in Cognition</rs> (Grant No. <rs type="grantNumber">ANR-17-EURE-0017</rs>).V. Chambon was supported by <rs type="funder">ANR</rs> Grants <rs type="grantNumber">ANR-10-IDEX-0001-02 PSL</rs> (program "<rs type="programName">Investissements d'Avenir"</rs>), <rs type="grantNumber">ANR-16-CE37-0012-01</rs> (<rs type="affiliation">ANR</rs> "<rs type="projectName">Jeunes Chercheuses &amp; Jeunes Chercheurs" [JCJC])</rs>, and <rs type="grantNumber">ANR-19-CE37-0014-01</rs> (<rs type="funder">ANR "Projet de Recherche Collaborative" [PRC])</rs>.</p></div>
+<div><head>Open Practices</head><p>All data have been made publicly available via OSF and can be accessed at https://osf.io/c3wju/.The design and analysis plans for the experiments were not preregistered.This article has received the badge for Open Data.More information about the Open Practices badges can be found at http://www.psychologicalscience.org/publications/badges.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_HyNbHGZ">
+					<idno type="grant-number">ANR-16-CE28-001401</idno>
+				</org>
+				<org type="funding" xml:id="_g6vmbc4">
+					<idno type="grant-number">ANR-17-EURE-0017</idno>
+				</org>
+				<org type="funding" xml:id="_jEpXPaz">
+					<idno type="grant-number">ANR-10-IDEX-0001-02 PSL</idno>
+					<orgName type="program" subtype="full">Investissements d&apos;Avenir&quot;</orgName>
+				</org>
+				<org type="funded-project" xml:id="_VUUPK3d">
+					<idno type="grant-number">ANR-16-CE37-0012-01</idno>
+					<orgName type="project" subtype="full">Jeunes Chercheuses &amp; Jeunes Chercheurs&quot; [JCJC])</orgName>
+				</org>
+				<org type="funding" xml:id="_UETHapH">
+					<idno type="grant-number">ANR-19-CE37-0014-01</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Conflicting Interests</head><p><s>The author(s) declared that there were no conflicts of interest with respect to the authorship or the publication of this article.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplemental Material</head><p><s>Additional supporting information can be found at http:// journals.sagepub.com/doi/suppl/10.1177/09567976211053275</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Random effects structure for testing interactions in linear mixed-effects models</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Barr</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyg.2013.00328</idno>
+		<ptr target="https://doi.org/10.3389/fpsyg.2013.00328" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Fitting linear mixed-effects models using lme4</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mächler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bolker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Walker</surname></persName>
+		</author>
+		<idno type="DOI">10.18637/jss.v067.i01</idno>
+		<ptr target="https://doi.org/10.18637/jss.v067.i01" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Altruism and prosocial behavior</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Batson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Powell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of psychology: Personality and social psychology</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Millon</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Lerner</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="463" to="484" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The predictability of a partner&apos;s actions modulates the sense of joint agency</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Bolt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Loehr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognition</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="60" to="65" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Mutual coordination strengthens the sense of joint agency in cooperative joint action</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Bolt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Poncelet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Schultz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Loehr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Consciousness and Cognition</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="173" to="187" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The psychophysics toolbox</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Brainard</surname></persName>
+		</author>
+		<idno type="DOI">10.1163/156856897X00357</idno>
+		<ptr target="https://doi.org/10.1163/156856897X00357" />
+	</analytic>
+	<monogr>
+		<title level="j">Spatial Vision</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="433" to="436" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Nash equilibria in multi-agent motor interactions</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Braun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Ortega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wolpert</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pcbi.1000468</idno>
+		<ptr target="https://doi.org/10.1371/journal.pcbi.1000468" />
+	</analytic>
+	<monogr>
+		<title level="j">PLOS Computational Biology</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">1000468</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Neural coding of prior expectations in hierarchical intention inference</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chambon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Domenech</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">O</forename><surname>Jacquet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Barbalat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pacherie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Koechlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Farrer</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41598-017-01414-y</idno>
+		<ptr target="https://doi.org/10.1038/s41598-017-01414-y" />
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Reports</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">1278</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Sense of control depends on fluency of action selection, not motor performance</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chambon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Haggard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognition</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="441" to="451" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Feeling free: External influences on endogenous behaviour</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Charles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Haggard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quarterly Journal of Experimental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="568" to="577" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Game theory and experimental games: The study of strategic interaction</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Colman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Elsevier</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The phenomenology of controlling a moving object with another person</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Dewey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pacherie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Knoblich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognition</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="383" to="397" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Fairness and retaliation: The economics of reciprocity</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fehr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gächter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Perspectives</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="159" to="181" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A continuous dilemma</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Oprea</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="337" to="363" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">SIMR: An R package for power analysis of generalized linear mixed models by simulation</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Macleod</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/2041-210X.12504</idno>
+		<ptr target="https://doi.org/10.1111/2041-210X.12504" />
+	</analytic>
+	<monogr>
+		<title level="j">Methods in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="493" to="498" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Sense of agency in the human brain</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Haggard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="196" to="207" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Sense of agency</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Haggard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chambon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Biology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="390" to="R392" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Variable investment, the continuous prisoner&apos;s dilemma, and the origin of cooperation</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Killingback</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Doebeli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Knowlton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the Royal Society B: Biological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">266</biblScope>
+			<biblScope unit="page" from="1723" to="1728" />
+			<date type="published" when="1430">1999. 1430</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Coordinate to cooperate or compete: Abstract goals and joint intentions in social interaction</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kleiman-Weiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Austerweil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Littman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Tenenbaum</surname></persName>
+		</author>
+		<ptr target="https://par.nsf.gov/servlets/purl/10026426" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 38th Annual Meeting of the Cognitive Science Society</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Papafragou</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Grodner</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Mirman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Trueswell</surname></persName>
+		</editor>
+		<meeting>the 38th Annual Meeting of the Cognitive Science Society</meeting>
+		<imprint>
+			<date type="published" when="2016-01">2016. January</date>
+			<biblScope unit="page" from="1679" to="1684" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kleiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Brainard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Pelli</surname></persName>
+		</author>
+		<title level="m">What&apos;s new in Psychtoolbox-3? Perception</title>
+		<imprint>
+			<publisher>ECVP Abstract Suppl</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">36</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Evolving intentions for social interaction: From entrainment to joint action</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Knoblich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sebanz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philosophical Transactions of the Royal Society B: Biological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">363</biblScope>
+			<biblScope unit="page" from="2021" to="2031" />
+			<date type="published" when="1499">2008. 1499</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">lmerTest package: Tests in linear mixed effects models</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kuznetsova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Brockhoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H B</forename><surname>Christensen</surname></persName>
+		</author>
+		<idno type="DOI">10.18637/jss.v082.i13</idno>
+		<ptr target="https://doi.org/10.18637/jss.v082.i13" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<imprint>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page">82</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Event-related brain potentials to self-triggered tones: Impact of action type and impulsivity traits</title>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Bars</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Darriba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Á</forename><surname>Waszak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuropsychologia</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="14" to="22" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Agents&apos; pivotality and reward fairness modulate sense of agency in cooperative joint action</title>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Bars</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Devaux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nevidal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chambon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Pacherie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cognition.2019.104117</idno>
+		<ptr target="https://doi.org/10.1016/j.cognition" />
+	</analytic>
+	<monogr>
+		<title level="j">Cognition</title>
+		<imprint>
+			<biblScope unit="page" from="195" to="104117" />
+			<date type="published" when="2019">2020. 2019.104117</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">A survey of economic theories and field evidence on pro-social behavior</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Meier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Economics and psychology: A promising new crossdisciplinary field</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Frey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Stutzer</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="51" to="87" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Metacognition of agency: Proximal action and distal outcome</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Metcalfe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Eich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Miele</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Experimental Brain Research</title>
+		<imprint>
+			<biblScope unit="volume">229</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="485" to="496" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Observing joint action: Coordination creates commitment</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sebanz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Knoblich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognition</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page" from="106" to="113" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">What is the sense of agency and why does it matter?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Moore</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyg.2016.01272</idno>
+		<ptr target="https://doi.org/10.3389/fpsyg.2016.01272" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">1272</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Sense of agency in health and disease: A review of cue integration approaches</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Fletcher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Consciousness and Cognition</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="59" to="68" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Studying volition with actions that matter: Combining the fields of neuroeconomics and the neuroscience of volition</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mudrik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gavenas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Maoz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology of Consciousness: Theory, Research, and Practice</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="67" to="86" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Sense of agency and intentional binding in joint action</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Obhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Experimental Brain Research</title>
+		<imprint>
+			<biblScope unit="volume">211</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="655" to="662" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The phenomenology of action: A conceptual framework</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pacherie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognition</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="179" to="217" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The phenomenology of joint action: Selfagency vs. joint-agency</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pacherie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Joint attention: New developments</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Seemann</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="343" to="389" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The VideoToolbox software for visual psychophysics: Transforming numbers into movies</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Pelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Spatial Vision</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="437" to="442" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">R: A language and environment for statistical computing (Version 3.6.2) [Computer software]</title>
+		<author>
+			<persName><forename type="first">Team</forename><surname>Core</surname></persName>
+		</author>
+		<ptr target="http://www.R-project.org" />
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Representing others&apos; actions: Just like one&apos;s own?</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sebanz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Knoblich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Prinz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognition</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="11" to="B21" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Horizontal and vertical dimensions of individualism and collectivism: A theoretical and measurement refinement</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Singelis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Triandis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Bhawuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gelfand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cross-Cultural Research</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="240" to="275" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Rationality in joint action: Maximizing coefficiency in coordination</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Török</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pomiechowska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Csibra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sebanz</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0956797619842550</idno>
+		<ptr target="https://doi.org/10.1177/0956797619842550" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="930" to="941" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Social decision-making and the brain: A comparative perspective</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tremblay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Sharika</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Platt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Cognitive Sciences</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="265" to="276" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Converging measurement of horizontal and vertical individualism and collectivism</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Triandis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gelfand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="118" to="128" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Me and we: Metacognition and performance evaluation of joint actions</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Van Der Wel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognition</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="49" to="59" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Joint action: Mental representations, shared information and general mechanisms for coordinating with others</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vesper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Abramova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bütepage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ciardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Crossey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Effenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hristova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Karlinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mcellin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R R</forename><surname>Nijssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Schmitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wahn</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyg.2016.02039</idno>
+		<ptr target="https://doi.org/10.3389/fpsyg.2016.02039" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<date type="published" when="2017">2017. 2039</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The continuous prisoner&apos;s dilemma: I. Linear reactive strategies</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Wahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Nowak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Theoretical Biology</title>
+		<imprint>
+			<biblScope unit="volume">200</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="307" to="321" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Apparent mental causation: Sources of the experience of will</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wegner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wheatley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Psychologist</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="480" to="492" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The sense of agency during continuous action: Performance is more important than action-feedback association</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yamashita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Asama</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0125226</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0125226" />
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>Article e0125226</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">An internal model for sensorimotor integration</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wolpert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ghahramani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Jordan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">269</biblScope>
+			<biblScope unit="issue">5232</biblScope>
+			<biblScope unit="page" from="1880" to="1882" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

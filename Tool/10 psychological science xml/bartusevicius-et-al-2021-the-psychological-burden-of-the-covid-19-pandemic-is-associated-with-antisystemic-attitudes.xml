@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Psychological Burden of the COVID-19 Pandemic Is Associated With Antisystemic Attitudes and Political Violence</title>
+				<funder ref="#_ZGNqzyT">
+					<orgName type="full">Carlsbergfondet</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Henrikas</forename><surname>Bartusevic ˇius</surname></persName>
+							<email>henrikas@prio.org</email>
+							<affiliation key="aff1">
+								<orgName type="institution">Peace Research Institute Oslo</orgName>
+								<address>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alexander</forename><surname>Bor</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Political Science</orgName>
+								<orgName type="institution">Aarhus University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Frederik</forename><surname>Jørgensen</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Political Science</orgName>
+								<orgName type="institution">Aarhus University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><forename type="middle">Bang</forename><surname>Petersen</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Political Science</orgName>
+								<orgName type="institution">Aarhus University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Henrikas</forename><surname>Bartusevic</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Henrikas Bartusevic ˇius, Peace Research Institute Oslo</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Psychological Burden of the COVID-19 Pandemic Is Associated With Antisystemic Attitudes and Political Violence</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">88618ED1B089B635E5CDC521BAF67E87</idno>
+					<idno type="DOI">10.1177/09567976211031847</idno>
+					<note type="submission">Received 1/25/21; Revision accepted 6/14/21</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-05-06T13:32+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>antisystemic attitudes</term>
+					<term>Black Lives Matter</term>
+					<term>COVID-19</term>
+					<term>police brutality</term>
+					<term>political activism</term>
+					<term>political violence</term>
+					<term>protest</term>
+					<term>open data</term>
+					<term>open materials</term>
+					<term>preregistered</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s>In 2020, the United States saw more than 22,000 demonstrations-the world's highest annual incidence. 1</s><s>A major protest wave started in May, when demonstrations against police brutality under the slogan "Black Lives Matter" (BLM) erupted after the murder of George Floyd.</s><s>Eventually, some protests and counterprotests involved rioting, clashes with the police, and altercations with heavily armed militia.</s><s>Although the vast majority of events linked to BLM were peaceful (Kishi &amp; Jones, 2020), at least 25 Americans died during the unrest (Beckett, 2020).</s><s>The BLM protests occurred against a historical backdrop of racial injustice and increasing political polarization in the United States.</s><s>However, the timing of these events raises an important question about their underlying causes: The eruption of protests and counterprotests coincided with the outbreak of the most severe global crisis of the 21st century to date-the COVID-19 pandemic.</s></p><p><s>The high incidence of demonstrations in 2020 was not limited to the United States: Demonstrations increased by 7% worldwide in comparison with 2019 <ref type="bibr" target="#b25">(Kishi et al., 2021)</ref>.</s><s>The three other countries examined in the present research-Denmark, Hungary, and Italy-also recorded hundreds and thousands of demonstrations, and more of them occurred in the second half of 2020, potentially after the adverse effects of the pandemic had accumulated. 2</s><s>Indeed, many events were directly linked to the pandemic, particularly to restrictions imposed by governments ("lockdowns") to halt the infections.</s><s>For example, in Denmark, antilockdown protesters torched a life-size figure of the prime minister (Ilsøe, 2021); in Italy, an antilockdown protest 1031847P SSXXX10.1177/09567976211031847Bartusevic</s><s>ˇius et al.COVID-19 Burden and Antisystemic Attitudes and Behavior research-article2021</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s>turned into a riot, wounding 10 police officers <ref type="bibr" target="#b13">(Di Donato &amp; Dewan, 2020)</ref>; in Hungary, students destroyed dormitories with hammers after the prime minister announced that higher education would be moving online <ref type="bibr" target="#b1">(Annár, 2020)</ref>; and in the United States, armed antilockdown protesters entered the Michigan State Capitol ("Coronavirus: Armed Protesters Enter Michigan Statehouse," 2020).</s></p><p><s>The link between the burden of the COVID-19 pandemic and antigovernment sentiments features prominently in public debates, in which anger over restricted rights and freedoms, as well as economic hardship, are often cited among the causes of unrest <ref type="bibr" target="#b18">(Henley, 2020</ref>).</s><s>Yet systematic evidence on these associations remains limited.</s><s>Some studies have examined how the pandemic affects political attitudes, for example, support for illiberal policies <ref type="bibr" target="#b2">(Arceneaux et al., 2020)</ref>, demand for autocratic leadership <ref type="bibr" target="#b0">(Amat et al., 2020)</ref>, and trust in governments following lockdowns <ref type="bibr" target="#b5">(Baekgaard et al., 2020)</ref>.</s><s>Yet to our knowledge, no published work has investigated the link between the burden of COVID-19 and antisystemic sentiments (i.e., dissatisfaction with the fundamental political and social order).</s></p><p><s>Although the literature on the COVID-19 pandemic and political attitudes is expanding, the pandemic's effects on political behavior remain largely unexplored.</s><s>One project investigated the pandemic's effects on protesting in the United States, finding a positive link between financial losses and self-reported participation in the BLM demonstrations <ref type="bibr" target="#b4">(Arora, 2020)</ref>.</s><s>However, this research has been limited to the United States, economic hardship, and protesting in support of BLM.</s><s>Some related research exists at a higher level of aggregation.</s><s><ref type="bibr" target="#b20">Iacoella et al. (2021)</ref> report that stringent government measures were associated with the incidence of protests in the United States but only in counties with considerable economic inequality.</s><s>However, this research did not collect individual-level data.</s><s>Hence, although <ref type="bibr">Iacoella et al.</ref> theorize about the psychological processes underpinning protesting, they did not directly measure people's perceptions of the burden of COVID-19 and their motivations to engage in protests.</s><s>Altogether, we have little evidence on-and an urgent need to understand-how the COVID-19 pandemic affects people's political attitudes and behavior, in particular hostility toward governments and the system writ large.</s></p><p><s>Here, we examine the association between the psychological burden of living through the pandemic, or COVID-19 burden, and antisystemic attitudes and behaviors, including their most hostile forms.</s><s>Specifically, we focus on the recently established construct of the need for chaos: "a desire for a new beginning through the destruction of order and established structures" <ref type="bibr">(Petersen et al., 2020, p.</ref> 12; see also <ref type="bibr" target="#b3">Arceneaux et al., 2021)</ref>.</s><s>This construct reflects generalized aggressive desires elicited, in part, by feelings of social exclusion and a lack of control over life.</s><s>In this way, need for chaos likely involves strong feelings of "upward contempt," that is, elite-directed contempt, which has been found to motivate "non-normative forms of action that challenge the legitimacy of the current social system" <ref type="bibr">(Becker &amp; Tausch, 2015, p. 49)</ref>.</s><s>While need for chaos represents an extreme form of antisystemic attitudes, recent research suggests that such hostile sentiments may have some hold in up to 40% of the population in Western countries <ref type="bibr" target="#b3">(Arceneaux et al., 2021)</ref>.</s></p><p><s>Furthermore, we analyze political activism, understood here as participation in collective action for political causes.</s><s>Our goal is to explain participation in collective action, not individual behavior directed at improving personal conditions <ref type="bibr" target="#b40">(Wright et al., 1990)</ref>.</s><s>In collective action, a group member engages as a representative of the group, and the action is directed at improving the condition of the entire group <ref type="bibr">(Wright</ref></s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statement of Relevance</head><p><s>In 2020, many countries experienced a large number of demonstrations, some with lethal violence.</s><s>We investigated whether the psychological burden of the COVID-19 pandemic played a role in these events.</s><s>More than 6,000 adults from the United States, Denmark, Italy, and Hungary were asked whether the COVID-19 pandemic negatively affected their health, finances, relationships, and rights.</s><s>Subsequently, interviewees reported antisystemic attitudes (dissatisfaction with their societies and governments) and whether they were motivated to engage, or had already engaged, in protests and political violence.</s><s>Overall, levels of antisystemic attitudes were low, and only a small portion of interviewees reported motivations to engage in and actual engagement in political violence.</s><s>However, people who felt a larger psychological burden from the pandemic also had more destructive attitudes toward their societies and governments as well as stronger motivations to participate in political violence.</s><s>Beyond their impact on public health and the economy, pandemics thus constitute a psychological burden that may disrupt the relationship between citizens and their societies and governments.</s><s>An important part of successful pandemic management is therefore to prevent citizens' alienation from the social and political <ref type="bibr">system. et al., 1990)</ref>.</s><s>Political causes include incompatibilities over state-or national-level politics, for example, the form of state governance, particular policies, or laws.</s><s>Protests against stringent anti-COVID-19 policies or the criminal-justice systems are examples of political activism.</s><s>When political activism involves violence, we refer to it as political violence.</s></p><p><s>How Can the Psychological Burden of COVID-19 Promote Antisystemic Attitudes and Behaviors?</s></p><p><s>The pandemic and lockdowns can erode social relationships <ref type="bibr" target="#b23">(Killgore et al., 2020)</ref>, undermine physical and mental health <ref type="bibr" target="#b9">(Clemmensen et al., 2020;</ref><ref type="bibr" target="#b12">Cullen et al., 2020)</ref>, induce disease-related fears <ref type="bibr" target="#b32">(Ornell et al., 2020)</ref>, and generate economic losses <ref type="bibr" target="#b27">(Laborde et al., 2020)</ref>.</s><s>These outcomes, in turn, can increase social exclusion-a predictor of aggression <ref type="bibr" target="#b38">(Twenge et al., 2001)</ref>or promote risk-seeking aimed at preventing losses <ref type="bibr" target="#b22">(Kahneman &amp; Tversky, 1984)</ref>.</s><s>Socioeconomic losses can also create frustrations, leading to aggression via the frustration-aggression link <ref type="bibr">(Berkowitz, 1989)</ref>.</s><s>Such aggression can be directed toward actors that are held responsible for the adverse effects of the pandemic, which are typically governments.</s></p><p><s>The theorized psychological pathways-connecting the pandemic's adverse effects to antigovernment attitudes and behaviors-are consistent with extant research on political violence.</s><s>Radicalization research suggests that social exclusion or marginalization can activate a "quest for significance," a key motivator of violent extremism <ref type="bibr">(Kruglanski et al., 2014, p. 73)</ref>.</s><s>Research on need for chaos indicates that marginalization also promotes a generalized desire to "burn down" established societal and political structures <ref type="bibr" target="#b3">(Arceneaux et al., 2021;</ref><ref type="bibr" target="#b33">Petersen et al., 2020)</ref>.</s><s>Furthermore, research on authoritarianism shows that societal threat (e.g., a deteriorating national economy) promotes endorsement of the use of force among authoritarians <ref type="bibr" target="#b14">(Feldman &amp; Stenner, 1997)</ref>.</s></p><p><s>These observations suggest that the pandemic generates antigovernment sentiments and behaviors via several pandemic-specific pathways (e.g., unprecedented social exclusion).</s><s>However, the pandemic also likely affects psychological variables and pathways emphasized in extant collective-action models <ref type="bibr" target="#b39">(van Zomeren et al., 2008)</ref>.</s><s>The pandemic can disproportionally afflict particular social groups <ref type="bibr" target="#b4">(Arora, 2020)</ref>, generating anger over group-based injustice.</s><s>Anger shared among members of a disadvantaged group is a key motivator of participation in collective action <ref type="bibr" target="#b39">(van Zomeren et al., 2008)</ref>.</s><s>The pandemic can concurrently undermine people's sense of political efficacy (i.e., beliefs about the ability to effect political change), because collective action is impeded by lockdowns, and governments are seen as having greater powers to enforce stringent policies than they would during normal times.</s><s>Low political efficacy, in turn, has been shown to predict engagement in nonnormative (violent), rather than normative (peaceful), collective action <ref type="bibr" target="#b6">(Becker &amp; Tausch, 2015)</ref>.</s></p><p><s>In the United States, the COVID-19 pandemic coincided with salient events of police brutality, causing widespread anger over another group-based injustice.</s><s>The murder of George Floyd may have served as a major catalyzing event, unleashing anger concurrently caused by the pandemic.</s><s>The combination of COVID-19 burden and police brutality potentially created a perfect storm, leading to a wave of contention in the United States and beyond <ref type="bibr" target="#b24">(Kishi &amp; Jones, 2020)</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypotheses</head><p><s>We tested, specifically, whether the psychological burden of the COVID-19 pandemic is associated with antisystemic attitudes (need for chaos; Hypothesis 1) and antigovernment behaviors (peaceful activism and political violence; Hypothesis 2).</s><s>We also tested whether the association between COVID-19 burden and antigovernment behaviors is moderated by other disruptive events.</s><s>Given the massive demonstrations following the murder of George Floyd, we predicted that police violence may act as a catalyst igniting activism and violence among people already suffering from the pandemic.</s><s>Specifically, we tested whether perceptions and self-reported experience of police violence increased (i.e., positively moderated) the association between perceived COVID-19 burden and antigovernment behaviors (Hypothesis 3).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data</head><p><s>We collected two-wave panel data (i.e., repeated measurements of individuals) via online surveys of adults in countries with different degrees of political polarization, or animosity across partisan lines, and expected COVID-19 burden: the United States, Denmark, Italy, and Hungary (ns = 6,131 and 4,568 in Waves 1 and 2 respectively).</s><s>At the time of the surveys, Denmark and Hungary were considerably less affected by COVID-19 in terms of cases and deaths than Italy and the United States.</s><s>Furthermore, political polarization was high in Hungary and the United States, more moderate in Italy, and low in Denmark <ref type="bibr">(Coppedge et al., 2020)</ref>, both in general and in debates about COVID-19 specifically.</s><s>By collecting data in these four countries, we thus aimed to assess whether our results would generalize to contexts with varying degrees of polarization and COVID-19 burden.</s><s>In addition, the four countries varied with respect to democracy level.</s><s>Whereas Denmark and Italy were classified as highly democratic regimes, the United States and Hungary recently experienced democratic backsliding <ref type="bibr" target="#b35">(Repucci, 2020)</ref>.</s></p><p><s>Wave 1 was collected in the second half of April 2020 and Wave 2 between the second half of June and the end of July 2020.</s><s>All surveys were administered in native languages and conducted by the survey agency YouGov.</s><s>YouGov quota-sampled for age, gender, geography, and education to obtain nationally representative samples.</s><s>For Wave 1, we asked YouGov to collect 1,500 completed questionnaires in each country.</s><s>No a priori power analyses were conducted.</s><s>Post hoc sensitivity analyses demonstrate that the main models can detect small associations with 80% power at an α of 5%, except for the interaction tests (Hypothesis 3) in the United States; for details, see Section S17 in the Supplemental Material. 3</s><s> In Wave 2, we aimed to recruit as many interviewees as possible from Wave 1 but had no fixed target.</s><s>In Wave 2, data collection stopped when the survey agency deemed that it was not realistic to collect more responses.</s><s>Overall, 75% of Wave 1 interviewees completed Wave 2 (76% in the United States, 85% in Denmark, 80% in Italy, and 58% in Hungary).</s><s>Our analyses below include tests of potential attrition bias.</s><s>We did not have access to the data before data collection stopped.</s><s>In the main analyses, we coded responses of "don't know" and "prefer not to state" as missing values.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcomes</head><p><s>To test Hypothesis 1, we used a validated Need for Chaos Scale <ref type="bibr" target="#b33">(Petersen et al., 2020)</ref>.</s><s>Interviewees indicated their agreement with eight items on a 7-point Likert scale (see Section S1 for the items).</s><s>The scale showed satisfactory reliability across the four samples and the two waves: Cronbach's αs ranged from .84 (Hungary) to .90 (the United States) in Wave 1 and from .85 (Hungary and Italy) to .90 (the United States) in Wave 2.</s></p><p><s>To assess political and nonpolitical aspects of need for chaos, we used the political and nonpolitical subscales of the Need for Chaos Scale.</s><s>Example items are, respectively, "When I think about our political and social institutions, I cannot help thinking 'just let them all burn,'" and "I fantasize about a natural disaster wiping out most of humanity such that a small group of people can start all over."</s><s>For the political subscale, Cronbach's αs ranged from .74 (Italy) to .</s><s><ref type="bibr">83 (Denmark)</ref> in Wave 1 and from .76 (Italy) to .81 (the United States and Denmark) in Wave 2. For the nonpolitical subscale, αs ranged from .78 (Italy) to .88 (the United States) in Wave 1 and from .79 (Denmark) to .89</s><s>(the United States) in Wave 2.</s></p><p><s>To test Hypothesis 2, we used two validated scales: the Activism Intention Scale and the Radicalism Intention Scale (both measured at Wave 2 only; <ref type="bibr" target="#b30">Moskalenko &amp; McCauley, 2009)</ref>.</s><s>The first scale measures behavioral intentions to engage in peaceful political activism (e.g., "I would travel for one hour to join in a public protest, or demonstration in support of my group"), and the second scale measures behavioral intentions to engage in political violence (e.g., "I would participate in a public protest against oppression of my group even if I thought the protest might turn violent"; see Section S2 for other items).</s><s>Responses on both scales were made on a 7-point Likert scale.</s><s>For nonviolent intentions, αs ranged from .85 (Italy and Hungary) to .87 (Denmark).</s><s>For violent intentions, αs ranged from .82 (Italy) to .85 (Denmark and Hungary).</s><s>Behavioral intentions correlate with actual behavior <ref type="bibr" target="#b36">(Sheeran, 2002)</ref>, including participation in collective action <ref type="bibr" target="#b39">(van Zomeren et al., 2008)</ref> and fighting in armed conflicts <ref type="bibr" target="#b16">(Gómez et al., 2017)</ref>.</s></p><p><s>Interviewees may be unwilling to report intentions to engage in political violence, for example, because of self-representation concerns.</s><s>Therefore, we also measured behavioral intentions to engage in violence via a list experiment, an item-count technique (administered at Wave 2 only).</s><s>The list experiment allowed us to estimate the proportion of the sample who agreed with the sensitive statement without asking individual interviewees to explicitly express support for it.</s><s>To elaborate, we assigned a random half of interviewees to the baseline list with four neutral statements (e.g., "I enjoy listening to music"; see Section S3 for other items) and the other half to the treatment list, which contained the same four neutral statements plus the sensitive statement, "I would use violence against the government or other authorities (for example, during a protest)."</s><s>Subsequently, we asked the interviewees to indicate how many of the statements they agreed with.</s><s>Because interviewees indicated the number of statements they agreed with, rather than agreement with particular statements, we expected the list experiment to reduce socially desirable responding.</s></p><p><s>Analysis of a list experiment assumes that agreement with neutral statements is on average the same for interviewees presented with a baseline list and those presented with a treatment list.</s><s>Given this, the standard procedure for analyzing a list experiment involves, first, generating subsamples based on predictor scores and, second, estimating the proportion of interviewees (within each subsample) who agree with the sensitive item.</s><s>This proportion is estimated by subtracting the mean agreement for the baseline list from the mean agreement for the treatment list.</s><s>This is a standard difference-in-means estimator.</s><s>We report estimates generated by this estimator below and those generated by more complex estimators in Section S12.</s></p><p><s>We also obtained self-reports of participation in protests and political violence using standardized questions from the Global Barometer Surveys (https://www.glo</s><s>balbarometer.net/survey_qu;</s><s>measured at Wave 2 only).</s><s>Interviewees indicated whether they "attended a demonstration or a protest march" and whether they "used force or violence for a political cause" using a 5-point scale from no, would never do this to yes, often (the complete questions can be found in Section S4).</s><s>We expected this outcome to be relevant only in the analysis of the U.S. sample, because none of the other countries recently experienced protest events of such large scale.</s></p><p><s>Finally, in the U.S. sample, we also obtained selfreports of participation in the BLM protests and counterprotests (at Wave 2 only).</s><s>We used the formulation from the Global Barometer Surveys as a template, supplemented with specific questions about engagement in various activities during the demonstrations.</s><s>Section S5 provides the complete questions.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Predictors</head><p><s>To measure COVID-19 burden, we introduced a formative index, the Perceived COVID-19 Burden Scale (administered at both survey waves).</s><s>Interviewees indicated their agreement with 10 items on a 7-point Likert scale reflecting burden with respect to physical and mental health (e.g., "I have felt extremely unwell as a consequence of the coronavirus crisis"), finances/ economy ("The coronavirus crisis has affected negatively my financial situation"), political rights ("The extraordinary measures taken by the government in response to the coronavirus crisis make me concerned about my democratic rights"), social life ("My social life has suffered a great deal due to the coronavirus crisis"), and state protection ("The coronavirus crisis made me realize that all individuals can only rely on themselves").</s><s>See Section S6 for other items.</s></p><p><s>To assess the interaction with police violence (i.e., Hypothesis 3), we obtained two measures (both obtained at Wave 2 only).</s><s>First, we measured perceived and selfreported experience of police violence with the Police Violence Scale (see Section S7).</s><s>The scale reflects interviewees' perceptions of police violence among typical people and among friends and family, as well as selfreported personal experience of police violence (e.g., "short-term detainment" or being "beaten up by police"; see Section S7 for other items).</s><s>Second, we embedded a randomized experiment in the questionnaire that was intended to manipulate the salience of police violence.</s><s>The treatment and control conditions differed with respect to question order.</s><s>In the treatment condition, interviewees first replied to questions about police violence and then immediately to questions about political activism and political violence.</s><s>In the control condition, interviewees replied to questions about outcomes first and then to questions about police violence.</s><s>This questions-as-treatment experiment <ref type="bibr" target="#b37">(Transue, 2007)</ref> tested whether manipulating the salience of police violence increased the association of perceived COVID-19 burden with political activism and political violence.</s></p><p><s>We also obtained a basic set of demographics: age (15 age categories from 18-22 to 90+), gender (men and women, coded 0 and 1, respectively), race (in the U.S.-specific models; White, Black, Hispanic, Asian, Native American, mixed, other), and education (low, medium, and high).</s><s>In the robustness analyses presented below, we controlled for additional variables.</s><s>Sections S8 through S10 provide descriptive statistics, histograms, and bivariate correlations for all predictors and outcomes.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Modeling</head><p><s>Perceived COVID-19 burden and antisystemic attitudes (need for chaos) were measured at both survey waves.</s><s>By contrast, intentions to engage in nonviolent activism and political violence, as well as self-reported participation in violence were measured only at Wave 2. Given this, we estimated two types of models: (a) standard multiple regressions with predictors measured at Wave 1 and outcomes measured at Wave 2 (these models were applicable to all our outcomes) and (b) two-way linear fixed-effects regressions with predictors and outcomes measured at both survey waves (these models were applicable only to need for chaos).</s></p><p><s>The first type of models used between-individual variation in predictors and outcomes to estimate the coefficients (hence they are referred to below as "between-individual models").</s><s>These models were thus vulnerable to confounding by individual-level omitted variables.</s><s>Therefore, we controlled for the demographics as described above.</s><s>However, because we could not account for all possible individual-level confounders, the estimates of the between-individual models should be interpreted as reflecting associations.</s><s>We used Wave 1 predictors and Wave 2 outcomes to alleviate concerns over reverse causality.</s><s>However, we cannot rule out the possibility that (unmeasured) outcomes prior to Wave 1 influenced Wave 1 predictors.</s></p><p><s>The second type of models used within-individual variation over time (referred to below as "withinindividual models").</s><s>These models are analogous to multilevel models commonly used in personality psychology to study psychological processes within people <ref type="bibr" target="#b8">(Christ et al., 2018</ref>; see also <ref type="bibr" target="#b29">McNeish &amp; Kelley, 2019)</ref>.</s><s>In such multilevel models, repeated measurements of individuals constitute Level 1 observations (e.g., experience of some events measured at daily intervals for the same person), and measurements of individual traits constitute Level 2 observations.</s><s>The key advantage of these models is that they allow estimation of within-individual effects with time-invariant between-individual effects entirely removed from the coefficients.</s><s>In linear two-way fixedeffects models, as well as linear multilevel models, this is achieved by individual-level "de-meaning" (i.e., subtracting within-individual means of each variable from each observation).</s><s>These models thus estimate whether within-individual changes in the predictors relate to within-individual changes in the outcomes.</s><s>Because most individual traits remain constant over short periods of time, their influence on the within-individual variation in the predictors and outcomes is controlled for.</s><s>Thus, these models-by design-fully control for all (observable and unobservable) time-invariant characteristics.</s><s>Given this, our main two-way fixed-effects specifications did not include any individual-level controls; we included only a dummy variable representing the survey waves, which controlled for the overall changes in the predictors and outcomes between the two waves.</s><s>Importantly, although these estimators effectively control for all timeinvariant characteristics, confounding from time-varying variables and reverse causality remain potential sources of bias.</s><s>Hence, although our within-individual models address key sources of unmeasured confounding (e.g., stable individual differences), their estimates should also be interpreted as reflecting associations.</s></p><p><s>We conducted tests on the individual samples and on the pooled sample (i.e., after merging samples from all countries into one).</s><s>The within-individual models account for both individual-and country-level timeinvariant confounding.</s><s>To account for country-level confounding in the between-individual models, we used country-level demeaning <ref type="bibr" target="#b29">(McNeish &amp; Kelley, 2019)</ref>.</s><s>To aid interpretation of coefficients, we rescaled all variables to range from 0 to 1.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Is the psychological burden of COVID-19 associated with antisystemic attitudes?</head><p><s>Yes.</s><s>For comparability across outcomes, we first estimated between-individual models with the Perceived COVID-19 Burden Scale measured at Wave 1 and the Need for Chaos Scale measured at Wave 2. These models identified positive associations in the pooled and separate samples (see Fig. <ref type="figure" target="#fig_0">1</ref>).</s><s>We then used withinindividual models on the entire panel data.</s><s>Perceived COVID-19 burden was associated with need for chaos (b = 0.11, 95% confidence interval [CI] = [0.07,</s><s>0.15]).</s><s>Subsequent analyses indicated that perceived COVID-19 burden was associated with both the political (b = 0.15, 95% CI = [0.10,</s><s>0.21]) and nonpolitical (b = 0.08, 95% CI = [0.04,</s><s>0.12]) components of need for chaos.</s><s>In our data, the largest within-individual change in the Perceived COVID-19 Burden Scale from Wave 1 to Wave 2 was 0.54.</s><s>According to our analyses, such a change in perceived COVID-19 burden would be associated with a 6% change in need for chaos.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Is the psychological burden of COVID-19 associated with nonviolent political activism and political violence?</head><p><s>Yes, with qualifications.</s><s>Here and for the following analyses, we estimated between-individual models.</s><s>As shown in Figure <ref type="figure" target="#fig_0">1</ref>, perceived COVID-19 burden was associated with both the Activism Intention Scale and Radicalism Intention Scale in the pooled sample.</s><s>A 1-standard-deviation increase in the Perceived COVID-19 Burden Scale was associated with 2.2% and 3.8% increases in activism and radicalism intentions, respectively.</s><s>The association between perceived COVID-19 burden and nonviolent activism was driven by Hungary and Denmark (Fig. <ref type="figure" target="#fig_0">1</ref>).</s><s>By contrast, perceived COVID-19 burden was consistently associated with radicalism in all four countries.</s><s>Tables <ref type="table">S19</ref> and<ref type="table">S20</ref> provide further details.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Is the psychological burden of COVID-19 associated with intentions to engage in political violence as measured with a list experiment?</head><p><s>Yes.</s><s>We first estimated the overall proportion of interviewees who agreed with the sensitive item, "I would use violence against the government or other authorities (for example, during a protest)."</s><s>Here, we used a difference-in-means estimator and subtracted mean agreement (average number of statements interviewees agreed with) in the baseline list from the mean agreement in the treatment list, 2.178 -2.111 = 0.067.</s><s>The analysis thus suggests that 6.7% of interviewees agreed with the sensitive statement (i.e., expressed intentions to engage in political violence).</s><s>For comparison, the percentage of interviewees who expressed intentions The estimates are based on Models 1 through 5 in Table <ref type="table">S13</ref> (Need for Chaos Scale), Table <ref type="table">S20</ref> (Radicalism Intention Scale), and Table <ref type="table">S19</ref> (Activism Intention Scale) in the Supplemental Material.</s></p><p><s>to engage in political violence when asked directly-"Would you do this if you had the chance?</s><s>Use force or violence for a political cause (for example, during a demonstration)"-was 5.9% (among those who responded).</s><s>We then generated two subsamples using a median split: low and high perceived COVID-19 burden (ns = 2,118 and 2,450, respectively).</s><s>In turn, we estimated analogous proportions of interviewees in each subsample who agreed with the sensitive statement, which were 0.7% and 11.9%, respectively.</s><s>Hence, the proportion of interviewees who agreed with the sensitive statement was larger by 11.2 percentage points in the high-burden subsample.</s><s>Subsequently, we conducted analogous analyses with alternative estimators, which allowed adding controls.</s><s>Furthermore, instead of estimating agreement proportions in (arbitrarily split) subsamples, these analyses allowed us to predict the probability of agreeing with the sensitive item in response to a 1-unit change in the continuous Perceived COVID-19 Burden Scale.</s><s>We elaborate on the results of these analyses, which correspond to those produced by the difference-in-means estimator, in Section S12.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Is the psychological burden of COVID-19 associated with participation in protests and political violence in the United States?</head><p><s>Yes and no.</s><s>Perceived COVID-19 burden was associated with self-reported participation in political violence (b = 0.15, 95% CI = [0.07,</s><s>0.22]), but not with selfreported participation in protests (b = 0.04, 95% CI = [-0.08,</s><s>0.17]; see Table <ref type="table">S21</ref>).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Is the psychological burden of COVID-19 associated with participation, specifically, in the BLM protests and counterprotests?</head><p><s>Yes and no.</s><s>As shown in Figure <ref type="figure">2</ref>, perceived COVID-19 burden did not significantly relate to self-reported participation in protests in support of the BLM movement and protesting against rioting and looting.</s><s>By contrast, perceived COVID-19 burden was significantly associated with engagement in all other actions, most of</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regression Coefficient</head><p><s>Fig. <ref type="figure">2</ref>. Relationship between the psychological burden of the COVID-19 pandemic and participation in the Black Lives Matter (BLM) protests and counterprotests.</s><s>The graph shows unstandardized regression coefficients estimated in models in which the Perceived COVID-19 Burden Scale is the predictor and selfreported engagement in various actions during the BLM protests and counterprotests are the outcomes (see Models 1-7 in Tables <ref type="table">S22</ref> and<ref type="table">S23</ref> in the Supplemental Material; predictors and outcomes are normalized to range from 0 to 1).</s><s>Error bars represent 95% confidence intervals.</s></p><p><s>which were characterized by violence.</s><s>Tables <ref type="table">S22</ref> and<ref type="table">S23</ref> report estimates for all predictors, including indicators of ethnicity, which were significantly associated with particular types of actions during the BLM protests and counterprotests.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Does police violence increase the association between perceived COVID-19 burden and antigovernment behaviors?</head><p><s>No, with qualifications.</s><s>We first analyzed the interaction between the Perceived COVID-19 Burden Scale and the binary indicator of assignment to treatment (the salience of police violence).</s><s>In the pooled sample, the salience of police violence did not significantly moderate the association of perceived COVID-19 burden with the Activism Intention Scale (Table <ref type="table">S24</ref>) and Radicalism Intention Scale (Table <ref type="table">S25</ref>).</s><s>Hence, disconfirming Hypothesis 3, the association between perceived COVID-19 burden and (nonviolent and violent) intentions was not significantly stronger among interviewees who were primed to consider police violence.</s><s>As a nonpreregistered extension of our analyses, we also used the treatment indicator as a predictor, rather than as a moderator, but found no significant effects on the two outcomes (Table <ref type="table">S26</ref>).</s><s>Subsequently, we analyzed the Police Violence Scale, a measure of perceptions and self-reported experience of police violence, as another moderator.</s><s>In the pooled sample, perceptions and experience of police violence did not significantly moderate the association of perceived COVID-19 burden with activism intentions (Table <ref type="table">S27</ref>) but significantly and negatively moderated the association with radicalism intentions, b = -0.40,</s><s>95% CI = [-0.64,</s><s>-0.17].</s><s>Hence, opposite to our expectation, the association between perceived COVID-19 burden and radicalism intentions was significantly weaker among interviewees who scored higher on the Police Violence Scale.</s><s>Note, however, that the interaction term varied considerably across the four samples (e.g., it was nonsignificant in the U.S. sample; Table <ref type="table">S28</ref>).</s><s>We also analyzed the Police Violence Scale as a predictor, rather than as a moderator, and found significant coefficients in both the activism (b = 0.35, 95% CI = [0.31,</s><s>0.40]) and radicalism (b = 0.46, 95% CI = [0.42,</s><s>0.49]) models (Table <ref type="table">S29</ref>).</s></p><p><s>Turning to the U.S. sample, specifically, we found that the Police Violence Scale did not significantly moderate the associations of perceived COVID-19 burden with participation in protests, generally, and participation in protests in support of BLM, specifically.</s><s>By contrast, the scale significantly moderated the association between perceived COVID-19 burden and self-reported participation in political violence, generally (b = 0.82, 95% CI = [0.49,</s><s>1.16]; Table <ref type="table">S30</ref>).</s><s>Similarly, the scale also significantly moderated the associations of perceived COVID-19 burden and self-reported participation in the protests against rioting and looting (b = 0.42, 95% CI = [0.02,</s><s>0.82]), physical confrontation with the police (b = 0.50, 95% CI = [0.17,</s><s>0.82]), physical confrontation with BLM protesters (b = 0.59, 95% CI = [0.25,</s><s>0.93]), destruction of property (b = 0.77, 95% CI = [0.47,</s><s>1.08]), and physical confrontation with other citizens (b = 0.52, 95% CI = [0.18,</s><s>0.86]), but not the association with selfreported participation in the protests to protect property and the safety of oneself and others (Tables <ref type="table">S32</ref> and<ref type="table">S33</ref>).</s><s>Thus, partly corroborating Hypothesis 3, the association of perceived COVID-19 burden with violencebut not with peaceful activism-was stronger among interviewees who scored higher on the Police Violence Scale.</s><s>Finally, the Police Violence Scale, when analyzed as a predictor (rather than as a moderator), was significantly associated with all the BLM-related outcomes (Tables <ref type="table">S31,</ref><ref type="table">S34</ref>, and S35).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>How robust are the results?</head><p><s>To assess the robustness of the results, we conducted several additional (nonpreregistered) analyses.</s><s>First, we tested the sensitivity of our results to an alternative measurement of perceived COVID-19 burden.</s><s>Specifically, we retested Hypothesis 1 and Hypothesis 2 using a seven-item subscale that excluded political items (see Section S6).</s><s>These tests produced estimates consistent with the main results (see Tables <ref type="table">S36-S42</ref>), with one exception: In contrast to the complete scale, the nonpolitical subscale was significantly associated with selfreported participation in nonviolent protests in the United States in general (b = 0.16, 95% CI = [0.04,</s><s>0.28]; Table <ref type="table">S40</ref>) and in support of the BLM movement (b = 0.12, 95% CI = [0.04,</s><s>0.20]) and against rioting and looting (b = 0.10, 95% CI = [0.01,</s><s>0.18]) in particular (Table <ref type="table">S41</ref>).</s></p><p><s>Second, we controlled for several additional variables: subjective socioeconomic status (SES), measured with the Subjective Social Status Scale <ref type="bibr" target="#b31">(Operario et al., 2004)</ref>; COVID-19 infection ("Have you or someone in your close family ever been sick with COVID-19?";</s><s>reply options: no, yes); and ideology (liberal vs. conservative views in the United States and left vs. right views in Denmark, Italy, and Hungary; see Section S13).</s><s>Low-SES individuals may be particularly vulnerable to the adverse effects of the pandemic and concurrently hold antisystemic attitudes.</s><s>Similarly, individuals who have been sick with COVID-19 (or have family members who have been sick with COVID-19) may experience the adverse effects more intensely and concurrently blame governments for sickness.</s><s>Finally, the pandemic was highly politicized, particularly in the United States, potentially increasing political polarization.</s><s>Hence, the observed association between perceived COVID-19 burden and antisystemic attitudes and behaviors may in fact reflect political polarization causing both.</s><s>In addition to the ideology control, we also conducted tests with an alternative: affective polarization (Section S14).</s><s>We controlled for these additional variables in both between-and within-individual models.</s><s>As mentioned, within-individual models fully partition out confounding by time-invariant characteristics; yet they remain vulnerable to time-varying confounders, and perceptions of SES, infection, and ideology likely changed between the two waves, given the unfolding crisis.</s><s>We found that the four controls did not notably attenuate the coefficients of interest (Tables <ref type="table">S43-S56</ref>), although the association of perceived COVID-19 burden with peaceful political activism and self-reported participation in (peaceful) protests became considerably stronger in the U.S. subsample (see Tables <ref type="table">S48</ref> and<ref type="table">S51</ref>).</s></p><p><s>Third, we examined particular components of the Perceived COVID-19 Burden Scale.</s><s>Specifically, we tested Hypothesis 1 and Hypothesis 2 using 5 two-item subscales, reflecting burden with respect to physical and mental health (Items 1 and 2), finances/economy (Items 3 and 4), political rights (Items 5 and 6), social life (Items 7 and 8), and state protection (Items 9 and 10; see Section S6 for the full wording).</s><s>The analyses indicate that the association between perceived COVID-19 burden and need for chaos was driven by burden with respect to health (b = 0.05, 95% CI = [0.03,</s><s>0.08]), rights (b = 0.03, 95% CI = [0.01,</s><s>0.05]), and finances (b = 0.02, 95% CI = [0.00,</s><s>0.04]; within-individual specification with all subscales regressed in one block).</s><s>Similarly, we found that the association between perceived COVID-19 burden and activism intentions was also driven by burden with respect to health (b = 0.11, 95% CI = [0.06,</s><s>0.16]), rights (b = 0.06, 95% CI = [0.02,</s><s>0.10]), and finances (b = 0.04, 95% CI = [0.01,</s><s>0.08]; betweenindividual specification with all subscales regressed in one block, plus controls).</s><s>Finally, the association between perceived COVID-19 burden and radicalism intentions was driven by burden with respect to health (b = 0.20, 95% CI = [0.16,</s><s>0.25]) and rights (b = 0.06, 95% CI = [0.03,</s><s>0.09]; between-individual specification with all subscales regressed in one block, plus controls).</s><s>Tables S57 to S62 provide details.</s></p><p><s>Fourth, the tests of Hypothesis 3 assumed linear interaction effects.</s><s>Specifically, this assumption states that as the moderator (police violence in our case) increases by one unit, the effect of the predictor (perceived COVID-19 burden) on the outcome (antisystemic attitudes/behavior) changes by some coefficient b, and this change is constant across the range of all predictor values <ref type="bibr" target="#b17">(Hainmueller et al., 2019)</ref>.</s><s>However, empirical research suggests that the assumption of linear interaction effects often fails and that estimates of linear interaction models may be artifacts of modeling assumptions <ref type="bibr" target="#b17">(Hainmueller et al., 2019)</ref>.</s><s>Therefore, we also tested nonlinear interactions using the interflex package in Stata <ref type="bibr" target="#b17">(Hainmueller et al., 2019)</ref>.</s><s>Specifically, we estimated fully flexible models to detect potential nonlinearities in the interactions.</s><s>The estimates of the flexible models largely corresponded to the estimates of the linear models, suggesting that the main results reported above are unlikely to be artifacts of implausible modeling assumptions.</s><s>We detail these analyses in Section S16.</s></p><p><s>Finally, 25% of interviewees did not take part in Wave 2; therefore, we assessed potential panel attrition bias (note that we assessed attrition bias only in the betweenindividual models of need for chaos, because other outcomes were measured only at Wave 2).</s><s>Nonzero attrition rate does not necessarily imply bias (e.g., attrition can be random).</s><s>Bias occurs if attrition correlates with the outcome of interest.</s><s>Drawing on the approach of <ref type="bibr" target="#b15">Fitzgerald et al. (1998)</ref>, we first tested whether a lagged version (i.e., Wave 1) of the Need for Chaos Scale correlated with a binary indicator of attrition (coded 1 for dropping out of Wave 2).</s><s>We found a positive association in a bivariate logit model (logit = 0.83, 95% CI = [0.55,</s><s>1.11]) and a bivariate linear probability model (b = 0.16, 95% CI = [0.11,</s><s>0.22]).</s><s>A significant association between a lagged outcome and attrition is an indication of attrition bias in the estimates of interest produced on the attrited sample <ref type="bibr" target="#b15">(Fitzgerald et al., 1998)</ref>.</s><s>Subsequently, we tested whether this association remained significant when controlling for the predictors analyzed above-perceived COVID-19 burden, age, gender, education, subjective SES, infection, ideology, and country dummies-and found nonsignificant estimates (logit = 0.11, 95% CI = [-0.24,</s><s>0.47] and b = 0.03, 95% CI = [-0.04,</s><s>0.09]).</s><s>This suggests that the residuals in the need-for-chaos model-containing the abovelisted predictors-do not correlate with attrition, providing evidence against attrition bias in the results reported above.</s><s>Further, the two models produced, respectively, a pseudo R 2 of .04 and an R 2 of .04,</s><s>suggesting that the predictors and the need-for-chaos lag explained only about 4% of variation in attrition.</s><s>These estimates correspond to several studies of panel attrition, which suggest that most attrition in panel surveys is random and, consequently, that attrition bias does not notably influence the estimates of interest <ref type="bibr" target="#b15">( Fitzgerald et al., 1998)</ref>.</s><s>Note, however, that we assessed only observed correlates of attrition.</s><s>Omitted variables could both explain a larger share of variation in attrition and-if correlated with our outcome-cause bias in the estimates produced on the attrited sample.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p><s>Our analyses unequivocally supported Hypothesis 1, partly supported Hypothesis 2 (perceived COVID-19 burden was robustly associated with political violence but nonrobustly with peaceful activism), and only weakly supported Hypothesis 3. Specifically, we found that perceived COVID-19 burden relates to antisystemic sentiments and intentions to engage in political violence across the United States, Denmark, Italy, and Hungary.</s><s>In the United States, furthermore, perceived COVID-19 burden was associated with self-reported use of violence during the BLM protests and counterprotests.</s><s>We found less robust evidence that perceived COVID-19 burden shapes peaceful activism.</s></p><p><s>Subsequently, we found no consistent evidence that the psychological effects of the pandemic were compounded by police violence in the United States.</s><s>Specifically, perceptions and self-reported experiences of police violence increased the associations of perceived COVID-19 burden with engagement in several violent actions during the BLM demonstrations and counterdemonstrations.</s><s>However, our experiments did not support the claim that the salience of police violence increased these associations.</s><s>Hence, perceived COVID-19 burden potentially drives antisystemic behavior without additional catalyzing events.</s><s>These findings do not legitimize or trivialize the negative impacts of police brutality.</s><s>Indeed, our analyses suggest that perceptions and self-reported experience of police violence (but not experimentally manipulated salience of police violence) constitute an independent predictor of political violence.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations</head><p><s>First, the within-individual models fully accounted for confounding by time-invariant individual differences, likely a major source of omitted-variable bias.</s><s>However, these models could not rule out confounding by unmeasured time-variant characteristics, which potentially constitute a greater concern during volatile times.</s><s>The between-individual models could rule out neither time-variant nor time-invariant confounding.</s><s>All models were also vulnerable to reverse-causality bias.</s><s>Altogether, this implies that we cannot buttress strong causal claims.</s><s>Future studies should collect more than two survey waves, which would provide additional means to address confounding and reverse-causality concerns <ref type="bibr" target="#b28">(Leszczensky &amp; Wolbring, 2019)</ref>.</s></p><p><s>Second, although we found that the salience of police violence did not produce the hypothesized moderating effects, a possibility exists that our manipulation instrument was insufficiently potent to influence the variable of interest (i.e., people's thoughts about police violence).</s><s>The null findings may also reflect pretreatment effects: Police violence was a salient issue during our surveys, particularly in the United States.</s></p><p><s>Third, some outcomes (e.g., need for chaos) were associated with perceived COVID-19 burden similarly across all countries, suggesting that the findings generalize across contexts with varying degrees of COVID-19 burden, polarization, and democracy.</s><s>For other outcomes (nonviolent activism), we observed betweencountry heterogeneity in the associations.</s><s>Hence, some country-level characteristics potentially moderate these individual-level associations.</s><s>Because we analyzed samples from only four countries, we could not formally assess cross-level interactions (and whether the between-country heterogeneity was statistically significant).</s><s>Future studies are thus needed with a larger sample of higher-level units.</s></p><p><s>Fourth, we relied on data from four countries frequently characterized as Western, educated, industrialized, rich, and democratic (WEIRD; <ref type="bibr" target="#b19">Henrich et al., 2010)</ref>.</s><s>Research is needed to assess generalization to non-WEIRD countries, where the risk of political violence is generally higher.</s><s>If COVID-19 burden promotes unrest in WEIRD countries, which have strong economies and established political institutions, then such burden may particularly increase the risk of unrest in countries lacking these features.</s></p><p><s>Finally, we attributed self-reported participation in violence during the BLM protests and counterprotests to perceived COVID-19 burden.</s><s>However, it is possible that COVID-19 burden promoted participation in demonstrations that were originally peaceful but that turned violent in response to the use of force against the demonstrators.</s><s>As emphasized, most of the demonstrations associated with the BLM movement were peaceful.</s><s>By contrast, the government forces, often inflamed and legitimized by political figures-most notably the president of the United States-exercised heavy-handed approaches to engaging the demonstrators <ref type="bibr" target="#b24">(Kishi &amp; Jones, 2020)</ref>.</s><s>Compared with July and August 2019, during the same period in 2020, the use of state force against demonstrators rose 6 times and was disproportional compared with other demonstrations unrelated to the BLM movement <ref type="bibr" target="#b24">(Kishi &amp; Jones, 2020)</ref>.</s><s>The use of state force appears to have provoked-not discouraged-violence and destruction among hitherto peaceful protesters <ref type="bibr" target="#b24">(Kishi &amp; Jones, 2020)</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p><s>The demonstrations and violence that marked 2020 were fueled by many factors.</s><s>In the United States, for example, political polarization, police brutality, and racial injustice were among the most commonly cited ones.</s><s>Increasingly, scholars and observers suggest that the burden of the COVID-19 pandemic was also a major cause.</s><s>Here, we report evidence that corroborates this proposition.</s><s>Our research thus suggests that the ongoing pandemic places many countries at an increased risk of political unrest.</s><s>The violence that marked some of the 2020 demonstrations was likely a manifestation of the psychological toll the pandemic has had on citizens.</s><s>Our findings constitute a reminder that the COVID-19 pandemic is an all-out crisis, carrying effects far beyond the domain of health.</s><s>Successful pandemic management thus requires authorities and politicians to consider this disruptive potential both during and after pandemics.</s><s>During pandemics, interventions should not be more burdensome than necessary, and relief programs should be devised to buffer the burden.</s><s>In the aftermath of pandemics, recovery programs cannot be limited to the domains of public health and the economy.</s><s>It is key to also repair the relationship between citizens and the political system.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transparency</head><p><s>Action Editor: Mark Brandt Editor: Patricia J. Bauer</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p><s>All the authors developed the study concept, designed the research, and collected the data.</s><s>H. Bartusevic ˇius and F. Jørgensen analyzed the data.</s><s>All the authors drafted the manuscript and approved the final version for submission.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Conflicting Interests</head><p><s>The author(s) declared that there were no conflicts of interest with respect to the authorship or the publication of this article.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p><s>1. "Demonstrations" include all events coded with the event type protest and all events coded with the sub-event type violent demonstration in the Armed Conflict Location and Event Dataset (ACLED; <ref type="bibr" target="#b34">Raleigh et al., 2010)</ref>.</s><s>Throughout this article, "demonstration" and "protest" interchangeably refer to such events.</s><s>2. Denmark, Hungary, and Italy experienced, respectively, 570, 200, and 5,562 demonstrations in 2020, of which 57%, 65%, and 54% (respectively) occurred after June 30 <ref type="bibr" target="#b34">(Raleigh et al., 2010)</ref>.</s></p><p><s>3. The Supplemental Material, comprising Sections S1 to S17, Tables <ref type="table">S1 to S63</ref>, and Figures S1 to S13, can be found on OSF at https://osf.io/umn7p/.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc><div><p><s>Fig. 1.</s><s>Relationship between the psychological burden of the COVID-19 pandemic and antisystemic attitudes and behavior.</s><s>The top-left graph shows the density of perceived COVID-19 burden for the United States, Denmark, Italy, and Hungary.</s><s>The other three graphs show (clockwise from top right) the predicted values of the Need for Chaos Scale, Radicalism Intention Scale, and Activism Intention Scale as a function of score on the Perceived COVID-19 Burden Scale, separately for each of the four countries and for all four pooled together.</s><s>All predictors and outcomes are rescaled to range from 0 to 1. Values in brackets are 95% confidence intervals.The estimates are based on Models 1 through 5 in TableS13(Need for Chaos Scale), TableS20(Radicalism Intention Scale), and TableS19(Activism Intention Scale) in the Supplemental Material.</s></p></div></figDesc></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This research has been supported by <rs type="funder">Carlsbergfondet</rs> Grant No. <rs type="grantNumber">CF20-0044</rs> awarded to <rs type="person">M. B. Petersen</rs>.</p></div>
+<div><head>Open Practices</head><p>The data files, command script, original questionnaire, and supplemental materials for this study have been made publicly available via OSF and can be accessed at https:// osf.io/r5eqy/.The design and analysis plans for the study were preregistered at https://osf.io/ph6aw.Additional, nonpreregistered analyses are discussed in the text.This article has received the badges for <rs type="person">Open Data</rs>, <rs type="person">Open Materials</rs>, and Preregistration.More information about the Open Practices badges can be found at http://www.psy chologicalscience.org/publications/badges.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_ZGNqzyT">
+					<idno type="grant-number">CF20-0044</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Pandemics meet democracy: Experimental evidence from the COVID-19 crisis in Spain</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Amat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Arenas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Falcó-Gimeno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Muñoz</surname></persName>
+		</author>
+		<idno type="DOI">10.31235/osf.io/dkusw</idno>
+		<ptr target="https://doi.org/10.31235/osf.io/dkusw" />
+	</analytic>
+	<monogr>
+		<title level="j">SocArXiv</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Budapest dormitory damaged by students with a hammer</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Annár</surname></persName>
+		</author>
+		<ptr target="https://dailynewshungary.com/budapest-dormitory-damaged-by-students-with-a-hammer/" />
+	</analytic>
+	<monogr>
+		<title level="j">Daily News Hungary</title>
+		<imprint>
+			<date type="published" when="2020-11-12">2020. November 12</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Is COVID-19 a threat to liberal democracy?</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Arceneaux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Bakker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Hobolt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>De Vries</surname></persName>
+		</author>
+		<idno type="DOI">10.31234/osf.io/8e4pa</idno>
+		<ptr target="https://doi.org/10.31234/osf.io/8e4pa" />
+	</analytic>
+	<monogr>
+		<title level="j">PsyArXiv</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Some people just want to watch the world burn: The prevalence, psychology and politics of the &apos;need for chaos</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Arceneaux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Gravelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Osmundsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Reifler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Scotto</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rstb.2020.0147</idno>
+		<ptr target="https://doi.org/10.1098/rstb.2020.0147" />
+	</analytic>
+	<monogr>
+		<title level="j">Philosophical Transactions of the Royal Society B</title>
+		<imprint>
+			<biblScope unit="volume">376</biblScope>
+			<date type="published" when="1822">2021. 1822. 20200147</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arora</surname></persName>
+		</author>
+		<ptr target="https://www.washingtonpost.com/politics/2020/08/05/how-coronavirus-pandemic-helped-floyd-protests-become-biggest-us-history/" />
+		<title level="m">How the coronavirus pandemic helped the Floyd protests become the biggest in U.S. history. The Washington Post</title>
+		<imprint>
+			<date type="published" when="2020-08-05">2020. August 5</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Rallying around the flag in times of COVID-19: Societal lockdown and trust in democratic institutions</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baekgaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Christensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Madsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Mikkelsen</surname></persName>
+		</author>
+		<idno type="DOI">10.30636/jbpa.32.172</idno>
+		<ptr target="https://doi.org/10.30636/jbpa.32.172" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Public Administration</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A dynamic model of engagement in normative and non-normative collective action: Psychological antecedents, consequences, and barriers</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tausch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Review of Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="43" to="92" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">At least 25 Americans were killed during protests and political unrest in 2020. The Guardian</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Beckett</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/world/2020/oct/31/americans-killed-protests-political-unrest-acledBerkowitz" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="59" to="73" />
+			<date type="published" when="1989">2020. October 31. 1989</date>
+		</imprint>
+	</monogr>
+	<note>L.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Multilevel modeling in personality and social psychology</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Christ</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Sibley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Wagner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford handbook of personality and social psychology</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Deaux</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Snyder</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="239" to="261" />
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Will the COVID-19 pandemic worsen the obesity epidemic?</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Clemmensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">I</forename><surname>Sørensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews Endocrinology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="469" to="470" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coppedge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gerring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Knutsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Lindberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Teorell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bernhard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Fish</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">V-dem dataset v10 [Data set]. Varieties of Democracy Project</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ziblatt</surname></persName>
+		</author>
+		<idno type="DOI">10.23696/vdemds20</idno>
+		<ptr target="https://www.bbc.com/news/world-us-canada-52496514" />
+	</analytic>
+	<monogr>
+		<title level="j">BBC News</title>
+		<imprint>
+			<date type="published" when="2020-05-01">2020. 2020, May 1</date>
+		</imprint>
+	</monogr>
+	<note>20 Coronavirus: Armed protesters enter Michigan statehouse</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Mental health in the COVID-19 pandemic</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Cullen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gulati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kelly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">QJM: An International Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="311" to="312" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Protesters clash with police in northern Italy as anger mounts over COVID-19 restrictions</title>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Donato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Dewan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<ptr target="https://edition.cnn.com/2020/10/27/europe/italy-coronavirus-protests-intl/index.html" />
+	</analytic>
+	<monogr>
+		<title level="j">CNN</title>
+		<imprint>
+			<date type="published" when="2020-10-27">2020, October 27</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Perceived threat and authoritarianism</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Stenner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Psychology</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="741" to="770" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">An analysis of sample attrition in panel data: The Michigan Panel Study of Income Dynamics</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gottschalk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Moffitt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Human Resources</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="251" to="299" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The devoted actor&apos;s will to fight and the spiritual dimension of human conflict</title>
+		<author>
+			<persName><forename type="first">Á</forename><surname>Gómez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>López-Rodríguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sheikh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ginges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Waziri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vázquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Atran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Human Behaviour</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="673" to="679" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">How much should we trust estimates from multiplicative interaction models? Simple tools to improve empirical practice</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hainmueller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mummolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Analysis</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="163" to="192" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Latest coronavirus lockdowns spark protests across Europe. The Guardian</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Henley</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/world/2020/nov/02/latest-coronavirus-lockdowns-spark-protests-across-europe" />
+		<imprint>
+			<date type="published" when="2020-11-02">2020, November 2</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Most people are not WEIRD</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Henrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Heine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Norenzayan</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/466029a</idno>
+		<ptr target="https://doi.org/10.1038/466029a" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">466</biblScope>
+			<biblScope unit="issue">7302</biblScope>
+			<biblScope unit="page">29</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Do pandemics lead to rebellion? Policy responses to COVID-19, inequality, and protests in the USA</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Iacoella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Justino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Martorano</surname></persName>
+		</author>
+		<idno>No. 2021/57</idno>
+		<ptr target="https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2021-57-pandemics-rebellion-policy-responses-COVID-19-inequality-protests-USA.pdf" />
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+		<respStmt>
+			<orgName>World Institute for Development Economics Research</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">WIDER Working Paper</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Seks personer dømt efter men in blackdemoer [Six persons sentenced after Men in Black demonstrations</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Ilsøe</surname></persName>
+		</author>
+		<ptr target="https://www.dr.dk/nyheder/indland/overblik-seks-personer-doemt-efter-men-black-demoer" />
+	</analytic>
+	<monogr>
+		<title level="m">DR-The Danish Broadcasting</title>
+		<imprint>
+			<date type="published" when="2021-04-14">2021. April 14</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Choices, values, and frames</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kahneman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tversky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Psychologist</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="341" to="350" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Loneliness: A signature mental health concern in the era of COVID-19</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D S</forename><surname>Killgore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Cloonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Dailey</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.psychres.2020.113117</idno>
+		<ptr target="https://doi.org/10.1016/j.psychres.2020.113117" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatry Research</title>
+		<imprint>
+			<biblScope unit="page" from="290" to="113117" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Demonstrations and political violence in America: New data for summer 2020</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jones</surname></persName>
+		</author>
+		<ptr target="https://acleddata.com/2020/09/03/demonstrations-political-violence-in-america-new-data-for-summer-2020/" />
+	</analytic>
+	<monogr>
+		<title level="m">Armed Conflict Location and Event Data Project</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pavlik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bynum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Goos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Satre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jones</surname></persName>
+		</author>
+		<ptr target="https://acleddata.com/2021/03/18/acled-2020-the-year-in-review/" />
+		<title level="m">ACLED 2020: The year in review. Armed Conflict Location and Event Data Project</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The psychology of radicalization and deradicalization: How significance quest impacts violent extremism</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Kruglanski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gelfand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Bélanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sheveland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hetiarachchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gunaratna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Psychology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="69" to="93" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Poverty and food insecurity could grow dramatically as COVID-19 spreads</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Laborde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">COVID-19 and global food security</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Swinnen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Mcdermott</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>International Food Policy Research Institute</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="16" to="19" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">How to deal with reverse causality using panel data? Recommendations for researchers based on a simulation study</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Leszczensky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wolbring</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0049124119882473</idno>
+		<ptr target="https://doi.org/10.1177/0049124119882473" />
+	</analytic>
+	<monogr>
+		<title level="j">Sociological Methods &amp; Research. Advance online publication</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Fixed effects models versus mixed effects models for clustered data: Reviewing the approaches, disentangling the differences, and making recommendations</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mcneish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kelley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Methods</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="20" to="35" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Measuring political mobilization: The distinction between activism and radicalism</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Moskalenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mccauley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Terrorism and Political Violence</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="239" to="260" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Subjective social status: Reliability and predictive utility for global health</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Operario</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Adler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology &amp; Health</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="237" to="246" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Pandemic fear and COVID-19: Mental health burden and strategies</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ornell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Schuch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">O</forename><surname>Sordi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H P</forename><surname>Kessler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazilian Journal of Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="232" to="235" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The &quot;need for chaos&quot; and motivations to share hostile political rumors</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Osmundsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Arceneaux</surname></persName>
+		</author>
+		<idno type="DOI">10.31234/osf.io/6m4ts</idno>
+		<ptr target="https://doi.org/10.31234/osf.io/6m4ts" />
+	</analytic>
+	<monogr>
+		<title level="j">PsyArXiv</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Introducing ACLED: An Armed Conflict Location and Event Dataset: Special data feature</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Raleigh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Linke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hegre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Karlsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Peace Research</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="651" to="660" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">A leaderless struggle for democracy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Repucci</surname></persName>
+		</author>
+		<ptr target="https://freedomhouse.org/report/freedom-world/2020/leaderless-struggle-democracy" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Intention-behavior relations: A conceptual and empirical review</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sheeran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Review of Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="36" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Identity salience, identity acceptance, and racial policy attitudes: American national identity as a uniting force</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Transue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Political Science</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="78" to="91" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">If you can&apos;t join them, beat them: Effects of social exclusion on aggressive behavior</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Twenge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Baumeister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Tice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Stucke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1058" to="1069" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Toward an integrative social identity model of collective action: A quantitative research synthesis of three socio-psychological perspectives</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Zomeren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Postmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Spears</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="504" to="535" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Responding to membership in a disadvantaged group: From acceptance to collective protest</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Moghaddam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="994" to="1003" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

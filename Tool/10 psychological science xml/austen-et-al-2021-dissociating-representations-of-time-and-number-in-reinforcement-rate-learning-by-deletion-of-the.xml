@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Dissociating Representations of Time and Number in Reinforcement-Rate Learning by Deletion of the GluA1 AMPA Receptor Subunit in Mice</title>
+				<funder ref="#_xxYdZAR">
+					<orgName type="full">Biotechnology and Biological Sciences Research Council</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Joseph</forename><forename type="middle">M</forename><surname>Austen</surname></persName>
+							<email>j.m.austen@durham.ac.uk</email>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Durham University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><forename type="middle">J</forename><surname>Sanderson</surname></persName>
+							<email>david.sanderson@durham.ac.uk</email>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Durham University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Corran</forename><surname>Pickering</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Durham University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rolf</forename><surname>Sprengel</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Max Planck Institute for Medical Research</orgName>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Institute for Anatomy and Cell Biology</orgName>
+								<orgName type="institution">Heidelberg University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Durham University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Durham University</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Dissociating Representations of Time and Number in Reinforcement-Rate Learning by Deletion of the GluA1 AMPA Receptor Subunit in Mice</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">141BB2C29392D31AE8F5DAD8C6BD7780</idno>
+					<idno type="DOI">10.1177/0956797620960392</idno>
+					<note type="submission">Received 2/13/20; Revision accepted 7/17/20 ORCID iD</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-05-06T13:31+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>learning</term>
+					<term>rewards</term>
+					<term>time estimation</term>
+					<term>open data</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s>Animals are highly sensitive to the temporal properties of predictive cues.</s><s>For example, long-duration cues elicit weaker conditioned responding than short-duration cues (cue-duration effect; <ref type="bibr" target="#b9">Harris &amp; Carpenter, 2011;</ref><ref type="bibr" target="#b10">Harris, Patterson, &amp; Gharaei, 2015)</ref>.</s><s>There has been a divergence in the theoretical explanations for this cue-duration effect.</s><s>Decision-making theories account for the cueduration effect by assuming that animals symbolically encode temporal durations by use of an internal clock in order to extract statistical information about events, such as the reinforcement rate during a cue's presentation <ref type="bibr" target="#b1">(Balsam &amp; Gallistel, 2009;</ref><ref type="bibr" target="#b7">Gallistel &amp; Gibbon, 2000)</ref>.</s><s>Encoding of rate information allows animals to behave optimally in an efficient manner by responding at a low rate for cues with a low reinforcement rate and a high rate for cues with a high reinforcement rate.</s><s>For example, in choice behavior, it is often found that the response rate to one behavioral option relative to other behavioral options matches the relative reinforcement rate of that option <ref type="bibr" target="#b11">(Herrnstein, 1961)</ref>.</s><s>Therefore, animals respond at a low rate to cues of long durations not because they are learned poorly but because they signal a low rate of reinforcement.</s></p><p><s>In contrast, associative-learning theories assume that the strength of conditioned responding elicited by a cue reflects the strength of an association between the cue and an outcome (e.g., a tone and food reward).</s><s>Therefore, long-duration cues elicit weaker conditioned responding than short-duration cues because the strength of associative learning is weaker than for short-duration 960392P SSXXX10.1177/0956797620960392Austen</s><s>et al.Time and Number in Reinforcement Learning research-article2021</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><s>cues.</s><s>Whereas associative strength may be affected by the statistical properties of cues, the associative strength of a cue is not a representation of the statistical properties of cues.</s><s>Thus, models of associative learning assume that associative strength is blind to the circumstances that led to its acquisition.</s></p><p><s>The associative theory of <ref type="bibr" target="#b29">Wagner (1981)</ref> proposes that temporal sensitivity is a by-product of timedependent changes in stimulus processing that impact associative learning.</s><s>Thus, short-term habituation throughout the presentation of a cue results in a loss of attention that limits the amount of learning that can occur when reinforcement is presented <ref type="bibr" target="#b2">(Best &amp; Gemberling, 1977;</ref><ref type="bibr" target="#b3">Bouton &amp; Sunsay, 2003)</ref>.</s><s>This mechanism results in learning being sensitive to the temporal properties of cues, but animals have not explicitly encoded time and number information in order to calculate reinforcement rate.</s></p><p><s>To identify the psychological mechanisms underlying sensitivity to temporal information, we began by testing the simple short-term-habituation account in mice with a knockout of Gria1 (Gria1 -/-), the gene that encodes for the GluA1 subunit of the AMPA receptor for glutamate <ref type="bibr" target="#b30">(Zamanillo et al., 1999)</ref>.</s><s>GluA1 is necessary for stimulus-specific short-term habituation <ref type="bibr" target="#b23">(Sanderson et al., 2009;</ref><ref type="bibr" target="#b24">Sanderson et al., 2011)</ref> but not long-term memory <ref type="bibr" target="#b21">(Reisel et al., 2002;</ref><ref type="bibr" target="#b23">Sanderson et al., 2009;</ref><ref type="bibr" target="#b26">Schmitt, Deacon, Seeburg, Rawlins, &amp; Bannerman, 2003)</ref> and, therefore, plays a specific role in short-term memory.</s><s>If the cue-duration effect is caused by shortterm habituation during the presentation of a cue, then GluA1 deletion should impair the cue-duration effect and increase learning with the long-duration cue.</s><s>Although enhanced learning of the long-duration cue in Gria1 -/-mice would support the short-term-habituation account, an alternative explanation may be that GluA1 regulates the calculation of reinforcement rate.</s><s>Tests of this alternative hypothesis were conducted in subsequent experiments to dissociate associative-and symbolicencoding accounts of the role of GluA1 in reinforcementrate learning.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experiments 1 to 4</head><p><s>In Experiment 1, we tested the effect of GluA1 deletion on the cue-duration effect.</s><s>In Experiments 2 to 4, we examined the role of reinforcement rate and frequency of reinforcement in determining the role of GluA1 in the cue-duration effect observed in Experiment 1.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p><s>Participants.</s><s>Mice were Gria1 -/-and wild-type agematched littermates bred in the Life Sciences Support Unit at Durham University (for details of genetic construction, breeding, and subsequent genotyping, see <ref type="bibr" target="#b30">Zamanillo et al., 1999)</ref>.</s><s>The mice were originally derived from the 129S2svHsd and C57BL/6J/OlaHsd strains and have been subsequently backcrossed onto the C57BL/6J line.</s><s>Mice were housed in groups of one to 12 in a temperaturecontrolled holding room on a 12-hr light-dark cycle (light period: 8 a.m. to 8 p.m.).</s><s>For several days prior to the start of testing, the weights of the mice were reduced by restricting access to food, and they were maintained at 85% of their free-feeding weights throughout the experiment.</s><s>Mice had ad libitum access to water in their home cages.</s><s>All procedures were in accordance with the United Kingdom Animals (Scientific Procedures) Act <ref type="bibr">(1986)</ref> under Project License Number PPL 70/7785.</s></p><p><s>Apparatus.</s><s>A set of eight identical operant chambers (interior dimensions: 15.9 × 14.0 × 12.7 cm; ENV-307A; all equipment was obtained from Med Associates, St. Albans, VT), enclosed in sound-attenuating cubicles (ENV-022V), were used.</s><s>The operant chambers were controlled by Med-PC IV software <ref type="bibr">(SOF-735;</ref><ref type="bibr" target="#b16">Med Associates, 2013)</ref>.</s><s>The side walls were made from aluminum, and the front and back walls and the ceiling were made from clear Perspex.</s><s>The chamber floors each comprised a grid of stainless-steel rods (diameter = 0.32 cm) spaced 0.79 cm apart and running perpendicular to the front of the chamber (ENV-307A-GFW).</s><s>A food magazine (2.9 × 2.5 × 1.9</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statement of Relevance</head><p><s>Learning is fundamental to behavioral adaptation in humans as well as nonhuman animals.</s><s>Some of our strongest evidence for how learning occurs comes from animal models in which candidate mechanisms are altered by genetic manipulations.</s><s>We conducted research with these animals to solve a fundamental question of learning: whether animals encode the statistical properties of events (e.g., duration and number) or whether the statistical properties of events simply affect the strength of associations between them.</s><s>We used mice that lacked a receptor necessary for the time-sensitive calculations required for rate sensitivity.</s><s>Across multiple experiments, learning in these "knockout" mice was dependent on the number of cue-reinforcement pairings.</s><s>Because the knockout switched learning from being sensitive to rate to being sensitive to number, we concluded that learning reflects encoding of statistical information.</s><s>The challenge now is to determine the precise mechanisms by which animals represent the quantitative variables required for this type of learning.</s><s>cm; ENV-303M) was situated in the center of one of the sidewalls of the chamber, into which sucrose pellets (14 mg; TestDiet, St. Louis, MO) could be delivered from a pellet dispenser (ENV-203-14P).</s><s>An infrared beam (ENV-303HDA) across the entrance of the magazine recorded head entries at a resolution of 0.1 s.</s><s>A fan (ENV-025F) was located within each of the sound-attenuating cubicles and was turned on during sessions, providing a background sound level of approximately 65 dB.</s><s>Auditory stimuli were provided by a white-noise generator (ENV-325SM) that outputted a flat frequency response from 10 to 25,000 Hz at 80 dB, a clicker (ENV-335M) that operated at a frequency of 4 Hz at 80 dB, and a pure-tone generator (ENV-323AM) that produced a 2,900-Hz tone at 80 dB.</s><s>Visual stimuli were a 2.8-W house light (ENV-315M) and two LEDs (ENV-321M) that were flashed (1 s on, 1 s off) alternating between left and right.</s></p><p><s>Procedure.</s><s>Mice received one session of training per day with two 10-s cues and two 40-s cues.</s><s>One cue of each duration was reinforced (on either 100% or 25% of trials, depending on the experiment) by presentation of a sucrose pellet at the termination of the cue.</s><s>The remaining cues were not reinforced.</s><s>Trials were separated by a fixed interval of 120 s (cue offset to cue onset).</s><s>For approximately half of the mice within each genotype and sex, the 10-s cues were visual (house light, LEDs) and the 40-s cues were auditory (white noise, clicker).</s><s>Within modality, the stimulus identity of reinforced and nonreinforced cues was counterbalanced as far as possible.</s><s>For the remaining mice, the 10-s cues were auditory and the 40-s cues were visual, and the reinforcement contingencies within modality were similarly counterbalanced.</s><s>The designs of Experiments 1 to 4 are summarized in Table <ref type="table" target="#tab_0">1</ref>.</s></p><p><s>Experiment 1: different reinforcement rate, matched reinforcement number.</s><s>Thirteen Gria1 -/-(7 female, 6 male) and 14 wild-type (6 female, 8 male) mice (freefeeding weights: 14.6-28.1 g) received 12 sessions of training in which the 10-s and 40-s reinforced cues were reinforced on every trial.</s><s>Sessions consisted of six trials of each trial type (10 s reinforced, 10 s nonreinforced, 40 s reinforced, and 40 s nonreinforced).</s><s>The cues were presented in a random order with the constraint that there was an equal number of each cue type every eight trials.</s></p><p><s>Experiment 2: matched reinforcement rate, different reinforcement number.</s><s>Sixteen Gria1 -/-(9 female, 7 male) and 16 wild-type (9 female, 7 male) mice (freefeeding weights: 16.2-33.2</s><s>g) received 12 sessions of training in which the 10-s reinforced cue was reinforced on only 25% of trials and the 40-s reinforced cue was reinforced on every trial.</s><s>Sessions consisted of six trials of each trial type (10 s reinforced, 10 s nonreinforced, 40 s reinforced, and 40 s nonreinforced).</s><s>The partially reinforced 10-s cue was reinforced either once or twice per session, and it was ensured that across blocks of two sessions, the 10-s cue was reinforced three times.</s><s>The cues were presented in a random order with the constraint that there was an equal number of each cue type every eight trials.</s></p><p><s>Experiment 3: matched reinforcement rate, matched reinforcement number.</s><s>Seven Gria1 -/-(3 female, 4 male) and 10 wild-type (8 female, 2 male) mice (free-feeding weights: 16.4-29.7</s><s>g) received 24 sessions of training in which the 10-s reinforced cue was reinforced on only 25% of trials and the 40-s reinforced cue was reinforced on every trial.</s><s>Sessions consisted of 12 trials of each of the 10-s cues (reinforced and nonreinforced) and three trials of each of the 40-s cues (reinforced and nonreinforced).</s><s>The cues were presented in a random order with the constraint that there were four trials of each 10-s cue and one trial of each 40-s cue every 10 trials.</s><s>Therefore, every 10 trials, the 10-s reinforced cue was reinforced once.</s></p><p><s>Experiment 4: different reinforcement rate, different reinforcement number.</s><s>Eight Gria1 -/-(3 female, 5 male) and 10 wild-type (7 female, 3 male) mice (free-feeding weights: 15.9-33.0</s><s>g) received 24 sessions of training in which the 10-s and 40-s reinforced cues were reinforced on every trial.</s><s>Sessions consisted of 12 trials of each of the 10-s cues (reinforced and nonreinforced) and three trials of each of the 40-s cues (reinforced and nonreinforced).</s><s>The cues were presented in a random order with the constraint that there were four trials of each 10-s cue and one trial of each 40-s cue every 10 trials.</s></p><p><s>Data and statistical analysis.</s><s>The number of head entries made to the food magazine during the presentation of each conditioned stimulus was recorded.</s><s>For the main analysis of responding, the rate of head entries during nonreinforced cues was subtracted from the rate of head entries during reinforced cues that were matched for modality (difference score).</s><s>Additional separate analyses were carried out on the rates of responding to the reinforced and nonreinforced cues in order to determine whether effects observed with difference scores were due to differences in responding to reinforced cues, nonreinforced cues, or both (see Fig. <ref type="figure">S5</ref> in the Supplemental Material available online).</s></p><p><s>Additional analyses were conducted to dissociate learning from performance accounts of the results.</s><s>For each experiment, the manner in which each cue was presented differed in terms of the frequency or cumulative duration of the cues.</s><s>Whereas these manipulations may affect learning, they may also affect performance of responding.</s><s>Performance effects can be ruled out by matching the test conditions for each cue (e.g., <ref type="bibr" target="#b12">Holland, 2000)</ref>.</s><s>To assess responding under matched test conditions, we restricted analysis of the raw rates of responding to the reinforced cues to the first trial of each trial type per session.</s><s>Therefore, responding on these trials reflects learning from prior experience rather than the influence of the particular manipulation (e.g., frequency or cumulative duration of presentation) on performance of responding.</s><s>For both the 10-s and 40-s cues, rates of responding were for the whole duration of the cues rather than restricted to a particular duration or proportion of the cues in order to mitigate the influence of timing within the trial on response rates.</s></p><p><s>All data were analyzed using multifactorial analyses of variance (ANOVA) conducted in SPSS (Version 22).</s><s>Counterbalancing of modality was included as a nuisance factor (because of mice responding more to auditory than visual cues).</s><s>Interactions were analyzed with simple main-effects analysis or separate repeated measures ANOVA for within-subjects factors with more than two levels.</s><s>Where sphericity of within-subjects variables could not be assumed, a Greenhouse-Geisser correction was applied to produce more conservative p values.</s><s>Where the correction was applied, the corrected degrees of freedom are reported.</s><s>Null effects of genotype for the comparison of the effect of cue were further analyzed by calculating Bayes factors (BFs) to determine the relative size of evidence for the null result compared with the alternative hypothesis.</s><s>Bayesian analyses were conducted in JASP (Version 0.9.2;</s><s>JASP Team, 2020) using default priors.</s><s>For interactions of factors, the reported BF compares models containing the effect of interest with equivalent models stripped of the effect, excluding higher order interactions.</s><s>This method was suggested by <ref type="bibr" target="#b15">Mathôt (2017)</ref>.</s><s>Within JASP, this was achieved by conducting a Bayesian repeated measures ANOVA and outputting effects across matched models.</s></p><p><s>On the basis of previous experiments (e.g., <ref type="bibr" target="#b0">Austen &amp; Sanderson, 2019</ref>) in which we manipulated cue duration in a similar manner as in Experiment 1, we estimated the cue-duration effect size (η p 2 ) to be .75.</s><s>Using G*Power <ref type="bibr" target="#b5">(Faul, Erdfelder, Buchner, &amp; Lang, 2009)</ref>, we estimated group sizes of eight to be sufficient for detecting a significant effect of cue duration with power of .8 and an alpha of .05.</s><s>Given the unknown effect of genotype on sensitivity to cue duration and manipulation of reinforcement rate, we chose to use samples per genotype in excess of eight when possible.</s><s>The differences in sample sizes across experiments reflect the fluctuations in the success of the breeding colony at the time of running a particular experiment.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p><s>To create a measure of responding that indicated performance above baseline, we converted response rates to difference scores for the main analyses of training across blocks of trials.</s><s>These difference scores were calculated by subtracting response rates for nonreinforced cues from response rates for reinforced cues that were matched for cue duration (e.g., response rate for 40-s reinforced cue minus response rate for 40-s nonreinforced cue).</s><s>In Experiments 1 to 4, results were similar to those of previous work <ref type="bibr" target="#b25">(Sanderson et al., 2017)</ref> in that Gria1 -/-mice responded at a significantly higher rate than wild-type mice to nonreinforced cues (ps ≤ .004;</s><s>see Fig. <ref type="figure">S5</ref>).</s><s>For each genotype, the effect of cue found with difference scores in Experiments 1 to 4 was also found with the raw rates of responding to reinforced cues (see Fig. <ref type="figure">S5</ref>), suggesting that the results observed with the difference scores were not simply a consequence of an effect of cue on responding to nonreinforced cues.</s></p><p><s>In Experiment 1, we tested the effect of GluA1 deletion on the cue-duration effect by presenting mice with a short-duration, 10-s cue (e.g., light) and a long-duration, 40-s cue (e.g., noise) that both terminated with the presentation of a sucrose pellet (the two cues were presented on separate trials; see Table <ref type="table" target="#tab_0">1</ref>).</s><s>Normal, wildtype mice showed the cue-duration effect: Difference scores were greater for short-than long-duration cues (see Fig. <ref type="figure">1a</ref>).</s><s>Consistent with the short-term-habituation account of the cue-duration effect, results revealed that Gria1 -/-mice did not exhibit the cue-duration effect, and the difference scores for the short-and long-duration cues were similar (see Fig. <ref type="figure">1b</ref>).</s><s>There was a significant Cue Duration × Genotype × Block interaction, F(5.32, 122.31) = 2.66, p = .023,</s><s>η p 2 = .11,</s><s>90% confidence interval (CI) = [.008,</s><s>.16].</s><s>The significant three-way interaction among cue duration, block, and genotype was analyzed in separate ANOVAs for each genotype.</s><s>For Gria1 -/-mice, there was a significant main effect of block, F(4.09, 44.95) = 20.7,</s><s>p &lt; .001,</s><s>but no significant main effect of cue duration, F(1, 11) = 3.08, p = .11,</s><s>and no Cue Duration × Block interaction, F(4.71, 51.79) = 2.32, p = .059.</s><s>In contrast, wild-type mice showed significant main effects of cue duration, F(1, 12) = 12.4,</s><s>p = .004,</s><s>and block, F(2.43, 29.18) = 18.5, p &lt; .001,</s><s>and a significant Cue Duration × Block interaction, F(3.50, 42.04) = 3.27, p = .025.</s><s>Further analysis of this interaction showed a significant effect of cue duration on Blocks 7 through 12 (Fs &gt; 5.3, ps &lt; .04).</s></p><p><s>It is possible that the reduction in difference scores for the 40-s cue compared with the 10-s cue in wildtype mice may have been due to wild-type mice limiting their responding to the latter parts of the 40-s cue over the course of training (i.e., an inhibition-of-delay effect; <ref type="bibr" target="#b18">Pavlov, 1927)</ref>.</s><s>If this is the case, then GluA1 deletion may have abolished the cue-duration effect by impairing inhibition of delay.</s><s>An analysis of response rates during consecutive 10-s epochs of the 40-s cue over the course of training showed that mice tended to withhold responding during the first 10 s of the cue, but response rates were fairly constant in the last 30 s of the cue (see Fig. <ref type="figure">S7</ref> in the Supplemental Material).</s><s>This was true for both genotypes (see "Analysis of the Temporal Distribution of Responding for the 40 s Cue in Experiment 1" in the Supplemental Material), suggesting that the absence of a cue-duration effect in Gria1 -/- mice was not due to impaired inhibition of delay.</s><s>In addition, wild-type mice showed significantly lower rates of responding in the last 10 s of the 40-s cue compared with the rate of responding across the whole duration of the 10-s reinforced cue, providing further evidence against an inhibition-of-delay account.</s><s>This effect was absent in Gria1 -/-mice (see Fig. <ref type="figure">S7</ref>).</s></p><p><s>To test whether cue had an effect on learning rather than performance of conditioned responding, we analyzed responding during the first trial of each trial type in each session (see Fig. <ref type="figure" target="#fig_0">2a</ref>).</s><s>There was a significant Cue × Genotype interaction, F(1, 23) = 4.56, p = .04,</s><s>η p 2 = .17,</s><s>90% CI = [.003,</s><s>.37].</s><s>Simple main-effects analysis of the significant interaction revealed that wild-type mice responded significantly more to the 10-s cue than the 40-s cue, F(1, 23) = 16.18,</s><s>p = .001,</s><s>but Gria1 -/-mice did not (F &lt; 1, p = .38).</s><s>Gria1 -/-mice responded significantly more than wild-type mice to both the 10-s and 40-s cues, smallest F(1, 23) = 4.87, p = .04.</s></p><p><s>Although the results are consistent with the shortterm-habituation account of the cue-duration effect, it is possible that, instead, GluA1 deletion abolished the cue-duration effect by impairing calculation of the reinforcement rate so that responding to the different duration cues was similar.</s><s>In Experiment 2, to test the precise role of GluA1, we first tested whether the cueduration effect reflects differences in the cumulative reinforcement rate.</s><s>Naive mice were trained with shortand long-duration cues, but now the short-duration cue was reinforced on one in four trials, so that the cumulative rate of reinforcement across the short-and longduration cues was matched (once every 40 s; see Table <ref type="table" target="#tab_0">1</ref>).</s><s>Therefore, if the cue-duration effect was still evident despite the reinforcement rate being matched across cues, then this would provide evidence against the role of reinforcement rate in the cue-duration effect.</s></p><p><s>Consistent with reinforcement rate being a key determinant of responding, results showed that the cue-duration effect was now abolished in wild-type mice: Difference scores for the short-and long-duration cues were similar (see Fig. <ref type="figure">1c</ref>).</s><s>Difference scores for Gria1  were now greater for the long-duration cue compared with the short-duration cue (see Fig. <ref type="figure">1d</ref>).</s><s>There was a significant Cue Duration × Genotype × Block interaction, F(4.45, 124.50) = 2.87, p = .022,</s><s>η p 2 = .09,</s><s>90% CI = [.008,</s><s>.15].</s><s>The significant three-way interaction among cue duration, block, and genotype was analyzed in separate ANOVAs for each genotype.</s><s>For Gria1 -/-mice, there were significant main effects of cue duration, F(1, 14) = 12.2, p = .004,</s><s>and block, F(4.39, 61.47) = 21.0,</s><s>p &lt; .001,</s><s>and a significant Cue Duration × Block interaction, F(4.06, 56.80) = 4.37, p = .004.</s><s>Further analysis of this interaction showed an effect of cue duration on Blocks 3 through 7 and 9 (Fs &gt; 6.0, ps &lt; .03).</s><s>For wild-type mice, there was a significant main effect of block, F(3.34, 46.69) = 7.75, p &lt; .001,</s><s>but no significant main effect of cue duration, F(1, 14) = 2.81, p = .12,</s><s>and no Cue Duration × Block interaction, F(2.67, 37.34) = 1.11, p = .35.</s></p><p><s>To test whether cue had an effect on learning rather than performance of conditioned responding, we analyzed responding during the first trial of each trial type in each session (see Fig. <ref type="figure" target="#fig_0">2b</ref>).</s><s>There was a significant Cue × Genotype interaction, F(1, 28) = 4.91, p = .04,</s><s>η p 2 = .15,</s><s>90% CI = [.006,</s><s>.34].</s><s>Simple main-effects analysis of the significant interaction revealed that Gria1 -/- mice responded significantly more to the 40-s cue than the 10-s cue, F(1, 28) = 19.50,</s><s>p &lt; .001,</s><s>but wild-type mice did not, F(1, 28) = 1.64, p = .21.</s><s>Gria1 -/-mice responded significantly more than wild-type mice to both the 10-s and 40-s cues, smallest F(1, 28) = 27.04,</s><s>p &lt; .001.</s></p><p><s>The absence of the cue-duration effect in wild-type mice in Experiment 2 may suggest that the cue-duration effect is caused by sensitivity to the reinforcement rate, but an alternative explanation is that the reduction in the difference scores for the short-duration cue was due to the fourfold reduction in the number of pairings with reinforcement rather than the reduction in reinforcement rate.</s><s>Therefore, in Experiment 3, to test whether the learning with the short-duration cue was affected by reinforcement rate rather than simply the number of reinforcements, we repeated the procedure in naive mice, except that the partially reinforced short cue was now presented four times as often as the longduration cue, so that the short-and long-duration cues were matched for both reinforcement rate and number of reinforcements (see Table <ref type="table" target="#tab_0">1</ref>).</s></p><p><s>The increase in number of reinforcements failed to increase difference scores for the short-duration cue compared with the long-duration cue in wild-type mice (see Fig. <ref type="figure">1e</ref>), demonstrating that responding in wildtype mice is primarily sensitive to reinforcement rate.</s><s>In contrast, the increase in the number of reinforcements resulted in difference scores for the short-duration cue now no longer differing from the long-duration cue in Gria1 -/-mice, and, therefore, both genotypes failed to show an effect of cue (see Fig. <ref type="figure">1f</ref>).</s><s>There were significant main effects of block, F(3.18, 41.37) = 11.4,</s><s>p &lt; .001,</s><s>and genotype, F(1, 13) = 15.9, p = .002,</s><s>and a significant Block × Genotype interaction, F(3.18, 41.37) = 3.70, p = .017.</s><s>All other main effects and interactions were nonsignificant (Fs &lt; 1.0, ps &gt; .40).</s><s>Further analysis of the significant Block × Genotype interaction showed a significant effect of genotype on Blocks 4 through 12 (Fs &gt; 5.0, ps &lt; .05).</s></p><p><s>To test whether cue had an effect on learning rather than performance of conditioned responding, we analyzed responding during the first trial of each trial type in each session (see Fig. <ref type="figure" target="#fig_0">2c</ref>).</s><s>The effect of cue was not significant, F(1, 13) = 1.03, p = .33.</s><s>Gria1 -/-mice responded significantly more than wild-type mice, F(1, 13) = 27.22,</s><s>p &lt; .001.</s><s>There was no significant interaction of factors (F &lt; 1, p = .57).</s></p><p><s>These collective results suggest that Gria1 -/-mice are insensitive to reinforcement rate but are instead sensitive to the number of reinforcements: Difference scores were greater for the long-duration cue when it was reinforced more often than the short-duration cue (see Fig. <ref type="figure">1d</ref>) but not when they were reinforced equally often (see Figs. <ref type="figure">1b</ref> and<ref type="figure">1f</ref>).</s><s>If GluA1 deletion spares sensitivity to the number of pairings with reinforcement, then difference scores of Gria1 -/-mice should be greater for the short cue compared with the long cue if the short cue is reinforced more often than the long cue.</s><s>This was tested in Experiment 4 by training naive mice with short-and long-duration cues.</s><s>Each trial was reinforced, but the short cue was presented four times as often as the long cue (see Table <ref type="table" target="#tab_0">1</ref>).</s><s>Consequently, the cues differed in reinforcement rate and number of reinforcements, but the cumulative exposure to each cue was matched.</s><s>As predicted, difference scores for both Gria1 -/-and wild-type mice were greater with the short cue compared with the long cue (see Figs. <ref type="figure">1g</ref> and<ref type="figure">1h</ref>).</s><s>There was a significant effect of cue, F(1, 14) = 71.1,</s><s>p &lt; .001,</s><s>η p 2 = .84,</s><s>90% CI = [.63,</s></p><p><s>.89], and block, F(3.26, 45.57) = 12.5, p &lt; .001.</s><s>All other main effects and interactions were nonsignificant (Fs &lt; 2.1, ps &gt; .11).</s></p><p><s>To test whether cue had an effect on learning rather than performance of conditioned responding, we analyzed responding during the first trial of each trial type in each session (see Fig. <ref type="figure" target="#fig_0">2d</ref>).</s><s>There was a significant effect of cue, F(1, 14) = 45.14, p &lt; .001,</s><s>η p 2 = .76,</s><s>90% CI = [.50, .84].</s><s>There was no significant effect of genotype (F &lt; 1, p = .58)</s><s>and no significant interaction of factors (F &lt; 1, p = .92).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experiments 5 and 6</head><p><s>Experiments 1 to 4 suggest that GluA1 plays a role in reinforcement-rate calculation independent of its role in short-term habituation.</s><s>However, reinforcement rate was equated between cues by confounding the probability of reinforcement per trial with the duration of the cue (i.e., a 10-s cue that was reinforced on 25% of trials was compared with a 40-s cue that was reinforced on 100% of trials).</s><s>Therefore, rate sensitivity may reflect an interaction between the effects of short-term habituation and partial reinforcement rather than rate calculation.</s><s>If GluA1 is necessary for reinforcement-rate calculation, then GluA1 will be necessary for sensitivity to reinforcement rate even when cues are the same duration and, therefore, short-term habituation will equally affect learning with both cues.</s><s>This prediction was tested in Experiment 5 by manipulating reinforcement rate between cues that were matched for duration.</s><s>Experiment 6 tested whether GluA1 deletion spares sensitivity to the number of pairings with reinforcement when cues are matched for duration.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p><s>Experiment 5: different reinforcement rate, matched reinforcement number.</s><s>Thirteen Gria1 -/-(7 female, 6 male) and 11 wild-type (5 female, 6 male) mice (freefeeding weights: 18.2-34.1 g) received 24 sessions of training, one per day, in which two 10-s cues (12 trials each per session) were presented four times as often as two other 10-s cues (three trials each per session).</s><s>Trials were separated by a fixed interval of 120 s (cue offset to cue onset).</s><s>One of the more frequently presented cues was reinforced (by presentation of a sucrose pellet at the termination of the cue) on a random 25% of trials (10 s 25%, reinforcement rate = once every 40 s), and the other was nonreinforced.</s><s>One of the less frequently presented cues was reinforced on every trial (10 s 100%, reinforcement rate = once every 10 s) and the other was nonreinforced.</s><s>For approximately half of the mice within each genotype and sex, the more frequently presented cues were visual (house light, LEDs) and the less frequently presented cues were auditory (white noise, clicker).</s><s>Within modality, the allocation of reinforced and nonreinforced cues was counterbalanced as far as possible.</s><s>For the remaining mice, the more frequently presented cues were auditory and the less frequently presented cues were visual, and the reinforcement contingencies within modality were similarly counterbalanced.</s><s>The cues were presented in a random order with the constraint that there were four trials of each of the more frequently presented 10-s cues and one trial of each of the less frequently presented cues every 10 trials.</s><s>Therefore, every 10 trials, the 10-s reinforced cue was reinforced once.</s></p><p><s>Experiment 6: matched reinforcement rate, different reinforcement number.</s><s>Twelve Gria1 -/-(6 female, 6 male) and 12 wild-type (4 female, 8 male) mice (freefeeding weights: 17.3-33.8</s><s>g) received training that was the same as in Experiment 5 when cue durations were matched, except that the less frequently presented reinforced cue was reinforced on a random 25% of trials.</s><s>Therefore, both the more frequent (high reinforcement number) and less frequent (low reinforcement number) reinforced cues were partially reinforced (25%).</s><s>The lowreinforcement-number cue was reinforced on a random 25% of trials with a maximum of one trial out of three being reinforced per session and a minimum of none of the three trials being reinforced per session.</s><s>Therefore, on any given session, the chance of a mouse receiving reinforcement on one of the three trials was 75% and on none of the three trials was 25%.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p><s>As in Experiments 1 to 4, we created a measure of responding that indicated performance above baseline by converting response rates to difference scores for the main analyses of training across blocks of trials.</s><s>These difference scores were calculated by subtracting response rates for nonreinforced cues from response rates for reinforced cues that were matched for frequency of presentation.</s><s>Gria1 -/-mice responded at a significantly higher rate than wild-type mice for nonreinforced cues in both Experiments 5 and 6 (ps ≤ .038;</s><s>see Fig. <ref type="figure">S6</ref> in the Supplemental Material).</s><s>For each genotype, the effect of cue found with difference scores in Experiments 5 and 6 was also found with the raw rates of responding to reinforced cues (see Fig. <ref type="figure">S6</ref>), suggesting that the results observed with the difference scores were not simply a consequence of an effect of cue on responding to nonreinforced cues.</s></p><p><s>Experiment 5 tested the prediction that GluA1 deletion impairs sensitivity to reinforcement rate when cues are matched for duration.</s><s>Mice were trained with two cues that were both 10 s in duration: One cue was reinforced on every trial (high reinforcement rate, 10 s 100%), but the other cue was reinforced on one in every four trials (low reinforcement rate, 10 s 25%).</s><s>The lowreinforcement-rate cue was presented four times as often as the high-reinforcement-rate cue; both cues were paired equally often with reinforcement (see Table <ref type="table" target="#tab_0">1</ref>).</s><s>In wild-type mice, difference scores were greater for the high-reinforcement-rate cue than for the low-reinforcement-rate cue (see Fig. <ref type="figure" target="#fig_1">3a</ref>).</s><s>Consistent with GluA1 having a role in rate calculation beyond any effect on short-term habituation, results revealed that Gria1 -/-mice had similar difference scores for the high-and low-reinforcement-rate cues (see Fig. <ref type="figure" target="#fig_1">3b</ref>).</s><s>There was a significant Cue × Genotype interaction, F(1, 20) = 9.67, p = .006,</s><s>η p 2 = .33,</s><s>90% CI = [.07,</s><s>.52].</s><s>All other main effects and interactions were nonsignificant (Fs &lt; 1, ps &gt; .70).</s><s>Further analysis of the significant Cue × Genotype interaction showed that there was a significant effect of cue for wild-type mice, F(1, 20) = 37.0, p &lt; .001,</s><s>but the effect of cue failed to reach significance for the Gria1 -/-mice, F(1, 20) = 4.09, p = .057.</s><s>Additionally, difference scores were larger for wild-type mice than for Gria1 -/-mice for the 10-s 100% cue, F(1, 20) = 5.28, p = .033,</s><s>but this was not the case for the 10-s 25% cue, F(1, 20) = 0.78, p = .39.</s></p><p><s>To test whether cue had an effect on learning rather than performance of conditioned responding, we analyzed responding during the first trial of each trial type in each session (see Fig. <ref type="figure" target="#fig_2">4a</ref>).</s><s>There was a significant Cue × Genotype interaction, F(1, 20) = 6.05, p = .023,</s><s>η p 2 = .23,</s><s>90% CI = [.02,</s><s>.44].</s><s>Simple main-effects analysis of the significant interaction revealed that the effect of cue was significantly greater for wild-type mice, F(1, 20) = 31.50,</s><s>p &lt; .001,</s><s>than for Gria1 -/-mice, F(1, 20) = 6.11, p = .02.</s></p><p><s>Although GluA1 deletion impaired sensitivity to reinforcement rate across Experiments 1 to 5, it did not impair sensitivity to the number of times a cue was paired with reinforcement.</s><s>Indeed, Gria1 -/-mice were sensitive to reinforcement number under conditions in which wild-type mice were not (Experiment 2; see Figs. <ref type="figure">1c</ref> and<ref type="figure">1d</ref>).</s><s>In Experiment 6, to directly test sensitivity to number of reinforcements, we tested naive mice on a procedure in which cue duration and reinforcement rate were matched but cues differed in number of pairings with reinforcement (see Table <ref type="table" target="#tab_0">1</ref>).</s><s>Two 10-s cues were both reinforced one in every four trials (reinforcement rate = once every 40 s), but one cue (high reinforcement number) was presented four times more often than the other cue (low reinforcement number).</s><s>Overall, independent of genotype, difference scores were greater for the high-reinforcement-number cue than for the low-reinforcement-number cue (see Figs. <ref type="figure" target="#fig_1">3c</ref> and<ref type="figure" target="#fig_1">3d</ref>).</s><s>There was a significant effect of cue, F(1, 20) = 5.57, p = .029,</s><s>η p 2 = .22,</s><s>90% CI = [.01,</s><s>.43],</s><s>and block, F(3.33, 66.58) = 9.90, p &lt; .001.</s><s>The effect of genotype failed to reach significance, F(1, 20) = 3.60, p = .07.</s><s>All interactions were nonsignificant (Fs &lt; 1.6, ps &gt; .19),</s><s>demonstrating that GluA1 deletion spares sensitivity to reinforcement number.</s></p><p><s>To test whether cue had an effect on learning rather than performance of conditioned responding, we analyzed responding during the first trial of each trial type in each session (see Fig. <ref type="figure" target="#fig_2">4b</ref>).</s><s>Mice responded more to the highreinforcement-number cue than the low-reinforcementnumber cue, but the difference was not significant, F(1, 20) = 3.61, p = .07.</s><s>Gria1 -/-mice responded significantly more than wild-type mice, F(1, 20) = 6.68, p = .02.</s><s>There was no significant interaction of factors (F &lt; 1, p = .84).</s><s>There was no significant effect of genotype for either the high-reinforcement-rate or low-reinforcement-rate cues, largest F(1, 20) = 2.51, p = .13.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p><s>Some models of learning have focused on the temporal dynamics of stimulus processing, such as short-term habituation and memory decay, in order to explain temporal sensitivity in learning (e.g., <ref type="bibr" target="#b4">Brandon, Vogel, &amp; Wagner, 2003;</ref><ref type="bibr" target="#b27">Staddon, 2005)</ref>.</s><s>Here, we used a novel test of a time-dependent-processing account: genetic manipulation of short-term habituation.</s><s>Although GluA1 deletion did affect learning, it was clear that the role of GluA1 was not in determining time-dependent changes in stimulus processing but was instead required for calculation of statistical information about the environment.</s><s>These results are consistent with theories that  Gria1 -/-mice (bottom row).</s><s>Difference scores were calculated by subtracting mean response rate (number of food-magazine entries) to nonreinforced cues from mean response rate to reinforced cues (responses per minute [RPM]), matched for frequency of presentation.</s><s>Each graph shows scores for the two cue types across 12 blocks of training.</s><s>For Experiment 5, each block contained six 10-s cues that were reinforced on 100% of trials and twenty-four 10-s cues that were reinforced on 25% of trials.</s><s>For Experiment 6, each block contained 24 high-reinforcement-number trials and six low-reinforcement-number trials.</s><s>In Experiment 5 (a, b), cues differed in reinforcement rate but not number of reinforcements.</s><s>In Experiment 6 (c, d), cues were matched for reinforcement rate but not number of reinforcements.</s><s>Error bars on the white squares indicate 95% confidence intervals for the mean difference between the two cues.</s></p><p><s>propose that learning reflects the encoding of the details and structure of events through symbolic knowledge.</s></p><p><s>Responding in wild-type mice was sensitive to reinforcement rate under conditions in which that rate was manipulated by the duration of cues or by the probability of reinforcement per trial (see Figs. <ref type="figure">1a</ref> and<ref type="figure" target="#fig_1">3a</ref>, Experiments 1 and 5).</s><s>When the rate of reinforcement was matched, other factors such as cue duration, probability of reinforcement per trial, and number of pairings with reinforcement failed to affect responding (see Figs. <ref type="figure">1c</ref> and<ref type="figure">1e</ref>, Experiments 2 and 3).</s><s>The sensitivity to reinforcement rate reflected an effect on learning rather than performance.</s><s>Thus, when the test conditions were matched by comparing responding on the first trial of each trial type per session, wild-type mice responded more to cues that had a high reinforcement rate than to those that had a low reinforcement rate (see Figs. <ref type="figure" target="#fig_0">2a, 2c,</ref> and<ref type="figure" target="#fig_2">4a</ref>).</s><s>These results are consistent with other studies in rodents <ref type="bibr" target="#b12">(Holland, 2000)</ref>, and they support the claim that reinforcement rate is a primary determinant of conditioned responding <ref type="bibr" target="#b7">(Gallistel &amp; Gibbon, 2000;</ref><ref type="bibr" target="#b9">Harris &amp; Carpenter, 2011;</ref><ref type="bibr" target="#b10">Harris et al., 2015)</ref>.</s></p><p><s>GluA1 deletion impaired sensitivity to reinforcement rate regardless of whether reinforcement rate was manipulated by cue duration (see Fig. <ref type="figure">1b</ref>, Experiment 1) or probability of reinforcement per trial (see Fig. <ref type="figure" target="#fig_1">3b</ref>, Experiment 5).</s><s>The fact that GluA1 deletion impaired sensitivity to reinforcement rate when cues were matched for duration (see Fig. <ref type="figure" target="#fig_1">3b</ref>, Experiment 5) suggests that GluA1 deletion did not impair rate sensitivity by simply reducing short-term habituation that may have occurred during long-duration cues.</s><s>Despite impaired rate sensitivity, Gria1 -/-mice did learn and were sensitive to the number of times a cue was paired with reinforcement.</s><s>This was the case when cues differed in duration (see Figs. <ref type="figure">1d</ref> and<ref type="figure">1h</ref>, Experiments 2 and 4) or frequency of presentation (see Fig. <ref type="figure" target="#fig_1">3d</ref>, Experiment 6).</s><s>Furthermore, Gria1 -/-mice were sensitive to differences in the number of reinforcements that cues received under conditions in which wild-type mice were not (see Fig. <ref type="figure">1d</ref>, Experiment 2).</s><s>Importantly, reinforcement number had an effect on learning rather than on performance of responding (see Figs. <ref type="figure" target="#fig_0">2b</ref> and<ref type="figure" target="#fig_0">2d</ref>).</s></p><p><s>The effects observed in Experiments 1 to 6 were found with difference scores in which responding to a nonreinforced, control cue was subtracted from responding to a reinforced cue; scores greater than zero indicate response rates that occurred as a specific consequence of the cue being paired with reinforcement.</s><s>Importantly, the effects observed with difference scores were also observed with the raw rates of responding to the reinforced cues and, therefore, were not simply due to an effect on response rates to the nonreinforced cues (see Figs. <ref type="figure">S5</ref> and<ref type="figure">S6</ref>).</s></p><p><s>It was found that Gria1 -/-mice responded more than wild-type mice to nonreinforced cues in Experiments 1 to 6.</s><s>It is unlikely that this baseline difference was the cause of the pattern of results that was observed.</s><s>Although Gria1 -/-mice failed to show an effect of cue when cues differed in reinforcement rate but not number of reinforcements (Experiments 1 and 5), they did show an effect of cue when cues differed in the number of reinforcements (Experiments 2, 4, and 6).</s><s>Furthermore, in Experiment 2, they showed an effect of cue when cues differed in the number of reinforcements under conditions in which wild-type mice did not.</s><s>Therefore, although there was a baseline difference in  responding to nonreinforced cues, the presence or absence of an impairment in Gria1 -/-mice cannot be explained by this baseline difference.</s></p><p><s>Although Gria1 -/-mice were sensitive to the number of pairings with reinforcement, it was clear that learning in Gria1 -/-mice did not simply increase with every presentation of reinforcement.</s><s>Responding plateaued at an asymptotic level rather than increasing monotonically over training (see Figs. <ref type="figure">1</ref> and<ref type="figure" target="#fig_1">3</ref>, Experiments 1-6).</s><s>The role of the number of pairings of reinforcement across Experiments 1 to 6 (see Figs. <ref type="figure">1</ref> and<ref type="figure" target="#fig_1">3</ref>) was primarily in determining the rate of acquisition rather than the asymptotic level of performance reached regardless of genotype (see Figs. S8-S11 in the Supplemental Material).</s><s>Thus, continuously reinforced cues took fewer trials to reach an acquisition criterion than partially reinforced cues.</s><s>These results are generally consistent with both associative-learning theories, which propose that learning increases with presentations of reinforcement up to a maximum level (e.g., <ref type="bibr" target="#b22">Rescorla &amp; Wagner, 1972)</ref>, and decision-making theories, which propose that the number of reinforcements determines the rate at which evidence accumulates (e.g., <ref type="bibr" target="#b7">Gallistel &amp; Gibbon, 2000)</ref>.</s><s>However, Gria1 -/-mice did show greater asymptotic levels of responding to a 10-s cue than a 40-s cue when the 10-s cue had been reinforced four times more than the 40-s cue (see Fig. <ref type="figure">1h</ref>, Experiment 4).</s><s>In contrast to Experiment 4, in the other experiments in which the number of reinforcements differed between cues (see Figs. <ref type="figure">1d</ref> and<ref type="figure" target="#fig_1">3d</ref>, Experiments 2 and 6), reinforcement number in Gria1 -/-mice had an effect on the rate of acquisition rather than asymptotic performance (see Figs. <ref type="figure">S8-S11</ref>).</s><s>A number of variables differed between Experiment 4 (see Fig. <ref type="figure">1h</ref>), in which asymptotic differences were observed in Gria1 -/-mice, and the experiments in which there were no differences in asymptotic response rates (see Figs. <ref type="figure">1d</ref> and<ref type="figure" target="#fig_1">3d</ref>, Experiments 2 and 6), such as the overall frequency of reinforcement, the total number of reinforcements per block, and the average interval between trials of the same cue type.</s><s>Therefore, the cause of this difference was not clear.</s><s>Nonetheless, across experiments, Gria1 -/-mice were sensitive to the number of reinforcements (see <ref type="bibr">Figs. 1d,</ref><ref type="bibr">1h,</ref><ref type="bibr">and 3d,</ref><ref type="bibr">Experiments 2,</ref><ref type="bibr">4,</ref><ref type="bibr">and 6</ref>) but insensitive to reinforcement rate (see Figs. <ref type="figure">1b</ref> and<ref type="figure" target="#fig_1">3b</ref>, Experiments 1 and 5), regardless of rate of acquisition or asymptotic levels of responding (see Figs. <ref type="figure">S8-S11</ref>).</s></p><p><s>Gria1 -/-mice failed to weight numeric information by temporal information in order for responding to be sensitive to reinforcement rate.</s><s>According to an associative analysis, impaired rate sensitivity but preserved sensitivity to reinforcement number may be the consequence of failing to reduce associative strength during periods of nonreinforced cue exposure (see Figs. S16-S18 in the Supplemental Material).</s><s>This prediction was tested in a supplementary experiment (Experiment 7; see Fig. <ref type="figure">S1</ref> in the Supplemental Material), but there was no significant evidence for this account, and Gria1 -/- mice showed normal sensitivity to nonreinforcement.</s></p><p><s>Symbolic accounts that assume that the statistical properties of events are explicitly encoded provide a different explanation of the effect of GluA1 deletion.</s><s>Impaired rate sensitivity but preserved sensitivity to the number of reinforcements must be the consequence of a failure to successfully encode temporal durations.</s><s>This prediction was tested in a supplementary experiment (Experiment 8; see Figs.</s><s>S2-S4 in the Supplemental Material).</s><s>Gria1 -/-mice showed impaired temporal precision, suggesting that impaired sensitivity to rate information may be due to an inability to discriminate between cues of different durations.</s></p><p><s>The pattern of results was observed using cues that were either 10 s or 40 s in duration and that were reinforced with a probability of either 100% or 25% with either an equivalent or a fourfold difference in reinforcement number.</s><s>These parameters were chosen because they have been shown to produce a cue-duration effect in normal mice <ref type="bibr" target="#b0">(Austen &amp; Sanderson, 2019)</ref>.</s><s>GluA1 deletion impaired the cue-duration effect observed in normal mice using these parameters.</s><s>Although our analysis assumes that the effect of GluA1 deletion is not dependent on the choice of parameters, it remains to be seen whether a similar pattern of effects is found with other cue durations and other reinforcement rates of the cues relative to the background reinforcement rate.</s></p><p><s>The collective results fail to support associative accounts of the role of reinforcement rate in learning that appeal to either time-dependent factors in stimulus processing that affect associative strength <ref type="bibr" target="#b29">(Wagner, 1981)</ref> or the relative trade-off between increments and decrements in associative strength that occur over cumulative exposure to a cue <ref type="bibr" target="#b28">(Sutton &amp; Barto, 1981;</ref><ref type="bibr" target="#b29">Wagner, 1981)</ref>.</s><s>Instead, the results are consistent with decision-making accounts that assume that sensitivity to time, number, and rate information reflects symbolic encoding of these variables and their use in calculating biologically relevant statistical information <ref type="bibr" target="#b6">(Gallistel &amp; Balsam, 2014;</ref><ref type="bibr" target="#b7">Gallistel &amp; Gibbon, 2000;</ref><ref type="bibr" target="#b8">Gibbon, Church, &amp; Meck, 1984)</ref>.</s></p><p><s>Although traditional trial-based associative-learning theories have been highly successful in describing the circumstances that lead to learning <ref type="bibr">(Mackintosh, 1975;</ref><ref type="bibr" target="#b19">Pearce &amp; Hall, 1980;</ref><ref type="bibr" target="#b22">Rescorla &amp; Wagner, 1972;</ref><ref type="bibr" target="#b29">Wagner, 1981)</ref>, their failure to readily describe temporal properties of conditioned responding has led to the proposal that associative learning is not a plausible mechanism for learning at both the psychological and neuronal levels <ref type="bibr" target="#b6">(Gallistel &amp; Balsam, 2014;</ref><ref type="bibr" target="#b7">Gallistel &amp; Gibbon, 2000)</ref>.</s><s>Our results provide further support for this claim.</s><s>However, it is important to note that the dissociation that we demonstrated between associative-and symbolic-encoding accounts of learning was achieved by deletion of the GluA1 AMPA receptor subunit, which is necessary for associative, Hebbian synaptic processes <ref type="bibr" target="#b14">(Malinow &amp; Malenka, 2002;</ref><ref type="bibr" target="#b30">Zamanillo et al., 1999)</ref>.</s><s>Therefore, this may contradict the proposal that symbolic encoding cannot be derived from Hebbian processes.</s><s>It is possible that both associative processes and symbolic representations operate in parallel, dependent on different neural circuits, and there is an interaction between these mechanisms <ref type="bibr" target="#b20">(Petter, Gershman, &amp; Meck, 2018)</ref>.</s><s>Alternatively, it has been argued that purely associative mechanisms at the deep learning level may lead to symbolic representations <ref type="bibr" target="#b17">(Mondragon, Alonso, &amp; Kokkola, 2017)</ref>.</s><s>Regardless of the merits of these claims, our results demonstrate that simple associative processes are not a sufficient account of learning, and the challenge is now to determine the precise mechanisms by which symbolic encoding is achieved.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 2 .</head><label>2</label><figDesc><div><p><s>Fig. 2. Rates of responding under matched test conditions in Experiments 1 to 4 (a-d, respectively).</s><s>Each graph shows the mean rate of responding to reinforced cues (number of responses per minute [RPM]) in the first trial of a session, separately for 10-s and 40-s trials and for wild-type (WT) and Gria1 -/-mice.</s><s>Response rates are collapsed across sessions.</s><s>Error bars indicate 95% confidence intervals for the mean difference between the two cues.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3 .</head><label>3</label><figDesc><div><p><s>Fig.3.</s><s>Difference scores in Experiments 5 and 6, separately for wild-type mice (top row) and Gria1 -/-mice (bottom row).</s><s>Difference scores were calculated by subtracting mean response rate (number of food-magazine entries) to nonreinforced cues from mean response rate to reinforced cues (responses per minute [RPM]), matched for frequency of presentation.</s><s>Each graph shows scores for the two cue types across 12 blocks of training.</s><s>For Experiment 5, each block contained six 10-s cues that were reinforced on 100% of trials and twenty-four 10-s cues that were reinforced on 25% of trials.</s><s>For Experiment 6, each block contained 24 high-reinforcement-number trials and six low-reinforcement-number trials.</s><s>In Experiment 5 (a, b), cues differed in reinforcement rate but not number of reinforcements.</s><s>In Experiment 6 (c, d), cues were matched for reinforcement rate but not number of reinforcements.</s><s>Error bars on the white squares indicate 95% confidence intervals for the mean difference between the two cues.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4 .</head><label>4</label><figDesc><div><p><s>Fig.4.</s><s>Rates of responding under matched test conditions in Experiments 5 and 6 (a and b, respectively).</s><s>Each graph shows the mean rate of responding to reinforced cues (number of responses per minute[RPM]) in the first trial of a session, separately for wild-type (WT) and Gria1 -/-mice.</s><s>Response rates are collapsed across sessions.</s><s>In Experiment 5, cues were reinforced either on 100% of trials or on 25% of trials.</s><s>Error bars indicate 95% confidence intervals for the mean difference between the two cues.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc><div><p><s>Designs of Experiments 1 to 6</s></p></div></figDesc><table><row><cell></cell><cell>Probability of</cell><cell></cell><cell></cell><cell>Number of</cell></row><row><cell>Experiment</cell><cell>reinforcement</cell><cell>Reinforcement</cell><cell>Number of</cell><cell>reinforcements</cell></row><row><cell>and cue</cell><cell>per trial</cell><cell>rate</cell><cell>trials per block</cell><cell>per block</cell></row><row><cell>Exp. 1</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>10 s</cell><cell>100%</cell><cell>Once every 10 s</cell><cell>6</cell><cell>6</cell></row><row><cell>40 s</cell><cell>100%</cell><cell>Once every 40 s</cell><cell>6</cell><cell>6</cell></row><row><cell>Exp. 2</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>10 s</cell><cell>25%</cell><cell>Once every 40 s</cell><cell>6</cell><cell>~1.5</cell></row><row><cell>40 s</cell><cell>100%</cell><cell>Once every 40 s</cell><cell>6</cell><cell>6</cell></row><row><cell>Exp. 3</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>10 s</cell><cell>25%</cell><cell>Once every 40 s</cell><cell>24</cell><cell>6</cell></row><row><cell>40 s</cell><cell>100%</cell><cell>Once every 40 s</cell><cell>6</cell><cell>6</cell></row><row><cell>Exp. 4</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>10 s</cell><cell>100%</cell><cell>Once every 10 s</cell><cell>6</cell><cell>6</cell></row><row><cell>40 s</cell><cell>100%</cell><cell>Once every 40 s</cell><cell>24</cell><cell>24</cell></row><row><cell>Exp. 5</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>10 s 100%</cell><cell>100%</cell><cell>Once every 10 s</cell><cell>6</cell><cell>6</cell></row><row><cell>10 s 25%</cell><cell>25%</cell><cell>Once every 40 s</cell><cell>24</cell><cell>6</cell></row><row><cell>Exp. 6</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>10 s HRN</cell><cell>25%</cell><cell>Once every 40 s</cell><cell>24</cell><cell>6</cell></row><row><cell>10 s LRN</cell><cell>25%</cell><cell>Once every 40 s</cell><cell>6</cell><cell>~1.5</cell></row><row><cell cols="5">Note: Experiments 1 to 4 used cues that differed in duration (10-s and 40-s cues). Experiment 5</cell></row><row><cell cols="5">used cues that were matched for duration (10 s) but differed in probability of reinforcement per</cell></row><row><cell cols="5">trial (100% and 25%). Experiment 6 used cues that were matched for duration and probability of</cell></row><row><cell cols="5">reinforcement per trial but differed in number of reinforcements (high reinforcement number [HRN]</cell></row><row><cell cols="2">and low reinforcement number [LRN]).</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc><div><p><s>-/-mice, however, Difference scores were calculated by subtracting mean response rate (number of food-magazine entries) to nonreinforced cues from mean response rate to reinforced cues (responses per minute [RPM]), matched for cue duration and frequency of presentation.Each graph shows scores for the two cue types across the 12 blocks in a session.For Experiments 1 and 2 (a-d), there were six 10-s trials and six 40-s trials per block.For Experiments 3 and 4 (e-h), there were twenty-four 10-s trials per block and six 40-s trials per block.In Experiment 1 (a, b), cues differed in reinforcement rate but not number of reinforcements.In Experiment 2 (c, d), cues were matched for reinforcement rate but not number of reinforcements.In Experiment 3 (e, f), cues were matched for reinforcement rate and number of reinforcements.</s><s>In Experiment 4 (g, h), cues differed in reinforcement rate and number of reinforcements.</s><s>Error bars on the white squares indicate 95% confidence intervals for the mean difference between the two cues.</s></p></div></figDesc><table><row><cell cols="3">g Mean RPM Different Reinforcement Rate 10 20 30 Different Reinforcement Number 0 Matched Reinforcement Rate 10 20 30 Mean RPM Matched Reinforcement Number</cell><cell cols="6">2 4 6 8 10 12 Different Reinforcement Rate Block 10 s 40 s Matched Reinforcement Number h 2 4 6 8 10 12 Block WT 10 s 40 s Matched Reinforcement Rate Different Reinforcement Number</cell><cell></cell><cell>2 4 6 8 10 12 Matched Reinforcement Rate Block 10 s 40 s Matched Reinforcement Number 2 4 6 8 10 12 Block WT 10 s 40 s Different Reinforcement Rate Different Reinforcement Number</cell></row><row><cell>e</cell><cell>Matched Reinforcement Rate</cell><cell>Different Reinforcement Number 0</cell><cell></cell><cell></cell><cell></cell><cell>2 4 6 8 10 12</cell><cell>Block</cell><cell>f</cell><cell></cell><cell>2 4 6 8 10 12</cell><cell>Block</cell></row><row><cell>c</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>d</cell><cell></cell></row><row><cell></cell><cell>Different Reinforcement Rate</cell><cell>Matched Reinforcement Number</cell><cell>10 s</cell><cell>40 s</cell><cell></cell><cell>2 4 6 8 10 12</cell><cell>Block</cell><cell>10 s</cell><cell>40 s</cell><cell>2 4 6 8 10 12</cell><cell>Block</cell></row><row><cell></cell><cell></cell><cell></cell><cell>30</cell><cell>20</cell><cell>10</cell><cell>0</cell><cell></cell><cell>30</cell><cell>20</cell><cell>10</cell><cell>0</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="4">Difference Score (RPM)</cell><cell></cell><cell cols="3">Difference Score (RPM)</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="4">Wild-Type Mice</cell><cell></cell><cell></cell><cell cols="2">Gria1 -/-Mice</cell></row><row><cell>a</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>b</cell><cell></cell></row></table><note><p><s>Fig. 1.</s><s>Difference scores in Experiments 1 to 4, separately for wild-type mice (top row) and Gria1 -/-mice (bottom row).</s></p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We thank <rs type="person">Young Ah Kim</rs> and <rs type="person">Alex Finniss</rs> for support with behavioral testing.</p></div>
+			</div>
+			<div type="funding">
+<div><p>Transparency Action Editor: <rs type="person">Marc J. Buehner Editor: D. Stephen Lindsay Author Contributions D. J. Sanderson</rs> devised the rationale for the study.<rs type="person">D. J. Sanderson</rs> and <rs type="person">J. M. Austen</rs> designed the experiments.<rs type="person">J. M. Austen</rs> and <rs type="person">C. Pickering</rs> ran the experiments, and J. M.</p><p>Austen analyzed the data.All the authors contributed to writing the manuscript and approved the final manuscript for submission.</p></div>
+<div><head>Declaration of Conflicting Interests</head><p>The author(s) declared that there were no conflicts of interest with respect to the authorship or the publication of this article.</p></div>
+<div><head>Funding</head><p>This work was supported by a grant from the <rs type="funder">Biotechnology and Biological Sciences Research Council</rs> (<rs type="grantNumber">BB/ M009440/1</rs>) to <rs type="person">D. J. Sanderson</rs>.</p></div>
+<div><head>Open Practices</head><p>Raw data for this study have been made publicly available via Figshare and can be accessed at https://doi.org/10.6084/m9.figshare.11409447.v1.The design and analysis plans for the study were not preregistered.This article has received the badge for Open Data.More information about the Open Practices badges can be found at http://www .psychologicalscience.org/publications/badges.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_xxYdZAR">
+					<idno type="grant-number">BB/ M009440/1</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplemental Material</head><p><s>Additional supporting information can be found at http:// journals.sagepub.com/doi/suppl/10.1177/0956797620960392</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Delay of reinforcement versus rate of reinforcement in Pavlovian conditioning</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Austen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Sanderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: Animal Learning and Cognition</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="203" to="221" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Temporal maps and informativeness in associative learning</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Balsam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Gallistel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="73" to="78" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Role of short-term processes in conditioned stimulus preexposure effect and delay of reinforcement gradient in long-delay taste-aversion learning</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Best</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Gemberling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: Animal Behavior Processes</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="253" to="263" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Importance of trials versus accumulating time across trials in partially reinforced appetitive conditioning</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Bouton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sunsay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: Animal Behavior Processes</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="62" to="77" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Stimulus representation in SOP: I. Theoretical rationalization and some implications</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Brandon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Vogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Wagner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavioural Processes</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="5" to="25" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Statistical power analyses using G * Power 3.1: Tests for correlation and regression analyses</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Faul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Erdfelder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buchner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-G</forename><surname>Lang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavior Research Methods</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1149" to="1160" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Time to rethink the neural mechanisms of learning and memory</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Gallistel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Balsam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurobiology of Learning and Memory</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="136" to="144" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Time, rate, and conditioning</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Gallistel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gibbon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="289" to="344" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Scalar timing in memory</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gibbon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Church</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Meck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Timing and time perception</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Gibbon</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Allan</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>New York Academy of Sciences</publisher>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="volume">423</biblScope>
+			<biblScope unit="page" from="52" to="77" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Response rate and reinforcement rate in Pavlovian conditioning</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Carpenter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: Animal Behavior Processes</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="375" to="384" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Pavlovian conditioning and cumulative reinforcement rate</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Patterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gharaei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: Animal Learning and Cognition</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="137" to="151" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Relative and absolute strength of response as a function of frequency of reinforcement</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Herrnstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Experimental Analysis of Behavior</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="267" to="272" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Trial and intertrial durations in appetitive conditioning in rats</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Holland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Animal Learning &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="121" to="135" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A theory of attention: Variations in the associability of stimuli with reinforcement</title>
+		<author>
+			<persName><surname>Jasp Team</surname></persName>
+		</author>
+		<ptr target="https://jasp-stats.org/Mackintosh" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="276" to="298" />
+			<date type="published" when="1975">2020. 1975</date>
+		</imprint>
+	</monogr>
+	<note>N. J.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">AMPA receptor trafficking and synaptic plasticity</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Malinow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Malenka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="103" to="126" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Bayes like a Baws: Interpreting Bayesian repeated measures in JASP</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mathôt</surname></persName>
+		</author>
+		<ptr target="https://www.cogsci.nl/blog/interpreting-bayesian-repeated-measures-in-jasp" />
+	</analytic>
+	<monogr>
+		<title level="j">Cognitive Science and More</title>
+		<imprint>
+			<date type="published" when="2017-05-15">2017. May 15</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">MED-PC: Research control &amp; data acquisition software. SOF-735 user&apos;s manual</title>
+		<author>
+			<persName><forename type="first">Med</forename><surname>Associates</surname></persName>
+		</author>
+		<ptr target="https://www.med-associates.com/wp-content/uploads/2017/01/DOC-010-R1.6-SOF-735-MED-PC-SOFTWARE-MANUAL.pdf" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Associative learning should go deep</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mondragon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Alonso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kokkola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Cognitive Sciences</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="822" to="825" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">P</forename><surname>Pavlov</surname></persName>
+		</author>
+		<title level="m">Conditioned reflexes</title>
+		<meeting><address><addrLine>London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1927">1927</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A model for Pavlovian learning: Variations in the effectiveness of conditioned but not of unconditioned stimuli</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="532" to="552" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Integrating models of interval timing and reinforcement learning</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Petter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Gershman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Meck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Cognitive Sciences</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="911" to="922" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Spatial memory dissociations in mice lacking GluR1</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Reisel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Bannerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Schmitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Deacon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Flint</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Borchardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Rawlins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="868" to="873" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A theory of Pavlovian conditioning: Variations in the effectiveness of reinforcement and nonreinforcement</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Rescorla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Wagner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Classical conditioning, II: Current research and theory</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Black</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Prokasy</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Appleton-Century-Crofts</publisher>
+			<date type="published" when="1972">1972</date>
+			<biblScope unit="page" from="64" to="99" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Enhanced long-term and impaired short-term spatial memory in GluA1 AMPA receptor subunit knockout mice: Evidence for a dual-process memory model</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Sanderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Good</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Skelton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sprengel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Seeburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Rawlins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Bannerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Learning &amp; Memory</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="379" to="386" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Deletion of the GluA1 AMPA receptor subunit impairs recency-dependent object recognition memory</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Sanderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hindley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Smeaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Denny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Barkus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Bannerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Learning &amp; Memory</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="181" to="190" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Altered balance of excitatory and inhibitory learning in a genetically modified mouse model of glutamatergic dysfunction relevant to schizophrenia</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Sanderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sprengel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Seeburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Bannerman</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41598-017-01925-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Reports</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">1765</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A within-subjects, withintask demonstration of intact spatial reference memory and impaired spatial working memory in glutamate receptor-A-deficient mice</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Schmitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Deacon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Seeburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Rawlins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Bannerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="3953" to="3959" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Interval timing: Memory, not a clock</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Staddon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Cognitive Sciences</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="312" to="314" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Toward a modern theory of adaptive networks: Expectation and prediction</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Sutton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Barto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="135" to="170" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">SOP: A model of automatic memory processing in animal behavior</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Wagner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Information processing in animals: Memory mechanisms</title>
+		<editor>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Spear</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Miller</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hillsdale, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Erlbaum</publisher>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="page" from="5" to="47" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Importance of AMPA receptors for hippocampal synaptic plasticity but not for spatial learning</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zamanillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sprengel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Hvalby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Burnashev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rozov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Sakmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">284</biblScope>
+			<biblScope unit="page" from="1805" to="1811" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
