@@ -1,7 +1,6 @@
 # Causal-Clarity  
 
-By identifying causal implications within research papers, this tool enhances understanding and analysis of scientific writing for causal inference.  
-The models determine whether a sentence is **causal or non-causal** and further classify causal sentences into **correlational, conditional causal, or direct causal** categories.  
+By identifying causal implications within research papers, this tool enhances understanding and analysis of scientific writing for causal inference. The fine-tuned models classify whether a sentence is **causal or non-causal** and further classify causal sentences into **correlational, conditional causal, or direct causal** categories.  
 
 ## 📁 Project Structure  
 
