@@ -21,11 +21,11 @@ This folder contains an **interactive interface** that applies the trained model
 The project utilizes **Kaggle** for training, leveraging its **GPU resources** for fine-tuning large models efficiently.  
 
 ## 🔗 Trained Models  
-The final fine-tuned models are available on Kaggle:  
-- **BERT (Final Model)**: [BERT Final](https://www.kaggle.com/models/tessaa/2_bert_final/)  
-- **SciBERT**: [SciBERT Final](https://www.kaggle.com/models/tessaa/scibert_)  
+The final best performing fine-tuned models are available on Kaggle:  
+- **BERT**: [BERT Final](https://www.kaggle.com/models/tessaa/2_bert_final/)  macro-F1 of 0.94
+- **SciBERT**: [SciBERT Final](https://www.kaggle.com/models/tessaa/scibert_)  macro-F1 of 0.83
 
-## 📌 Fine-Tuning Notebooks  
+## 🔗 Fine-Tuning Notebooks  
 - **LLaMA Fine-Tuning**: [LLaMA Fine-Tuning](https://www.kaggle.com/code/tessaa/llama)  
 - **BERT Fine-Tuning**:  
   - **2-Class Classification**: [BERT Fine-Tuning (2 Classes)](https://www.kaggle.com/code/tessaa/bert-fine-tuning)  
