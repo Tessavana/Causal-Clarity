@@ -17,7 +17,7 @@ Includes Jupyter notebooks for step-by-step fine-tuning of:
 
 ### 📂 Tool  
 This folder contains an **interactive interface** that applies the trained models to real research papers for causal analysis.  
-![Causal Analysis Tool](/images/highlights.png)
+![Causal Analysis Tool](/Images/highlights.png)
 
 ## ⚡ GPU Usage  
 The project utilizes **Kaggle** for training, leveraging its **GPU resources** for fine-tuning large models efficiently.  
