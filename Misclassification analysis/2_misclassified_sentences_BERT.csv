@@ -1,0 +1,268 @@
+sentence,true_label,predicted_label,source
+differences emerged suggesting worse health among those who gave birth,1,0,Haber
+Using logistic regression we found African Americans were no different from Whites in seeking health information and using it when they talked with their doctors.,1,0,Haber
+The performance of TaETM achieves the same results in terms of quality of life and anorectal function as conventional ETM.,1,0,Pubmed data.csv
+"Because of the partner design, this yields 18 independent observations for each treatment.",1,0,Ssc
+Registers are used for the most frequently needed data items to avoid having to access main memory every time data is needed .,1,0,altlex
+Defra identified the different noises made by dogs and the meanings behind them .,1,0,semeval
+"Although both are characterized by increased intestinally derived lipoprotein particles, HDL is reduced only in SCH.",1,0,Pubmed data.csv
+"He was a trouble maker then , a leader in SDS , and a trouble maker he remains .",1,0,semeval
+We did not see variation in the risk of urinary tract infection with the visibility of the urethral meatus among uncircumcised boys.,1,0,Haber
+People made tools to help them remember where they were in a maths problem .,1,0,altlex
+"Risk of CP in two Scandinavian countries was lower among educated parents and mothers with a partner, but unrelated to income.",1,0,Haber
+"Besides, the relationship between increase of dietary  diversity and risk of obesity should be treated circumspectly.",1,0,Pubmed data.csv
+"Thus, mammographic density should possibly influence adjuvant therapy decisions in the  future.",1,0,Pubmed data.csv
+A small decrease in mean calories purchased per transaction was observed after implementation of calorie labeling in a large franchise of fast food restaurants.,1,0,Haber
+Six glowing disks await activation by the footsteps of desert wanderers .,1,0,semeval
+Hawaiian Gardens Gangmember Convicted Of Murdering Lakewood Stn . Sheriff's Deputy Jerry Ortiz,1,0,esl2
+"Under the rules that apply when we have cabinet and cabinet-level officials, there are two opening statements on each side, the chairs and ranking members of the appropriate subcommittees.",1,0,because
+Their regulator has made clear that they are adequately capitalized.,1,0,because
+"Otherwise, if the accumulated gain explains the behaviour of the birds but the one trial gain does not, then the birds are making decisions based on the four trial reward and are playing a mutualism game.",1,0,Ssc
+"I'm grateful to George Starke to have had the vision to set something like this up, not just for me but for all the students.",1,0,because
+"The word ""song"" is used to describe the pattern of regular and predictable sounds made by some species of whales , notably the humpback whale .",1,0,semeval
+His solution was to pay the Danes off : for almost 20 years he paid increasingly large sums to the Danish nobles in an attempt to keep them from English coasts .,1,0,altlex
+"However , the Soviets changed their minds , fearing possible future Cuban militant steps , and on November 22 , 1962 , the Soviet Deputy Prime Minister Anastas Mikoyan told Castro that those rockets with the nuclear warheads were being removed too .",1,0,altlex
+"The benefits of exercise for reducing risk of chronic disease, including CVD, are well known.",1,0,Pubmed data.csv
+Previous research has shown that behavior aligns with self-interest only when self-interest is salient.,1,0,Ssc
+"Although aeronautical warfare had relatively little success at the start of the war , actions at Taranto , Pearl Harbor , and the Coral Sea established the carrier as the dominant capital ship in place of the battleship .",1,0,altlex
+Medical bills make up half of bankruptcies .,1,0,semeval
+"Sixers Hire Maurice Cheeks as Head Coach Cheeks , who played for the Sixers for 11 seasons and served as an assistant coach for seven , was named coach after Jim O'Brien was relieved of his coaching duties .",1,0,esl2
+"In World War II , mechanical analog computers were used for specialized military applications such as calculating torpedo aiming .",1,0,altlex
+"C. trachomatis DNA was frequently detected in the placenta of women with early preterm delivery, and was associated with histopathological signs of placental inflammation.",1,0,Haber
+SEACOM cable problems may only be resolved next week,1,0,esl2
+"Mr. Bernanke:  Congressman, our first objective is to make sure that these firms are safe and able to withstand the current stresses.",1,0,because
+Forest land  cover and some degree of fragmentation are associated with population physical activity.,1,0,Haber
+Both effects should cause increase in public-good provision at least at level 1.,1,0,Ssc
+"To determine , once and for all , how the manakin was making its bizarre sounds , Bostwick and colleagues decided to take feather samples .",1,0,semeval
+"""Thompson was not so easy to box . In 2008 , Klitschko stopped Thompson in the 11th round .",1,0,esl2
+Today 's composers have combined some of these ideas to develop their own styles .,1,0,altlex
+Intense mind wandering could account for  substantial proportion  of road crashes,1,0,Press_Release
+"Scodel, Minas, Ratoosh, and Lipetz ( 5 ) and Minas, Scodel, Marlowe, and Rawson (4) have demonstrated that the Prisoner's Dilemma, when played as an iterated game, results in both players employing a noncooperative strategy.",1,0,Ssc
+"The log truck caught fire after the collision , but the 35-year-old driver escaped before the cab became engulfed in flames .",1,0,semeval
+"As PIP&Rofil implants showed shorter retention periods until rupture and ruptured implants can cause symptoms or health problems, PIP&Rofil implants should be regularly monitored and explanted if there is evidence of rupture.",1,0,Pubmed data.csv
+Perinatal depression was frequent and associated with febrile illness in the offspring.,1,0,Haber
+"Police were called to the family's terraced house in Millom , Cumbria , at 8 . 40am on Saturday and found the bodies of Alice McMeekin , 58 , and her university student daughter Katie Jenkin , 20 .",1,0,esl2
+Good breeding consists of concealing how much we think of ourselves and how little we think of the other person .,1,0,semeval
+"Properties of the soils developed from the amphibolites of Santiago-Ponte Ulla , Spain .",1,0,semeval
+UNHCR condemns air attack on refugee camp in South Sudan,1,0,esl2
+"Steps are being taken to improve market infrastructure, especially where our financial firms are highly intertwined.",1,0,because
+"Much of it, of course, using the standards of top newspapers, cannot be used since it is largely gossip we are repeating, although it certainly could make for some very good stories.",1,0,because
+A small decrease in mean calories purchased per transaction was observed after  implementation of calorie labeling in a large franchise of fast food restaurants.,1,0,Haber
+6 000 steps a day keeps knee OA limitations away,1,0,Press_Release
+"Reduced-intensity conditioning had several advantages compared with MAC, including less mucositis, less haemorrhagic cystitis, faster platelet engraftment, the need for fewer transfusions and less TPN, and fewer CMV infections",1,0,Haber
+Two climbers killed in Mt Cook falls,1,0,esl2
+"These findings challenge the notion that breast cancer rates are uniformly low across Asians and therefore suggest a need for increased awareness, targeted cancer control, and research to better understand underlying factors",1,0,Haber
+"Brain scans revealed that people with no symptoms of Alzheimer's who engaged in cognitively stimulating activities throughout their lives had fewer deposits of beta-amyloid, a destructive protein that is the hallmark of the disease.",1,0,Press_Release
+"Routinely collected mobile phone data revealed a dramatic reduction in human
+mobility during a 3-day lockdown in Sierra Leone.",1,0,Haber
+The length of day and night could be changed ( AKA re-programmed ) every day in order to account for the changing lengths of day and night throughout the year .,1,0,altlex
+"""The results are consistent with gastrointestinal motility effects of TZP-101, supporting further  investigation of TZP-101 in the management of severe gastroparesis.""",1,0,Pubmed data.csv
+"Forest land cover and some degree of fragmentation are associated with population
+physical activity",1,0,Haber
+"Dactylitis is a frequent manifestation in patients with SpA, even during the early stages of the disease.",1,0,Pubmed data.csv
+"Thus, much like the real world, if harvesters mismanaged the resource during the early stages of the simulation, there was less available during the later stages.",1,0,Ssc
+The importance of the team composition in ICUs,1,0,Press_Release
+"Among participants with severe obesity, there was substantial weight loss 3 years after bariatric surgery, with the majority experiencing maximum weight change during the first year.",1,0,Pubmed data.csv
+"Subsequently, the aggregate may have had a synergistic influence.",1,0,Pubmed data.csv
+"For this school, once they are in, all they have to do is come every day, come on time every day and work hard.",1,0,because
+""" EN is suitable for a variety of childrens digestive diseases, which  can improve the nutritional status of the patients and was safe for clinical application.",1,0,Pubmed data.csv
+"Among 20 723 PCPs, the payment increase had no association with PCP
+participation in Medicaid or Medicaid service volume.",1,0,Haber
+Discharge against medical advice is associated with over twice the odds of all-cause unplanned 30-day readmission compared with routine discharge,1,0,Haber
+But not every run of the experiment produced the desired state - a very large number of failed tries accompanied each successful creation .,1,0,semeval
+"After adjusting for maternal age, marital status, education, pregnancy intention, stressful life events, third-trimester use of tobacco and alcohol and gestational age at delivery, physical violence by an intimate partner around the time of pregnancy was positively but non-significantly associated with excessive (but not deficient) gestational weight gain",1,0,Haber
+Women with RA had a high prevalence of most adverse birth outcomes.,1,0,Haber
+"Further, because direct reciprocity was not possible in our experiments, sharing arrangements were not self-enforcing.",1,0,Ssc
+Chargers defensive tackle Jamal Williams was arrested early Sunday for suspicions of driving under the influence . He was given a blood alcohol test but the results have not been revealed .,1,0,esl2
+This large contemporary analysis suggests that less stringent Q-wave criteria carry prognostic value in predicting adverse outcome among primary care patients.,1,0,Haber
+"This study suggests that low Apgar score is associated with higher risk of ASD, and in particular AD.",1,0,Haber
+"On my backpacking trip , the insoles caused a hot spot on the left side of my right heel and a blister on the right side of my left heel .",1,0,semeval
+"That sale, however, could still fall through if financing problems develop. Thus, it remains crucial for RJR to obtain top dollar for its smaller assets like the candy brands.",1,0,ctb
+The findings from this prospective study support the use of nutritional assessment in inpatients to predict PU risk and target appropriate interventions.,0,1,Pubmed data.csv
+"There was a suspicion the body was Blassie because his uniform and ID card were found near the body in Vietnam. But subsequently, they were lost.",0,1,ctb
+Survival rates for premature babies in high level NICUs are better than previously reported,0,1,Press_Release
+"In addition , herd bulls supply half of the genetics to all the calves he sires; therefore , bull selection can be the most powerful method of genetic improvement in the herd .",0,1,semeval
+"Among obese patients receiving care in the VA health system, those who underwent bariatric surgery compared with matched control patients who did not have surgery had lower all-cause mortality at 5 years and up to 10 years following the procedure.",0,1,Haber
+"Isolated fractures of the shaft of the ulna , without other fractures , often result when the forearm is raised to fend off a blow .",0,1,semeval
+"The follow-up independent t-tests (Table 1) revealed that MAOA-L carriers exhibited significantly lower beliefs about others' contribution in stage one (P~0:013), stage two (P~0:037), and stage three (P~0:039), but not in stage four (P~0:421).",0,1,Ssc
+Major fire at supermarket,0,1,esl2
+"A reduced risk of dementia was associated with early- (RR 0.57; 95% CI 0.36–0.90), adult- (RR 0.60; 95% CI 0.42–0.87), and latelife (RR 0.52; 95% CI 0.37–0.73) reserve-enhancing latent factors in separate multivariable Cox models.",0,1,Haber
+"However, resolution of pain among residents experiencing moderate-to-severe pain was still problematic.",0,1,Pubmed data.csv
+Hypertension appears to be associated with a doubling of the risk of future ESRD in an otherwise healthy adolescent population,0,1,Haber
+"Breaking News - Three People Shot in Office Shooting in Suburban Detroit There is breaking news out of Troy , Michigan , a suburb of Detroit .",0,1,esl2
+"Klitschko finished the fight five rounds sooner than when knocking out Thompson in the 11th of their first title fight in 2008 . Thompson , who was the mandatory challenger nominated by the IBF , fell to 36 - 3 ( 24 KO ) .",0,1,esl2
+"Clonal hematopoiesis with somatic mutations is readily detected by means of DNA sequencing, is increasingly common as people age, and is associated with increased risks of hematologic cancer and death.",0,1,Haber
+Study findings can impact pediatric chronic disease management to improve care for children with these conditions.,0,1,Pubmed data.csv
+Antibiotic exposure in infancy is associated with an increased risk of asthma up to adolescence,0,1,Haber
+Our study showed that the impact of the ACA expansion on health care  expenditures differed by race/ethnicity,0,1,Haber
+Use of β-blockers after AMI is associated with functional decline in older nursing home residents with substantial cognitive or functional impairment,0,1,Haber
+Incidence rates of hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (ICC) have increased in the U.S.,0,1,Press_Release
+The old geological theory explained mountains as wrinkles made by the Earth shrinking as it cools down .,0,1,semeval
+HIV-infected men have higher mortality on ART than women in South African programmes,0,1,Haber
+Grapefruit juice causes more of these drugs to enter the blood .,0,1,semeval
+"Annual FPG and HbA1c variations have a strong association with diabetic nephropathy in
+patients with type 2 diabetes",0,1,Haber
+"By identifying these characteristics, we  can develop programs and materials that meet these populations needs and behaviors, ultimately increasing mammography screening and follow-up rates among  underserved populations.""",0,1,Pubmed data.csv
+"But when one of them suffers a stroke caused by a clot in their brain, some emergency teams might hesitate to give a powerful clot-busting medication called tPA -- for fear that the combination of drugs might cause dangerous brain bleeding.",0,1,Press_Release
+Debt-to-income ratios are referred to as the guidelines that are used by mortgage lenders in order to determine your maximum mortgage amount .,0,1,semeval
+Performance incentives and external influences were more powerful modifiers of practice behaviours than the POC device in relation to CVD risk assessment completion.,0,1,Pubmed data.csv
+"Living alone is associated with a  substantially increased risk of alcohol-related mortality, irrespective of gender,  socioeconomic status, or the specific cause of death.",0,1,Haber
+"While an objective measure of adherence exists, PAP usage does not allow for measure of sleep improvement.",0,1,Pubmed data.csv
+Treatment-related increases in total hip BMD are associated with reduced fracture risk,0,1,Haber
+"In therapeutic hypothermia, a patient's body temperature is cooled to 33 degrees Celsius following resuscitation from cardiac arrest, in order to slow the brain's metabolism and protect the brain against the damage initiated by the lack of blood flow and oxygenation.",0,1,Press_Release
+New evidence is suggesting that a series of bombings in Atalanta and last month's explosion at an Alabama women's clinic might be related.,0,1,ctb
+Nonobstructive coronary artery disease (CAD) is atherosclerotic plaque that would not be expected to obstruct blood flow or result in anginal symptoms (such as chest pain).,0,1,Press_Release
+"Clinton Portis , who missed last week ' s game against Dallas because of a shoulder injury from the preseason , rushed for 86 yards on 16 attempts to become the fifth-fastest player to reach the 6 , 000-yard mark in his career .",0,1,semeval
+""" This is a new thing ... it means that we are willing to talk today _ full stop _ about security, "" Lubrani told Israel's Channel One.",0,1,ctb
+"Despite this, overall satisfaction and perception of success of the procedure reduced markedly.",0,1,Pubmed data.csv
+Levels below 0.20 nmol/L were not predictive of the presence or absence  of AF.,0,1,Haber
+"Research suggests that there may be a better way of measuring blood loss due to trauma than the current method, finds an article in BioMed Central's open access journal Critical Care.",0,1,Press_Release
+"First, we can assess the correlation between beliefs and contributions, which we expect to differ between types of players and which helps us to check on the player type as elicited in the P-experiment.",0,1,Ssc
+"In this large population-based study, greater whole brain WMHV was associated with steeper annual decline in functional status over the long term, independently of risk factors, vascular events, and baseline functional status",0,1,Haber
+"Tiger Woods ' mother-in-law was released from the hospital Tuesday , 11 hours after a pre-dawn emergency call was made from his Florida mansion because she was suffering from stomach pains .",0,1,semeval
+Further assessment could delineate relationship between serum lipid levels and depression with suicidality in other ethnic groups.,0,1,Pubmed data.csv
+Evaluators applied the statistically accurate generalization that men are usually taller than women to their estimates of the height of individuals who did not necessarily conform to the generalization .,0,1,semeval
+Ms. Sanders was hit several times and was pronounced dead at the scene.,0,1,ctb
+Birth by CS is associated with a small increased risk of ADHD.,0,1,Haber
+Experts said that the creation of such facilities contributes to strengthening the city ' s position as one of eastern Cuba ' s major tourist destinations .,0,1,semeval
+"In patients who presented with an acute coronary syndrome and underwent percutaneous coronary intervention, major adverse cardiovascular events occurring during follow-up were equally attributable to recurrence at the site of culprit lesions and to non culprit lesions. Although non culprit lesions that were responsible for unanticipated events were frequently angiographically mild, most were thin-cap fibro-atheromas or were characterized by a large plaque burden, a small luminal area, or some combination of these characteristics, as determined by gray-scale and radiofrequency intravascular ultrasonography",0,1,Haber
+"After adjusting for a wide range of socio-demographic factors, subjects who had
+been given large transfers were much more likely to report very good health than subjects who had not been given anything",0,1,Haber
+"Cross-sectional correlations were significant between greater age acceleration
+and poorer performance on the lung function, cognition and grip strength measures (r range: 0.07 to 0.05, P range: 9.7 x 103 to 0.024).",0,1,Haber
+Job strain was associated with an increased risk of CHD,0,1,Haber
+"Human papillomavirus vaccination was not associated with increases in STIs in a large cohort of females, suggesting that vaccination is unlikely to promote unsafe sexual activity",0,1,Haber
+"Advances in knowledge: It is possible to detect fetal lissencephaly between 20- and 24-week gestational age; but, it is considerably easier in the third trimester.",0,1,Pubmed data.csv
+Apricot marmalade is effective in treating emotional indigestion .,0,1,semeval
+"However, if categorization does impact trust, why did S. L. Gaertner and Rust's (2000) study and our pilot studies fail to find a significant effect of categorization manipulations on PDG choices?",0,1,Ssc
+The prevalence of T2D was high in this study and seems to be increasing compared to prior diabetes reports.,0,1,Pubmed data.csv
+Genetic mismatch of non-HLA haplotypes coding for transmembrane or secreted proteins is associated with an increased risk of functional graft loss independently of HLA incompatibility.,0,1,Haber
+"The delay in bringing the suit to trial is being caused by a terrific log- jam of pending cases , court aids explained .",0,1,semeval
+Higher cane sugar prices are unlikely to have any impact on the price of soft drinks .,0,1,semeval
+"Secretary Paulson:  Mr. Chairman, let me respond by saying first of all, the role of the Fed as a macro stability regulator will take time to think through.",0,1,because
+Severe maternal hearing loss is associated with significantly increased adolescent distress,0,1,Haber
+There was no association between the FH definitions and  noncoronary cardiovascular events.,0,1,Haber
+Engine pistons transmit the force generated by the combustion gas to the connecting rods .,0,1,semeval
+"The rate of children diagnosed with Attention Deficit Hyperactivity Disorder rose dramatically between 2001 and 2010 with non-Hispanic white children having the highest diagnosis rates, according to a Kaiser Permanente study published in the journal JAMA Pediatrics (formerly Archives of Pediatrics and Adolescent Medicine).",0,1,Press_Release
+"Uptake of cervical cancer screening is common in the United States, with large socioeconomic disparities also evident.",0,1,Pubmed data.csv
+Birth before 32 weeks is associated with increased risk of cerebrovascular disease in young adulthood.,0,1,Haber
+One SilkAir flight was diverted and landed in Kunming as a result .,0,1,altlex
+"Chronic kidney disease was associated with an increased risk of stroke or systemic
+thromboembolism and bleeding among patients with atrial fibrillation. Warfarin
+treatment was associated with a decreased risk of stroke or systemic thromboembolism among patients with chronic kidney disease, whereas warfarin and aspirin
+were associated with an increased risk of bleeding.",0,1,Haber
+"According to the California Highway Patrol , defensive tackle Jamal Williams was arrested on suspicion of drunken driving last weekend on a freeway outside downtown . However the results have not yet been divulged .",0,1,esl2
+Use of sulfonylureas compared with metformin for initial treatment of diabetes was associated with an increased hazard of CVD events or death.,0,1,Haber
+"That will, in turn, bring pressure on Washington to change.",0,1,ctb
+"This study supports that there is a positive relationship between weight status and past 30-day cigarette and e-cigarette use for boys, but that there is no association for girls",0,1,Haber
+"A significant increase of the morning lymphocyte count is frequently
+observed in patients with immune mediated inflammatory disorders chronically
+treated with oral mPDN.",0,1,Haber
+Lower father’s occupational class in early life was associated with higher odds of asthma alone but lower odds of asthma with atopy in a cohort that preceded the 1960s rise in asthma prevalence.,0,1,Haber
+"Ibrutinib was associated with a high frequency of durable remissions in patients with relapsed or refractory CLL and small lymphocytic lymphoma, including patients with high-risk genetic lesions.",0,1,Haber
+Increase opportunity of disease prevention can be obtained through better understanding of clinical presentation and risk factors important in the etiology of breast cancer.,0,1,Pubmed data.csv
+"Among middle-aged Korean men, obesity or severe weight gain was detrimental to CVD mortality. An increase in BMI appeared to have a predictive value for CVD mortality, especially when used in combination with baseline BMI level. In contrast, moderate weight gain in non-obese men seemed to protect against non-CVD and all-cause mortality.",0,1,Haber
+"Long-term exposure to residential environments with greater resources to support physical activity and, to a lesser extent, healthy diets was associated with a lower incidence of T2DM, although results varied by measurement method.",0,1,Haber
+Higher plasma bicarbonate levels were associated with lower odds of incident type 2 diabetes mellitus among women in the Nurses' Health Study.,0,1,Haber
+"Use of e-cigarettes by U.S. young adults, most of which is not  intended to help reduce smoking, is related to more rather than less frequent and  intensive cigarette smoking.",0,1,Haber
+Group 3\\xa0cm obtained a lower percentage of suboptimal results using EWL.,0,1,Pubmed data.csv
+This effect would be due primarily to the significantly lower amount of cooperation for subjects assigned to the low potential reward position.,0,1,Ssc
+Our results indicate that there is an association between low adult socioeconomic status and increased mortality independent of genetic endowment.,0,1,Haber
+Prospective studies of cardiovascular function from preconception to postpartum will provide more reliable estimates of the influence of cardiovascular maladaptation during pregnancy complications and  their effect on longer term cardiovascular function.,0,1,Pubmed data.csv
+"This study suggests that being underweight, rather than overweight or obesity, is associated with a lower rate of Pap test use in U.S. Asian women.",0,1,Haber
+Our results show a 2% upgrade rate to malignancy of pure FEA lesions.,0,1,Pubmed data.csv
+This was the first study to quantify UI levels in Cyprus.,0,1,Pubmed data.csv
+"""This study contributes important information regarding the safety of balneotherapy in hypertensive and obese diabetics by showing no alterations of antioxidant, inflammatory, or metabolic indices.""",0,1,Pubmed data.csv
+Lung cancer set to overtake breast cancer as the main cause of cancer deaths among European women,0,1,Press_Release
+"A linear regression with random effects with RT as the dependent variable shows a marginally significant effect of SVO (B ¼ À0.58, 95% CI [À1.27 to 0.11], P value ¼ 0.1), and a significant effect of trial number (B ¼ À0.01, 95% CI [À0.011 to À0.0091], P value < 0.001, Wald v 2 ¼ 413.20).",0,1,Ssc
+"Champion swimmer turned top box - office draw in 40s and 50s Esther Williams , the swimming champion turned actress who starred in glittering and aquatic Technicolour musicals of the 1940s and 1950s , has died .",0,1,esl2
+"An Upjohn spokesman said he had "" heard nothing "" to suggest the early retirement package was spurred by shareholder pressure or a potential bidder for the company, which occasionally has been the target of takeover speculation.",0,1,ctb
+"The 26 - year troubled starlet narrowly avoided jail time by checking into a second rehab center following her quick exit from Morningside Recovery in Newport Beach , Calif . on Thursday , May 2 . A source tells The Associated Press that the Liz & Dick star is now receiving treatment at the Betty Ford Center in Rancho Mirage , Calif . where she has spent time before .",0,1,esl2
+"Unconditional contribution impacts negatively the probability of being leader, but this result is not robust and is significant only at the 10 % level. 14",0,1,Ssc
+Protection from UFs by T2D exposure was observed regardless of medication type with slightly more protection among insulin users.,0,1,Pubmed data.csv
+"Most importantly , the increase in BOLD activity in these regions was independent of the motor system that the participants used to express their decision .",0,1,semeval
+"The Stockholm and Helsinki CT scores provide more information on the damage sustained,
+and give a more accurate outcome prediction, than earlier classification systems",0,1,Haber
+"Among Medicare beneficiaries with acute Ml, the use of PCI was lower for
+patients treated in 3 states with public reporting of PCI outcomes compared with patients treated in
+7 regional control states without public reporting.",0,1,Haber
+"In patients with serious coronary heart disease  treated with clopidogrel, concurrent PPI use was associated with reduced incidence  of hospitalizations for gastroduodenal bleeding",0,1,Haber
+"Combining these, the relative risk associated with treatment adjusted for timing relative to histology was 0.91 (0.66 to 1.26) corresponding to an absolute difference of −0.25 (−2.61 to 2.11) per 100 singleton births.",0,1,Haber
+More than half of fall patients had an adverse event within 6 months  of presenting to the ED after a fall.,0,1,Pubmed data.csv
+A 1-cent increase in social spending per dollar spent on health was associated with a 0.1% (95% confidence interval [CI] 0.04% to 0.16%) decrease in potentially avoidable mortality and a 0.01% (95% CI 0.01% to 0.02%) increase in life expectancy.,0,1,Haber
+Plasma levels of PTX3 could help distinguish active from inactive Takayasu arteritis but should not be adopted for clinical use until the findings are confirmed in a broader spectrum of patients whose disease activity is unknown or equivocal before testing.,0,1,Haber
+Our study suggests that active asthma and poor asthma control are associated with moderately increased risk of AMI.,0,1,Haber
+Two key challenges to the health industry arise from this evidence.,0,1,Pubmed data.csv
+There is an association between use of antipsychotic drugs and risk of venous  thromboembolism in a large primary care population.,0,1,Haber
+"During the early and moderate stages , modifications to the living environment and lifestyle can increase patient safety and reduce caretaker burden .",0,1,altlex
+"Among community-dwelling decedents of the Health and Retirement Study, there
+was an independent association between obesity and reduced hospice service utilization, and inhome death, and higher Medicare expenditures in the last six months of life.",0,1,Haber
+Consumption of non–cow’s milk beverages was associated with decreased serum 25-hydroxyvitamin D levels in early childhood,0,1,Haber
+"In general, cancer mortality was lower and mortality from cardiovascular disease was higher in immigrants who resided in the preferred destination area than in their countries of origin and than in immigrants who resided in the rest of Spain.",0,1,Haber
+"Fourth, cooperation and trust are not related to affiliation tendencies, but strongly related to betrayal aversion.",0,1,Ssc
+"Choking is a leading cause of injury among children, especially for children 4 years of age and younger.",0,1,Press_Release
+"macrolide
+antibiotics were not associated with a higher
+30-day risk of ventricular arrhythmia than
+nonmacrolide antibiotics",0,1,Haber
+Shin splints are caused by the muscles on the front and sides of the leg .,0,1,semeval
+This study describes obesogenic aspects of the child-care environment and identifies areas for improvement.,0,1,Pubmed data.csv
+The present results indicate that the failure might not be due to an unrepresentativeness of game situations to typical interpersonal interactions.,0,1,Ssc
+"Surgery after radiation chemotherapy is an effective local treatment , which is able to significantly increase local tumor control compared to radiation chemotherapy only .",0,1,semeval
+The offensive in North Africa was highly successful and by early February 1941 Italy had lost control of eastern Libya and large numbers of Italian troops had been taken prisoner .,0,1,altlex
+Reducing hospital admissions for asthmatics,0,1,Press_Release
+"Children conceived by medically assisted reproduction face an elevated risk of adverse birth outcomes. However, our results indicate that this increased risk is largely attributable to factors other than the medically assisted reproduction treatment itself.",0,1,Haber
+"Overall, DXA testing was not associated with a decrease in fractures; conclusions are limited by unmeasured confounders and low medication initiation and adherence in those meeting treatment thresholds (12% of follow-up time).",0,1,Haber
+Patients receiving hemodialysis and those with chronic kidney disease had a significantly higher incidence of ulcer bleeding than controls had (p < 0.001).,0,1,Haber
+"Texas Lifer Escapes Prison Van Near Houston Arcade Joseph Comeaux Jr . , 49 , ran away on foot with the guards' guns and wearing one of their gray correctional officer uniforms , the statement from the Texas Department of Criminal Justice said .",0,1,esl2
+"Gout was associated  with higher risk of venous thromboembolism, particularly when the patient was not in  hospital and regardless of exposure to urate-lowering therapy.",0,1,Haber
+"""Stressing the use of modified criteria more universally to classify obesity among South Asian Indians may be optimal to identify obesity  and help appropriately risk stratify for intervention to prevent chronic diseases.""",0,1,Pubmed data.csv
+Treatment of hyperlipidemia with medication though surprisingly common  could improve.,0,1,Pubmed data.csv
+Our study did not provide strong evidence of observational or genetic associations between milk intake and all-cause or cause-specific mortality.,0,1,Haber
+Low blood pressure was independently associated with depressive symptoms in both older subjects who were treated for hypertension and those who were not.,0,1,Haber
+"After the drug leaves the brain , the user may experience a ""coke crash"" that causes the user to feel depressed and irritable",0,1,semeval
+"Meningioma, the most common primary brain tumor in the United States, accounts for about 33 percent of all primary brain tumors.",0,1,Press_Release
+It is the way of deliverance from vicious cycles of anger and insult .,0,1,semeval
+"The risk of hypertension associated with a combination of low birth weight at term and unhealthy lifestyle factors (RR, 1.95; 95 % CI, 1.83–2.07) was more than the addition of the risk associated with each individual factor, indicating a significant interaction on an additive scale (P interaction <0.001).",0,1,Haber
+Patients with both pelvic and acetabular fractures that require surgical treatment should be counseled that their risk for infection may be higher.,0,1,Pubmed data.csv
+"The risk of dengue was higher in rural than in urban areas, largely explained by lack of piped water supply, and in human population densities more often falling within the critical range.",0,1,Haber
+The risk of MI in women is associated with DNA methylation marks at specific loci previously shown to be sensitive to prenatal conditions.,0,1,Haber
+Devices like that led to the company being converted to a producer of strategic materials for the Axis powers during World War II .,0,1,semeval
+Imposition of the MOC requirement was not associated with a difference in the increase in ACSHs but was associated with a small reduction in the growth differences of costs for a cohort of Medicare beneficiaries.,0,1,Haber
+"Our results indicate that there is an association between low adult socioeconomic
+status and increased mortality independent of genetic endowment.",0,1,Haber
+"These findings pose the question: Why has not the nutritional status of children improved, although the living conditions of their  families have significantly improved?",0,1,Pubmed data.csv
+""" The obesity paradox does exist in patients undergoing vascular surgery.",0,1,Pubmed data.csv
+"Among women consuming a usual diet, physical activity was associated with less weight gain only among women whose BMI was lower than 25.",0,1,Haber
+"More than 2 out of 3
+patients who had hip fracture surgery
+were women; however, women were
+less likely to receive perioperative geriatric
+care and anesthesia consultations.",0,1,Haber
+"A number of papers have emanated from this laboratory on the chemistry of dl-pinonic acid(I , ) and dl-pinolic acid(II . A) .",0,1,semeval
+The inspiration came from a temp job he once had that involved alphabetizing purchase orders and a job he had as an engineer for three months .,0,1,semeval
+"A  new finding was the independent relationship in plasma between low provitamin A  carotenoids and high MMP-9, suggesting a link between these carotenoids, matrix  turnover and arterial remodelling.",0,1,Haber
+Flapping with his wings the duckling quacked for joy .,0,1,semeval
+"Lymph node dissection,  the current standard surgical treatment for localized non-small cell lung cancers, may be unnecessary in certain screen-detected early stage cases , according to a study published in the March issue of the Journal of Thoracic Oncology (JTO), the official journal of the International Association for the Study of Lung Cancer.",0,1,Press_Release
+Absence of a correlate does  not obviate the need to biopsy suspicious non-mass enhancement.,0,1,Pubmed data.csv
+This system proved to be effective during the earthquake; only one large painting fell from an interior wall which apparently took an unusually strong jolt .,0,1,semeval
+"Researchers found that from 1991 to 2010, an estimated 45,398 children younger than three years of age were treated in U.S. emergency departments for injuries related to the use of these products.",0,1,Press_Release
+These results may aid current strategies for preventing and controlling pediatric hypertension.,0,1,Pubmed data.csv
+"The German Government led by Adolf Hitler and the Nazi Party was responsible for the Holocaust , the killing of approximately 6 million Jews , as well as 2.7 million ethnic Poles , and 4 million others who were deemed `` unworthy of life '' ( including the disabled and mentally ill , Soviet prisoners of war , homosexuals , Freemasons , Jehovah 's Witnesses , and Romani ) as part of a programme of deliberate extermination .",0,1,altlex
+It was a significant environmental hazard in the copper smelting process when the emissions were released into the atmosphere .,0,1,semeval
+"English North-South differences in smoking can be explained through  adverse, cross-sectional SEP.",0,1,Pubmed data.csv
+"In this study, we found that remission of T2D after bariatric surgery was inversely associated with duration of diabetes and was highest among patients with recent onset and those without insulin treatment",0,1,Haber
+"After controlling for such factors, GWG was generally unassociated with child development.",0,1,Haber
+The drill enables the dentist to accomplish these procedures quickly and reduces the trauma to oral tissues .,0,1,semeval
+"Regression analyses showed that realistically pessimistic
+(vs. unrealistically optimistic) expectations predicted significantly fewer depressive symptoms and a lower risk of death",0,1,Haber
+The tourist Island of Qeshm on the Persian Gulf and seven of its villages were most strongly affected by the quake .,0,1,esl2
+Panic attacks linked to heart disease and heart attacks .,0,1,semeval
+"Among inpatients with AMI, the lowest mortality was observed in those
+with postadmission serum potassium levels between 3.5 and 4.5 mEq/L compared
+with those who had higher or lower potassium levels.",0,1,Haber
+"Using Campbell's (1958) concept of `entitativity', they also assume that the competitive discontinuity between individuals and groups is greater the more members Discontinuity or reciprocity?",0,1,Ssc
+High-normal TSH (3.0 mIU/L) and lower TSH (<0.5 mIU/L) levels were associated with higher death risk,0,1,Haber
+First Nations and Inuit infants had substantially elevated burdens of hospitalizations as a result of diseases of multiple systems.,0,1,Haber
+"However, training and experience of nurses in aromatherapy massage is critical to achieving positive results.",0,1,Pubmed data.csv
+"Despite treatment advances, stroke is still a leading cause of death and disability, with older age and impaired intellectual capacity (cognitive function) before a stroke associated with higher risks of death and disability afterwards.",0,1,Press_Release
