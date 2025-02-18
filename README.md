@@ -2,10 +2,14 @@
 
 By identifying causal implications within research papers, this tool enhances understanding and analysis of scientific writing for causal inference. The fine-tuned models classify whether a sentence is **causal or non-causal** and further classify causal sentences into **correlational, conditional causal, or direct causal** categories.  
 
-Labels:
-Non-causal 0 Causal 1
+###Label mapping
 
-Correlational 1 conditional causal 2 direct causal 3
+Non-causal 0 
+Causal 1
+
+Correlational 1 
+conditional causal 2 
+direct causal 3
 
 ## 📁 Project Structure  
 
